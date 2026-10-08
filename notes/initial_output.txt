@@ -1,0 +1,253 @@
+
+=== Columns and types ===
+column_name column_type null  key default extra
+      brand     VARCHAR  YES None    None  None
+description     VARCHAR  YES None    None  None
+  price_usd      BIGINT  YES None    None  None
+       type     VARCHAR  YES None    None  None
+
+=== Row count ===
+ rows
+23161
+
+=== Missing values ===
+ missing_brand  missing_description  missing_price  missing_type
+             0                    0              0             0
+
+=== Every product type ===
+       type     n  median_price
+   clothing 16575         695.0
+      shoes  3203         890.0
+        bag  1961        1850.0
+accessories  1422         485.0
+
+=== Brand coverage ===
+ brands  brands_above_min  products_in_those_brands
+    490             280.0                   21048.0
+
+=== Top 30 brands ===
+              brand   n  median_price
+      SAINT LAURENT 796        1590.0
+              GUCCI 708        1500.0
+            THE ROW 462        1490.0
+ VALENTINO GARAVANI 430        2200.0
+     BOTTEGA VENETA 413        2400.0
+         BALENCIAGA 371        1550.0
+              ALAÏA 338        2130.0
+         LORO PIANA 329        2175.0
+              LOEWE 328        1150.0
+  ALEXANDER MCQUEEN 301        2190.0
+              SKIMS 296          36.0
+CHRISTIAN LOUBOUTIN 286         990.0
+      ISABEL MARANT 274         935.0
+           BURBERRY 246        1350.0
+               ERES 238         388.0
+             KHAITE 238        1365.0
+              CHLOÉ 231        1690.0
+         ZIMMERMANN 230         695.0
+             TOTEME 215         480.0
+   STELLA MCCARTNEY 192        1190.0
+ BRUNELLO CUCINELLI 180        2295.0
+    DRIES VAN NOTEN 177         945.0
+     GIANVITO ROSSI 171         950.0
+       NORMA KAMALI 154         188.0
+    DOLCE & GABBANA 153        1995.0
+       ULLA JOHNSON 151         490.0
+              FRAME 151         290.0
+            VERSACE 148        1350.0
+              PUCCI 148         910.0
+       ACNE STUDIOS 144         550.0
+
+=== Target brands (edit the list) ===
+                  brand   n  median_price
+         BOTTEGA VENETA 413        2400.0
+             LORO PIANA 329        2175.0
+      POLO RALPH LAUREN  75         400.0
+RALPH LAUREN COLLECTION  61        2490.0
+ BOTTEGA VENETA EYEWEAR  23         485.0
+           RALPH LAUREN   9        2446.0
+
+=== 50 most expensive ===
+             brand                                                              description     type  price_usd
+VALENTINO GARAVANI                                    Paillette-embellished mesh maxi skirt clothing      21000
+VALENTINO GARAVANI                                    Open-back pleated duchesse-satin gown clothing      21000
+VALENTINO GARAVANI                               Off-the-shoulder pleated silk-chiffon gown clothing      21000
+VALENTINO GARAVANI                                                Sequined tulle maxi skirt clothing      21000
+VALENTINO GARAVANI                                Feather-trimmed sequined satin midi skirt clothing      19000
+BRUNELLO CUCINELLI                                         Reversible belted shearling coat clothing      16500
+VALENTINO GARAVANI                    Strapless bow-detailed wool and silk-blend crepe gown clothing      16000
+           VERSACE                         Medusa embellished tulle and duchesse satin gown clothing      14625
+   GABRIELA HEARST                              Fontana double-breasted leather trench coat clothing      14000
+             ERDEM                          Embellished embroidered cotton-tulle midi dress clothing      13925
+VALENTINO GARAVANI                        Belted embellished wool and silk-blend midi dress clothing      13900
+VALENTINO GARAVANI                                    Embellished sequined tulle midi skirt clothing      13900
+VALENTINO GARAVANI                   Embellished pleated strapless wool and silk-blend gown clothing      13500
+           THE ROW                                             Febo oversized cashmere coat clothing      12900
+VALENTINO GARAVANI                                                Open-back silk-crepe gown clothing      12500
+VALENTINO GARAVANI                                            Embellished silk-chiffon gown clothing      12500
+VALENTINO GARAVANI                               Bead-embellished sequined tulle mini dress clothing      12500
+VALENTINO GARAVANI Feather-trimmed embellished leopard-print wool and silk-blend mini dress clothing      12000
+VALENTINO GARAVANI                                               Draped open-back silk gown clothing      12000
+     SAINT LAURENT                                               Belted leather trench coat clothing      12000
+            KHAITE                                          Rennie belted suede trench coat clothing      12000
+VALENTINO GARAVANI                                Feather-trimmed sequined satin mini dress clothing      11500
+           THE ROW                                       Notte scarf-detailed cashmere coat clothing      11500
+VALENTINO GARAVANI                           Oversized embellished printed silk-faille gown clothing      11500
+        LORO PIANA                    Leather and quilted cashmere-trimmed shearling jacket clothing      11200
+VALENTINO GARAVANI                             Tie-detailed printed crepe de chine jumpsuit clothing      11000
+VALENTINO GARAVANI                           Oversized striped wool and cashmere-blend coat clothing      11000
+VALENTINO GARAVANI                                     Cape-effect silk crepe de chine gown clothing      11000
+VALENTINO GARAVANI                                       One-sleeve two-tone silk-cady gown clothing      11000
+VALENTINO GARAVANI                       Cape-effect pleated silk crepe de chine midi dress clothing      11000
+VALENTINO GARAVANI                                                   Draped silk-crepe gown clothing      11000
+VALENTINO GARAVANI                                       Off-the-shoulder silk-taffeta gown clothing      11000
+BRUNELLO CUCINELLI                                         Reversible faux shearling jacket clothing      10995
+        LORO PIANA               Maikel quilted cashmere and leather-trimmed shearling vest clothing      10825
+          MAX MARA                                         Talamo reversible shearling coat clothing      10600
+        LORO PIANA                    Double-breasted reversible shearling and leather coat clothing      10550
+    BOTTEGA VENETA                                             Cabat intrecciato suede tote      bag      10500
+VALENTINO GARAVANI                                Feather-trimmed sequined tulle mini dress clothing      10500
+VALENTINO GARAVANI                                                 Open-back silk-cady gown clothing      10500
+VALENTINO GARAVANI                                Strapless draped cotton-blend faille gown clothing      10500
+        LORO PIANA               Langston belted cashmere and silk-blend bouclé-tweed  coat clothing      10125
+BRUNELLO CUCINELLI                                                    Sequined satin blazer clothing       9995
+BRUNELLO CUCINELLI                                                           Shearling vest clothing       9995
+ OSCAR DE LA RENTA                                             Sequin-embellished cady gown clothing       9990
+  DANIELLE FRANKEL                        Scarlet lace-trimmed pleated satin and tulle gown clothing       9990
+  DANIELLE FRANKEL                           Guinevere shirred grosgrain-trimmed tulle gown clothing       9990
+VALENTINO GARAVANI                                                    Silk-crepe shirt gown clothing       9900
+    BOTTEGA VENETA                                   Tosca intrecciato leather shoulder bag      bag       9900
+    BOTTEGA VENETA                                                Intrecciato leather skirt clothing       9900
+VALENTINO GARAVANI                                             Gathered silk-crepe jumpsuit clothing       9800
+
+=== 50 cheapest ===
+        brand                                                      description        type  price_usd
+        SKIMS                               Fits Everybody Cheeky Brief - Clay    clothing         18
+        SKIMS                               Fits Everybody Lace Thong - Bronze    clothing         18
+        SKIMS                             Fits Everybody Cheeky Brief - Sienna    clothing         18
+        SKIMS                                      Fits Everybody thong - Navy    clothing         18
+        SKIMS            Cotton-Blend Jersey Dipped Thong - Light Heather Grey    clothing         18
+        SKIMS                                    Fits Everybody Thong - Sienna    clothing         18
+        SKIMS                                      Fits Everybody Thong - Onyx    clothing         18
+        SKIMS                                      Fits Everybody Thong - Clay    clothing         18
+        SKIMS               Fits Everybody lace-trimmed stretch thong - Marble    clothing         18
+        SKIMS                              Fits Everybody cheeky briefs - Mica    clothing         18
+        SKIMS                              Fits Everybody cheeky briefs - Onyx    clothing         18
+        SKIMS                                     Fits Everybody thong - Oxide    clothing         18
+        SKIMS                                      Fits Everybody thong - Sand    clothing         18
+        SKIMS                                      Fits Everybody thong - Mica    clothing         18
+        SKIMS                             Fits Everybody cheeky briefs - Cielo    clothing         18
+        SKIMS                             Fits Everybody cheeky briefs - Oxide    clothing         18
+        SKIMS                              Fits Everybody Cheeky Brief - Cocoa    clothing         18
+        SKIMS                 Fits Everybody lace-trimmed stretch thong - Onyx    clothing         18
+        SKIMS                                     Fits Everybody thong - Umber    clothing         18
+        SKIMS         Cotton Collection cotton-blend jersey thong - Sugar Pink    clothing         18
+        SKIMS                             Fits Everybody cheeky briefs - Ochre    clothing         18
+        SKIMS                                     Fits Everybody Thong - Cocoa    clothing         18
+        SKIMS                             Fits Everybody cheeky briefs - Umber    clothing         18
+        SKIMS                                     Fits Everybody thong - Ochre    clothing         18
+        SKIMS                                 Fits Everybody thong - Neon Pink    clothing         18
+        SKIMS                               Fits Everybody Cheeky Brief - Sand    clothing         18
+        SKIMS                         Fits Everybody High Waisted thong - Clay    clothing         20
+        SKIMS        Cotton Collection ribbed cotton-blend jersey thong - Bone    clothing         20
+        SKIMS                         Fits Everybody High Waisted Thong - Onyx    clothing         20
+        SKIMS                         Fits Everybody High Waisted thong - Mica    clothing         20
+SPORTY & RICH        + Lacoste appliquéd striped cotton-blend terry wristbands accessories         20
+        SKIMS                           Fits Everybody Cheeky briefs - Fuchsia    clothing         20
+        SKIMS                       Fits Everybody High Waisted thong - Sienna    clothing         20
+        SKIMS        Cotton Collection ribbed cotton-blend jersey thong - Soot    clothing         20
+        SKIMS                         Fits Everybody High Waisted thong - Sand    clothing         20
+        SKIMS                        Fits Everybody High Waisted thong - Ochre    clothing         20
+        SKIMS            Fits Everybody lace-trimmed stretch thong - Neon Rose    clothing         20
+        SKIMS                        Fits Everybody High Waisted Thong - Oxide    clothing         20
+        SKIMS Fits Everybody Cheeky Tanga lace-trimmed stretch briefs - Marble    clothing         20
+        SKIMS                        Fits Everybody High Waisted thong - Umber    clothing         20
+        SKIMS                         Fits Everybody cheeky briefs - Neon Pink    clothing         20
+        SKIMS                                 Fits Everybody boy shorts - Sand    clothing         22
+        SKIMS                              Cotton-Blend Jersey Boyshort - Bone    clothing         22
+        SKIMS                                Fits Everybody boy shorts - Umber    clothing         22
+        SKIMS                                   Fits Everybody Boyshort - Onyx    clothing         22
+        SKIMS                                Fits Everybody boy shorts - Ochre    clothing         22
+        SKIMS                                 Fits Everybody boy shorts - Mica    clothing         22
+        SKIMS                          Stretch-cotton jersey boy shorts - Pink    clothing         22
+        SKIMS                                 Fits Everybody boy shorts - Clay    clothing         22
+        SKIMS                          Stretch-cotton jersey boy shorts - Soot    clothing         22
+
+=== Repeated brand + description ===
+ repeated_groups  rows_involved  groups_with_same_price
+             854         1906.0                    20.0
+
+=== Most repeated examples ===
+         brand                                                      description  n  min_price  max_price
+ SAINT LAURENT                       Monogramme quilted textured-leather wallet  8        445        895
+         PUCCI                                         Printed silk-twill scarf  6        145        500
+BOTTEGA VENETA                                       Intrecciato leather wallet  5        720       2500
+  PACO RABANNE                                      1969 chainmail shoulder bag  5       1003       1590
+    LORO PIANA                                                 Cashmere sweater  5       1100       2825
+    BALENCIAGA                                    Printed cotton-jersey T-shirt  5        615        895
+          ERES                               Les Essentiels Malou bikini briefs  5        150        205
+          NIKE                                 Air Force 1 '07 leather sneakers  5        110        145
+BOTTEGA VENETA                          Cassette intrecciato leather cardholder  5        390       1250
+ SAINT LAURENT                        Monogramme quilted textured-leather pouch  5        525        795
+         GUCCI Horsebit 1955 leather-trimmed printed coated-canvas shoulder bag  5       1100       3200
+          ERES                              Les Essentiels Fripon bikini briefs  5        162        225
+         GUCCI                                                     Leather belt  5        340        520
+       EBERJEY                                  Gisele stretch-modal pajama set  4        118        148
+CELINE EYEWEAR                                  Square-frame acetate sunglasses  4        420        520
+
+=== Collaborations (names starting with '+') ===
+ collab_products  pct_of_all
+            2595        11.2
+
+=== 50 random product names ===
+             brand                                                               description        type  price_usd
+ ALEXANDER MCQUEEN                                                  Draped silk-chiffon gown    clothing       4500
+         OFF-WHITE                                     Printed wool-crepe straight-leg pants    clothing       1255
+      MAGDA BUTRYM                                            Appliquéd ruched bikini briefs    clothing        515
+  STELLA MCCARTNEY           + NET SUSTAIN oversized double-breasted wool-blend twill blazer    clothing       1690
+JEAN PAUL GAULTIER                              Lace-up topstitched denim bustier mini dress    clothing       1185
+             LOEWE                                              Leather-trimmed denim jacket    clothing       1550
+          MAX MARA                      Leather-trimmed alpaca, cashmere and silk-blend vest    clothing       2090
+      ROGER VIVIER                               Belle Vivier Trompette patent-leather pumps       shoes        890
+     RIVET UTILITY               + NET SUSTAIN Showstopper strapless sequined tulle jumpsuit    clothing        425
+          BURBERRY                      Vintage Check cotton-blend bouclé tweed shoulder bag         bag       2250
+            MÉTIER                                             Stowaway leather shoulder bag         bag       1650
+            PURDEY             Belted leather-trimmed wool and cashmere-blend cape and scarf    clothing       4120
+             STAUD                      Delphine cutout embellished stretch-ponte maxi dress    clothing        495
+              ETRO                             Printed pleated cotton-blend twill mini skirt    clothing       1100
+              MENG                                       Belted floral-print silk-satin robe    clothing       1090
+     ISABEL MARANT                                    Yenky small leather-trimmed suede tote         bag        890
+        ANINE BING                                  Double-breasted herringbone woven blazer    clothing        450
+         ALTUZARRA                              Corinth off-the-shoulder leather wrap jacket    clothing       2995
+       SUZIE KONDI                                            The Lyra crocheted cotton tank    clothing        495
+             ARCH4                           + NET SUSTAIN Edith cashmere turtleneck sweater    clothing        880
+              ERES                Samba Mucho eyelet-embellished striped triangle bikini top    clothing        445
+             GANNI                                     Quilted glossed recycled-shell jacket    clothing        445
+        TORY BURCH                                                            Wool-felt coat    clothing       1300
+    NINETY PERCENT                          + NET SUSTAIN Drew organic cotton-jersey T-shirt    clothing         50
+       COCO DE MER              Athena satin-trimmed embroidered tulle soft-cup triangle bra    clothing        159
+             SACAI                        Layered cotton-jersey and pleated satin midi dress    clothing        890
+       MACH & MACH                       Le Cadeau crystal-embellished satin slingback pumps       shoes        945
+         AQUAZZURA                                          Talita 50 velvet slingback pumps       shoes        795
+            KHAITE                                                      Imogen woven T-shirt    clothing        480
+            ALLUDE                                         Cable-knit cashmere-blend sweater    clothing        575
+          MAX MARA                                           Corona canvas-trimmed straw hat accessories        375
+           MARYSIA + NET SUSTAIN Antibes scalloped stretch recycled-seersucker bikini briefs    clothing        148
+     JENNIFER BEHR                           Margaret faux pearl-embellished velvet headband accessories        325
+ANN DEMEULEMEESTER                                      Jotie asymmetric cotton-poplin shirt    clothing       1055
+VALENTINO GARAVANI                                               Rockstud 60 leather sandals       shoes       1100
+         ERIN SNOW                         + NET SUSTAIN Kris striped bootcut ski salopettes    clothing        698
+     SAINT LAURENT                                          Embroidered cotton-jersey hoodie    clothing       1250
+             PATBO                             Ocean Leaf embellished gathered bikini briefs    clothing        225
+         JACQUEMUS             Le Petit Bambidou Doux shearling-trimmed leather shoulder bag         bag       1345
+  STELLA MCCARTNEY                     + NET SUSTAIN open-back crystal-embellished cady gown    clothing       5500
+    VERONICA BEARD                  Clover floral-print silk-blend crepe de chine midi skirt    clothing        400
+        TOLU COKER                         + The Vanguard cropped lace-up cotton-blend shirt    clothing        585
+         CULT GAIA                                    Zoey embellished halterneck bikini top    clothing        178
+            TOTEME                                                  Contour ribbed-knit tank    clothing        420
+JEAN PAUL GAULTIER                                      Ruched floral-print tulle midi dress    clothing        496
+   BOGNER FIRE+ICE                                      Naima padded quilted hooded ski vest    clothing        420
+           PARAVEL   + NET SUSTAIN Main Line Duffel vegan leather-trimmed canvas weekend bag         bag        285
+              VEJA                                       V-10 suede-trimmed leather sneakers       shoes        195
+  PROENZA SCHOULER                                              Bronco leather Chelsea boots       shoes        895
+        DAVID KOMA                               Feather-trimmed sequined chiffon mini dress    clothing       2595
