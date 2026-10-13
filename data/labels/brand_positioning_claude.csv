@@ -1,0 +1,139 @@
+brand_id,brand_name,parent_brand,n_products,positioning_group,rationale
+5b338b0a2d,SAINT LAURENT,SAINT LAURENT,464,HL,"Kering-owned Paris maison; full luxury RTW, shoes and leather goods"
+36abc5a533,GUCCI,GUCCI,400,HL,Kering flagship Italian maison with logo-driven luxury RTW and accessories
+bdf83d253b,THE ROW,THE ROW,374,QL,Logo-free minimalism and top-tier fabrics at luxury prices
+6f232fb056,SKIMS,SKIMS,294,LE,Shapewear and underwear basics; no intimates code
+5ae400e2aa,VALENTINO GARAVANI,VALENTINO GARAVANI,289,HL,"Roman couture house; full RTW (dresses, gowns) alongside its shoes"
+87228f0801,ALAÏA,ALAÏA,274,HL,Richemont-owned Paris house known for sculpted knits and leather
+60d451d097,LORO PIANA,LORO PIANA,273,QL,LVMH cashmere and fabric specialist; the reference point for quiet luxury
+b00a66b5fe,BALENCIAGA,BALENCIAGA,232,HL,"Kering maison with conceptual, trend-setting runway pieces"
+6489789e00,ALEXANDER MCQUEEN,ALEXANDER MCQUEEN,227,HL,Kering-owned London house with dramatic tailoring
+f4249c8626,ZIMMERMANN,ZIMMERMANN,226,FO,Romantic printed dresses are the core of the range
+eb34057198,CHRISTIAN LOUBOUTIN,CHRISTIAN LOUBOUTIN,222,FA,Red-sole luxury shoe specialist
+4f83a6a6d0,ERES,ERES,207,SW,"Luxury swim, with some resortwear and lingerie"
+73171a601b,BOTTEGA VENETA,BOTTEGA VENETA,205,HL,Kering leather-goods house with luxury RTW
+891bbfa085,KHAITE,KHAITE,204,QL,NY minimalist label with luxury pricing and understated design
+d9f6c30bbb,ISABEL MARANT,ISABEL MARANT,198,CD,Parisian designer label with a boho-rock signature
+25c6dc90de,DRIES VAN NOTEN,DRIES VAN NOTEN,167,CD,Antwerp designer known for prints and color
+1514852697,STELLA MCCARTNEY,STELLA MCCARTNEY,164,HL,Established luxury house built around sustainable materials
+590e3a01ad,TOTEME,TOTEME,164,QL,Stockholm minimalist uniform dressing at elevated prices
+18416738f1,GIANVITO ROSSI,GIANVITO ROSSI,162,FA,Italian luxury shoemaker
+d4e67b35ba,BURBERRY,BURBERRY,159,HL,British heritage house known for trench coats and check
+2cc3cdcddd,CHLOÉ,CHLOÉ,151,HL,Richemont-owned Paris house with feminine boho RTW
+21f5016fbe,LOEWE,LOEWE,149,HL,LVMH Spanish leather house with directional RTW
+587aea27cf,DOLCE & GABBANA,DOLCE & GABBANA,148,HL,Italian luxury house with maximalist Sicilian glamour
+1ab9e4c1eb,ULLA JOHNSON,ULLA JOHNSON,146,FO,Feminine printed and smocked dresses
+999ca5eaa4,BRUNELLO CUCINELLI,BRUNELLO CUCINELLI,143,QL,"Italian cashmere house; understated, very high-priced"
+c57e921596,FRAME,FRAME,141,DN,Denim-led label that expanded into contemporary RTW
+b400bcd955,NORMA KAMALI,NORMA KAMALI,141,CD,"NY designer known for jersey, swim and sculpted shapes"
+d02d99b835,NIKE,NIKE,130,SP,Global sportswear brand
+af77b239d9,AQUAZZURA,AQUAZZURA,123,FA,Florentine luxury shoe label
+5e4365a0ca,MISSONI,MISSONI,123,HL,Italian heritage house known for zigzag knits
+c45bfd1871,VERSACE,VERSACE,123,HL,"Italian luxury house with bold, glamorous design"
+0d98cec7ac,NILI LOTAN,NILI LOTAN,122,LE,"Elevated everyday pants, shirts and knits"
+9008084e60,PUCCI,PUCCI,119,HL,LVMH-owned Florentine house known for graphic prints
+58f188b1ed,MANOLO BLAHNIK,MANOLO BLAHNIK,115,FA,Iconic luxury shoe designer
+bb77818522,MARANT ÉTOILE,MARANT ÉTOILE,114,CD,Lower-priced diffusion line of Isabel Marant
+3926103efc,MAX MARA,MAX MARA,113,QL,"Italian house, but positioned on understated camel coats and tailoring"
+d7d110d1c1,GOLDEN GOOSE,GOLDEN GOOSE,112,FA,Range is almost entirely sneakers
+c1e69ee6e4,JIMMY CHOO,JIMMY CHOO,111,FA,London luxury shoe brand
+aae77e55cc,MONCLER,MONCLER,111,HL,Italian luxury outerwear house built on down jackets
+f4fc53a641,VERONICA BEARD,VERONICA BEARD,111,CD,NY contemporary label known for tailored jackets
+7386028d02,GANNI,GANNI,108,CD,"Copenhagen contemporary label with playful, trend-led pieces"
+b1722fc855,AGOLDE,AGOLDE,107,DN,LA premium denim label
+acde74d974,FAITHFULL THE BRAND,FAITHFULL THE BRAND,107,FO,Vacation and occasion dresses
+f1cd305888,ACNE STUDIOS,ACNE STUDIOS,104,CD,Stockholm designer label with a fashion-forward edge
+8dfe6de701,GABRIELA HEARST,GABRIELA HEARST,103,QL,Understated luxury with a sustainability focus
+312c4d3d17,MAGDA BUTRYM,MAGDA BUTRYM,102,FO,"Polish designer label of romantic, sculptural dresses"
+9256452965,PROENZA SCHOULER,PROENZA SCHOULER,100,CD,NY designer label
+b3df6edce3,FARM RIO,FARM RIO,96,FO,Bright printed dresses
+c48489b02d,DÔEN,DÔEN,95,FO,California contemporary label of vintage-inspired dresses
+25e1409b2b,FERRAGAMO,FERRAGAMO,95,HL,Florentine heritage house rooted in shoes and leather
+40fdee4985,LA DOUBLEJ,LA DOUBLEJ,94,FO,Milan label of vintage-inspired prints
+5d72ab8556,SELF-PORTRAIT,SELF-PORTRAIT,94,FO,London label of lace and occasion dresses at contemporary prices
+5f3cf06995,BALMAIN,BALMAIN,93,HL,"Paris house known for embellished, structured glamour"
+a019b0da02,STAUD,STAUD,92,CD,LA contemporary label with trend-driven pieces
+017ef937cc,SKIN,SKIN,91,LE,Organic cotton sleepwear and lounge basics
+2b96968b74,TOM FORD,TOM FORD,89,HL,"Luxury house of sleek, sexy glamour"
+d6b33f6dd9,ERDEM,ERDEM,87,FO,London designer known for florals and romantic dresses
+9843ba1225,OFF-WHITE,OFF-WHITE,85,CD,Luxury streetwear label
+46348cb4dc,LULULEMON,LULULEMON,84,SP,Yoga and athletic wear brand
+f5d30d7a3d,AGUA BY AGUA BENDITA,AGUA BY AGUA BENDITA,81,SW,Colombian resort and swimwear label
+9e09a18981,ETRO,ETRO,81,HL,Milan heritage house known for paisley
+4c3ab77cd4,JOSEPH,JOSEPH,80,QL,Minimal knits and tailoring with an understated feel
+11c19cf5c4,JACQUEMUS,JACQUEMUS,78,CD,"Paris designer label with a playful, sculptural style"
+a679dbbfdd,MATTEAU,MATTEAU,78,SW,Australian minimalist swim and resortwear
+bdb443525d,REFORMATION,REFORMATION,78,FO,Mostly feminine dresses; sustainability-focused
+321fef1f02,ALESSANDRA RICH,ALESSANDRA RICH,77,FO,"Designer label of glamorous, embellished occasionwear"
+2af9bca7df,LOVESHACKFANCY,LOVESHACKFANCY,76,FO,"Romantic, girly contemporary label"
+2cf3c238c3,GIVENCHY,GIVENCHY,75,HL,LVMH Paris couture house
+9abd3d9b98,SEA,SEA,75,FO,NY contemporary label of romantic prints
+65345ba7c7,SPORTY & RICH,SPORTY & RICH,74,SP,"Athleisure sweatshirts, shorts and tees"
+ba70e4c107,VINCE,VINCE,74,LE,American contemporary basics
+3db6d2a176,VICTORIA BECKHAM,VICTORIA BECKHAM,73,CD,London designer label of polished tailoring
+ed37098f1d,JOHANNA ORTIZ,JOHANNA ORTIZ,70,FO,Colombian designer of resort and occasion dresses
+17329374b8,RICK OWENS,RICK OWENS,70,CD,Avant-garde designer label
+b18f96cb4c,EMILIA WICKSTEAD,EMILIA WICKSTEAD,67,FO,"London designer of structured, ladylike dresses"
+fed8751e18,MONCLER GRENOBLE,MONCLER GRENOBLE,67,SP,Moncler’s technical ski line
+d270cabaab,ADIDAS BY STELLA MCCARTNEY,ADIDAS BY STELLA MCCARTNEY,66,SP,Performance sportswear collaboration line
+7a031279fc,JEAN PAUL GAULTIER,JEAN PAUL GAULTIER,66,HL,Paris couture house with provocative design
+609a20ca46,OSCAR DE LA RENTA,OSCAR DE LA RENTA,66,HL,American heritage house of eveningwear
+c762c6826f,POLO RALPH LAUREN,RALPH LAUREN,65,LE,Lifestyle basics line of Ralph Lauren
+c796331814,RAG & BONE,RAG & BONE,63,CD,Downtown designer casualwear
+e73c39292d,ANINE BING,ANINE BING,62,LE,"Cool-girl tees, denim and basics"
+4640a9e3b5,CITIZENS OF HUMANITY,CITIZENS OF HUMANITY,62,DN,LA premium denim label
+20d493cdd2,RALPH LAUREN COLLECTION,RALPH LAUREN,61,HL,Ralph Lauren’s top runway line
+fba45dbb76,ROGER VIVIER,ROGER VIVIER,61,FA,Paris luxury shoe house
+fcc70364a6,SIMKHAI,SIMKHAI,61,FO,NY contemporary label of occasion and knit pieces
+9ceeaaa9a0,16ARLINGTON,16ARLINGTON,60,FO,London designer label of feathered and embellished occasionwear
+fc3167b0c3,BOGNER,BOGNER,60,SP,German skiwear brand
+7753d32c72,LOULOU STUDIO,LOULOU STUDIO,60,QL,"Minimalist knits and coats, understated"
+317f8f8f39,WARDROBE.NYC,WARDROBE.NYC,60,QL,Minimalist capsule-wardrobe label at luxury prices
+bbcc38c7bc,RIXO,RIXO,59,FO,London contemporary label of printed vintage-style dresses
+f7bf21904b,SPANX,SPANX,59,LE,Shapewear basics; no intimates code
+94004c342f,GOOD AMERICAN,GOOD AMERICAN,57,DN,Size-inclusive denim label
+4bf6502eb5,JAMES PERSE,JAMES PERSE,57,LE,LA label of premium basics
+ce64dbffe7,MOTHER,MOTHER,57,DN,LA premium denim label
+90651ebea9,ON,ON,57,SP,Swiss running and performance brand
+a4b0248abb,THE ATTICO,THE ATTICO,56,CD,Directional party and statement pieces
+36f97a8bc1,SACAI,SACAI,55,CD,"Tokyo designer label of hybrid, deconstructed garments"
+ee852a4a66,TIBI,TIBI,55,CD,NY contemporary label of minimalist pieces
+583ee49325,CULT GAIA,CULT GAIA,54,FO,LA contemporary label of resort and sculptural pieces
+f1cc80538a,FORTELA,FORTELA,54,CD,Vintage-inspired designer casualwear (less familiar to me)
+ee0e886e6a,LESET,LESET,54,LE,Loungewear and knit basics
+4df56e9fa9,EBERJEY,EBERJEY,53,LE,Sleepwear and lingerie basics; no intimates code
+796aff92a9,ALTUZARRA,ALTUZARRA,52,CD,Paris-trained NY designer label
+c78df9e027,ARCH4,ARCH4,52,QL,Range is mostly cashmere knitwear
+8591cb08d7,MUGLER,MUGLER,52,HL,"Paris house of sculpted, body-con glamour"
+487095d92d,PROENZA SCHOULER WHITE LABEL,PROENZA SCHOULER WHITE LABEL,52,LE,Lower-priced everyday line of Proenza Schouler
+367456f4be,SOLACE LONDON,SOLACE LONDON,52,FO,London label of minimalist occasionwear
+4ee27e219a,ADIDAS ORIGINALS,ADIDAS ORIGINALS,51,SP,adidas lifestyle and retro sportswear line
+6d581042f2,LISA MARIE FERNANDEZ,LISA MARIE FERNANDEZ,51,SW,Luxury swim and resortwear label
+4410e4f803,LISA YANG,LISA YANG,51,QL,Stockholm cashmere label with understated design
+53cbfefc68,OSÉREE,OSÉREE,51,SW,Italian swimwear label known for sparkly suits
+85db7b67cb,RE/DONE,RE/DONE,51,DN,LA label reworking vintage denim
+42fd812c27,SALONI,SALONI,51,FO,London label of printed dresses
+be8ec4cc5b,VARLEY,VARLEY,51,SP,London athleisure label
+c88a29ac8e,ALICE + OLIVIA,ALICE + OLIVIA,50,FO,"NY contemporary label of bold, feminine pieces"
+741507042c,MELISSA ODABASH,MELISSA ODABASH,50,SW,Luxury swimwear and kaftan label
+1606658d84,BERNADETTE,BERNADETTE,49,FO,Antwerp designer label of printed dresses
+a8d546867c,PAIGE,PAIGE,49,DN,LA premium denim label
+eacaf0a357,THE FRANKIE SHOP,THE FRANKIE SHOP,49,CD,Trend-driven minimalist contemporary label
+c0f689eb7f,TOD'S,TOD'S,49,FA,Range is mostly loafers and boots
+81579f1fa7,AEYDE,AEYDE,48,FA,Berlin label of minimalist shoes at accessible-luxury prices
+0cde757f8d,CHRISTOPHER ESBER,CHRISTOPHER ESBER,48,CD,Australian designer known for cutouts
+1e41ef63f0,FLEUR DU MAL,FLEUR DU MAL,48,LE,"Lingerie; no intimates code, so filed under everyday basics"
+ad043b2eef,L'AGENCE,L'AGENCE,48,CD,LA contemporary label of denim and blouses
+debf513ba7,ROTATE BIRGER CHRISTENSEN,ROTATE BIRGER CHRISTENSEN,48,FO,Copenhagen party-dress label
+37b075fd7f,TALLER MARMO,TALLER MARMO,48,FO,Designer label of resort kaftans and eveningwear
+d628827564,COMMANDO,COMMANDO,47,LE,Seamless underwear basics; no intimates code
+3167d34e3f,ALEXANDER WANG,ALEXANDER WANG,46,CD,NY designer label with a downtown edge
+0f51c59b49,DIANE VON FURSTENBERG,DIANE VON FURSTENBERG,46,FO,NY label known for the wrap dress
+ab46ec49c7,LE KASHA,LE KASHA,46,QL,French cashmere specialist
+6ebf3f26df,PACO RABANNE,PACO RABANNE,46,HL,Paris house known for chainmail and metallics
+11ba6e877e,A.L.C.,A.L.C.,45,CD,NY contemporary label
+a2ab758898,ALEX PERRY,ALEX PERRY,45,FO,Australian designer of structured eveningwear
+7418bce922,GALVAN,GALVAN,44,FO,London designer of minimalist eveningwear
+2909d4a01d,HUNZA G,HUNZA G,44,SW,Crinkle-stretch swimwear label
+ed31e62d45,JW ANDERSON,JW ANDERSON,43,CD,London designer label with conceptual design
+306602a8d2,AJE,AJE,42,FO,Australian contemporary label
