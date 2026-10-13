@@ -1,0 +1,26 @@
+material,n_products,pct_of_products,n_clothing,n_shoes
+cotton,3214,16.8,3201,13
+leather,2481,13.0,525,1956
+wool,1924,10.1,1921,3
+silk,1665,8.7,1650,15
+cashmere,792,4.1,782,10
+linen,699,3.7,693,6
+suede,579,3.0,36,543
+faux,235,1.2,173,62
+down,227,1.2,227,0
+shearling,208,1.1,136,72
+feather,170,0.9,169,1
+merino,149,0.8,149,0
+rubber,140,0.7,0,140
+modal,126,0.7,126,0
+tencel,109,0.6,109,0
+lyocell,98,0.5,98,0
+pvc,95,0.5,2,93
+mohair,88,0.5,88,0
+pima,82,0.4,82,0
+alpaca,81,0.4,81,0
+fur,63,0.3,48,15
+ramie,45,0.2,45,0
+hair,37,0.2,13,24
+ecovero,33,0.2,33,0
+NO MATERIAL STATED,7760,40.6,7308,452

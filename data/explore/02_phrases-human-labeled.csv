@@ -1,0 +1,101 @@
+phrase,n,category,codebook_note
+net sustain,1951,other,NET SUSTAIN label; candidate is_sustainable flag
+midi dress,1300,subtype,dress; length = midi
+mini dress,1070,subtype,dress; length = mini
+maxi dress,1029,subtype,dress; length = maxi
+cotton blend,859,material,cotton (blend counts as base material)
+leg pants,782,fragment,from wide-leg / straight-leg pants
+floral print,730,fabrictype,pattern
+wide leg,648,cut/length,
+wool blend,646,material,wool
+stretch jersey,598,fabrictype,
+crystal embellished,565,finish,embellished
+straight leg,549,cut/length,
+cotton poplin,531,fabrictype,material = cotton
+cotton jersey,517,fabrictype,material = cotton
+high rise,453,cut/length,
+silk blend,425,material,silk
+organic cotton,410,material,cotton; sustainability signal
+midi skirt,380,subtype,skirt; length = midi
+wool and,364,fragment,from wool and cashmere / wool and silk blends
+double breasted,361,cut/length,
+leather trimmed,302,finish,trim only; leather is not the main material
+and silk,302,fragment,
+silk satin,298,fabrictype,material = silk
+ankle boots,294,subtype,
+t shirt,286,subtype,
+leg jeans,280,fragment,from wide-leg / straight-leg jeans
+patent leather,278,finish,material = leather
+cashmere blend,268,material,cashmere
+printed cotton,259,fabrictype,pattern; material = cotton
+lace trimmed,254,finish,trim only
+printed silk,252,fabrictype,pattern; material = silk
+off the,252,fragment,from off-the-shoulder
+the shoulder,249,fragment,from off-the-shoulder
+turtleneck sweater,240,subtype,
+leather sandals,239,subtype,sandals; material = leather
+mini skirt,235,subtype,skirt; length = mini
+one shoulder,235,cut/length,
+maxi skirt,232,subtype,skirt; length = maxi
+knee boots,227,subtype,
+jersey t,223,fragment,from jersey T-shirt
+open back,221,cut/length,
+shirt dress,216,subtype,keep separate from dress if we want; it's a distinct silhouette
+ribbed knit,216,fabrictype,
+de chine,210,fragment,from crepe de chine
+crepe de,210,fragment,from crepe de chine
+and cashmere,206,fragment,
+stretch knit,199,fabrictype,
+silk crepe,193,fabrictype,material = silk
+satin trimmed,189,finish,trim only
+blend sweater,184,fragment,
+rise straight,183,fragment,
+poplin shirt,180,subtype,shirt
+print cotton,178,fabrictype,pattern
+cotton and,178,fragment,
+leather pumps,175,subtype,pumps; material = leather
+print silk,173,fabrictype,pattern
+embellished leather,172,finish,material = leather
+cotton voile,170,fabrictype,material = cotton
+two tone,168,finish,
+leather ankle,167,fragment,from leather ankle boots
+bikini top,165,subtype,
+cashmere sweater,165,subtype,sweater; material = cashmere
+stretch recycled,164,fragment,sustainability signal
+linen blend,164,material,linen
+striped cotton,161,fabrictype,pattern
+feather trimmed,160,finish,trim only
+stretch cotton,158,fabrictype,material = cotton
+printed stretch,158,fragment,
+leather sneakers,156,subtype,sneakers; material = leather
+blend midi,153,fragment,
+flared pants,151,subtype,pants
+poplin midi,150,fragment,
+bikini briefs,148,subtype,
+merino wool,148,material,wool
+metallic leather,148,finish,material = leather
+rise wide,146,fragment,
+trimmed cotton,145,fragment,
+broderie anglaise,145,fabrictype,
+slingback pumps,145,subtype,pumps
+blend jersey,142,fragment,
+satin midi,140,fragment,
+fits everybody,137,other,SKIMS product line
+embellished satin,136,finish,
+ribbed stretch,136,fragment,
+jersey maxi,135,fragment,
+leather mules,135,subtype,mules; material = leather
+embroidered cotton,132,finish,material = cotton
+crepe mini,131,fragment,
+track pants,129,subtype,pants
+blend twill,127,fragment,
+shell down,127,material,down-filled outerwear; shell = outer fabric
+stretch crepe,126,fabrictype,
+and cotton,125,fragment,
+cable knit,124,fabrictype,
+trimmed stretch,123,fragment,
+leather and,123,fragment,
+crochet knit,122,fabrictype,
+blend cardigan,122,fragment,
+quilted shell,122,fabrictype,quilted outerwear; shell = outer fabric
+ribbed wool,121,fabrictype,material = wool
