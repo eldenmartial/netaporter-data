@@ -5,7 +5,7 @@ Run from the project root:
 """
 import duckdb
 
-CSV = "data/raw/mrporter.csv"  # change to your file's name
+CSV = "data/raw/netaporter.csv"  # change to your file's name
 MIN_PRODUCTS_PER_BRAND = 20
 
 con = duckdb.connect()
