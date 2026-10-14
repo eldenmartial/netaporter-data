@@ -1,3 +1,4 @@
 data/raw/
 .venv/
 data/*.duckdb
+TEMPSQLFILE.sql
