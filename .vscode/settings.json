@@ -11,7 +11,8 @@
             "alias": "netaporter",
             "type": "file",
             "path": "/Users/eldenmartial/netaporter data /data/netaporter.duckdb",
-            "attached": true
+            "attached": false,
+            "readOnly": false
         }
     ],
     "duckdb.defaultDatabase": "netaporter"
