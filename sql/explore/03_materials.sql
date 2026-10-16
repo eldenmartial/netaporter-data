@@ -1,3 +1,17 @@
+-- 03_materials.sql
+-- Question: How often does each material appear in product names, and how
+--   many products name no material at all?
+-- Feeds: the codebook (material list) and the "not stated" limitation,
+--   not a report chart
+-- Method: search each name for each material word as a whole word ("\b" is
+--   a word boundary), after rewriting "button-down" so "down" only means
+--   down fill. Count products, not appearances. A product naming two
+--   materials counts toward both, so percentages add to more than 100%.
+--   The last row counts products that match no material.
+-- These are mentions, not main materials: "Leather-Trimmed Cotton Dress"
+--   counts toward both leather and cotton. "fur" also matches "faux fur",
+--   and "hair" is mostly "calf hair".
+
 WITH materials(material) AS (
     VALUES ('cotton'), ('leather'), ('wool'), ('silk'), ('cashmere'),
            ('linen'), ('suede'), ('faux'), ('down'), ('shearling'),

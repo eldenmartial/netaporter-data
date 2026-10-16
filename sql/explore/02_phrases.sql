@@ -5,9 +5,9 @@
 -- Method: split each name into a list of words, then pair each word
 --   with the one after it. range(1, len(words)) gives the positions
 --   1 to n-1, so words[i + 1] always exists.
--- Note: pairs containing a connector word ("and", "the", "de") are
---   left out, since they're fragments of longer phrases
---   ("off the shoulder", "crepe de chine").
+-- Pairs containing a connector word ("and", "the", "de") are
+-- left out, since they're fragments of longer phrases
+-- ("off the shoulder", "crepe de chine").
 
 WITH names AS (
     SELECT product_id,
