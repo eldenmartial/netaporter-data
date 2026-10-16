@@ -17,7 +17,7 @@ BUILD_FILES = ["sql/01_load_raw.sql", "sql/02_clean.sql", "sql/03_build_tables.s
 CHECKS_FILE = Path("sql/04_checks.sql")
 LOG_FILE = Path("notes/cleaning_log.md")
 
-# 1. Start fresh, so the database always matches the SQL files exactly
+# 1. Start fresh
 if DB.exists():
     DB.unlink()
 con = duckdb.connect(str(DB))

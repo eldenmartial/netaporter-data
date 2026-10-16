@@ -1,6 +1,6 @@
-"""Initial checks: get to know the dataset before cleaning anything.
+"""Initial checks: know the dataset.
 
-Run from the project root:
+Run from project root:
     python src/initialchecks.py > notes/initialchecks_output.txt
 """
 import duckdb
@@ -27,8 +27,6 @@ show("Missing values", """
            COUNT(*) - COUNT(type)        AS missing_type
     FROM raw
 """)
-
-# VARCHAR means text, so brand, description, and type are text. BIGINT means whole numbers, so prices are whole dollars with no cents.
 
 # 2. Scope: what's in the type column
 show("Every product type", """

@@ -3,7 +3,6 @@
 -- with brand, price, AI/rule labels, flags, and your positioning group.
 -- Power BI works best with a single wide table like this.
 --
--- Run:  duckdb data/netaporter.duckdb < sql/exports/powerbi_products.sql
 
 COPY (
     SELECT p.product_id,
@@ -28,4 +27,4 @@ COPY (
     LEFT JOIN read_csv('data/labels/brand_positioning.csv', header = true, all_varchar = true) bp
            ON bp.brand_id = b.brand_id
     ORDER BY b.brand_name, p.price_usd
-) TO 'outputs/powerbi_products.csv' (HEADER);
+) TO 'powerbi_products.csv' (HEADER);

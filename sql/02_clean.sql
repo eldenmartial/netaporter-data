@@ -3,13 +3,6 @@
 -- can inspect exactly what a step did, and each one writes a line
 -- to cleaning_log.
 
-------------------------------------------------------------------
--- DECISIONS: edit these after reviewing your Phase 0 output,
--- and record the reasoning in decisions.md.
-------------------------------------------------------------------
-
--- Which product types are in scope. Check the "Every product type"
--- section of your Phase 0 output and add or remove values.
 CREATE TABLE scope_types (type VARCHAR);
 INSERT INTO scope_types VALUES ('clothing'), ('shoes');
 
@@ -18,11 +11,11 @@ INSERT INTO scope_types VALUES ('clothing'), ('shoes');
 --   INSERT INTO brand_aliases VALUES ('A.P.C.', 'APC'), ('A.P.C', 'APC'), ('Apc', 'APC');
 CREATE TABLE brand_aliases (raw_name VARCHAR, canonical_name VARCHAR);
 
-------------------------------------------------------------------
--- Step 2: normalize text
+
+-- normalize text
 -- Trim spaces at the ends, collapse repeated spaces, uppercase
 -- brands, lowercase types, then apply brand_aliases.
-------------------------------------------------------------------
+
 CREATE TABLE stage_normalized AS
 WITH trimmed AS (
     SELECT raw_id,
@@ -53,9 +46,9 @@ SELECT 2, 'Normalize text',
        'Trimmed and collapsed spaces, uppercased brands, lowercased types, merged brand aliases. No rows removed; rows_affected = rows whose brand or description text changed'
 FROM stage_normalized;
 
-------------------------------------------------------------------
+
 -- Step 3: drop incomplete rows
-------------------------------------------------------------------
+
 CREATE TABLE stage_complete AS
 SELECT * FROM stage_normalized
 WHERE brand IS NOT NULL AND brand <> ''
@@ -70,9 +63,9 @@ SELECT 3, 'Drop incomplete rows',
        'Missing brand, description, price, or type; these cannot be analyzed'
 FROM stage_complete;
 
-------------------------------------------------------------------
+
 -- Step 4: drop invalid prices
-------------------------------------------------------------------
+
 CREATE TABLE stage_valid_price AS
 SELECT * FROM stage_complete
 WHERE price_usd > 0;
@@ -84,9 +77,9 @@ SELECT 4, 'Drop invalid prices',
        'Price of zero or below is a placeholder, not a real retail price'
 FROM stage_valid_price;
 
-------------------------------------------------------------------
+
 -- Step 5: keep in-scope product types
-------------------------------------------------------------------
+
 CREATE TABLE stage_in_scope AS
 SELECT * FROM stage_valid_price
 WHERE type IN (SELECT type FROM scope_types);

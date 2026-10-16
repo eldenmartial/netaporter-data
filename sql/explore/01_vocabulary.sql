@@ -5,8 +5,7 @@
 --   (spaces, hyphens, "+"), keeping accented letters so words like
 --   "bouclé" stay whole. Count products, not appearances, so a word
 --   repeated within one name counts once.
--- Note: words in fewer than 30 products are left out; they're too rare
---   to support a category in the price analysis.
+-- Words in fewer than 30 products are left out; they're too rare to support a category in the price analysis.
  
 WITH words AS (
     SELECT product_id,
