@@ -4,7 +4,7 @@
 
 An analysis of 19,090 Net-a-Porter womenswear products, asking how much of a luxury item's price comes from the brand and how much from the product itself.
 
-**[View the report](https://app.powerbi.com/reportEmbed?reportId=d49bbe97-7bde-4a75-9abb-78503381b5d3)** · [PDF version](report/netaporter_report.pdf)
+**[View the report](https://app.powerbi.com/view?r=eyJrIjoiNzFmM2RiNmUtMzBjMy00M2Y0LWJlYWMtMGMxN2Y3ZWZiZGI5IiwidCI6ImY2YjZkZDViLWYwMmYtNDQxYS05OWEwLTE2MmFjNTA2MGJkMiIsImMiOjZ9)** 
 
 Tools: SQL (DuckDB), Python (pandas, scikit-learn), Excel, Power BI
 
