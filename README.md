@@ -2,9 +2,11 @@
 
 **At Net-a-Porter, who made it matters more than what it is.** The same wool coat ranges from $500 to $7,600 depending on the label, a 15× gap. Within a single luxury house, going from flats to a gown changes the price only about 6×.
 
-An analysis of 19,090 Net-a-Porter womenswear products, asking how much of a luxury item's price comes from the brand and how much from the product itself.
+**Recommendation:** because brands set the price points, the brands Net-a-Porter stocks decide which budgets it serves. A price-ladder analysis found one clear gap: sneakers have a missing middle, with only 12 of 247 leather sneakers priced $250–499. Adding sneaker brands at that price, tested over one season, is a low-risk way to capture shoppers the current assortment skips.
 
-**[View the report](https://app.powerbi.com/view?r=eyJrIjoiNzFmM2RiNmUtMzBjMy00M2Y0LWJlYWMtMGMxN2Y3ZWZiZGI5IiwidCI6ImY2YjZkZDViLWYwMmYtNDQxYS05OWEwLTE2MmFjNTA2MGJkMiIsImMiOjZ9)** 
+An analysis of 19,090 Net-a-Porter womenswear products, asking how much of a luxury item's price comes from the brand and how much from the product itself, and what the retailer should do about it.
+
+**[View the interactive report](https://app.powerbi.com/view?r=eyJrIjoiNzFmM2RiNmUtMzBjMy00M2Y0LWJlYWMtMGMxN2Y3ZWZiZGI5IiwidCI6ImY2YjZkZDViLWYwMmYtNDQxYS05OWEwLTE2MmFjNTA2MGJkMiIsImMiOjZ9)**
 
 Tools: SQL (DuckDB), Python (pandas, scikit-learn), Excel, Power BI
 
@@ -19,7 +21,7 @@ I held one factor fixed and measured how much price varies with the other: the s
 | Same product, different brands | Most expensive | Least expensive | Spread |
 |---|---|---|---|
 | Leather boots | Loro Piana, $2,450 | Sorel, $200 | 12× |
-| Wool coat | Valentino Garavani, $7,600 | The Frankie Shop, $500 | 15× |
+| Wool coat | Valentino Garavani, $7,600 | The Frankie Shop, $500 | 15× |   
 | Silk dress | Valentino Garavani, $5,500 | Baserange, $130 | 42× |
 | **Typical (median)** | | | **15×** |
 
@@ -52,6 +54,39 @@ I placed each major brand into a positioning group based on my own read of the b
 ### 4. Warmth and structure cost the most
 
 Shearling (~$2,700) and down (~$1,500) are the most expensive materials, quilted or padded the most expensive finish, and heavy woven fabrics like jacquard and tweed beat light knits like jersey and mesh. Much of this reflects outerwear being expensive rather than the material alone.
+
+---
+
+## Recommendation: fill the missing middle in sneakers
+
+### Why price gaps matter
+
+If the label sets the price, then for any product, the brands a retailer stocks determine which price points a shopper can find. Each product has a **price ladder**, and every rung comes from a brand. When a rung is missing, a shopper with that budget finds nothing and may buy elsewhere.
+
+### Finding the gaps
+
+For every product (product type plus material, such as "sneakers, leather"), I counted items in six price bands and flagged a **gap**: a band holding less than half as many items as the smaller of its two neighbors, where both neighbors are well stocked. End bands are never flagged, so a lack of $50 coats doesn't count. Only products with 50 or more items were checked ([`sql/exports/price_ladder.sql`](sql/exports/price_ladder.sql)).
+
+Four products were flagged. Two were dropped because the bands on either side held fewer than 10 items, too few to call a real gap. The two that remain are the same gap:
+
+| Product | Under $250 | **$250–499** | $500–999 | $1,000–2,499 |
+|---|---|---|---|---|
+| Sneakers, leather (247) | 80 | **12** | 143 | 12 |
+| Sneakers, suede (65) | 37 | **2** | 23 | 3 |
+
+Net-a-Porter has plenty of sneakers under $250 (sportswear brands) and plenty at $500–999 (designer houses), but almost nothing in between.
+
+### The proposal
+
+Add sneaker brands priced at $250–499. The positioning map shows which kind of brand fits: those pricing between the sportswear and designer tiers.
+
+### How to test it
+
+Add a small selection of $250–499 sneakers for one season. Compare sneaker sales and conversion against the season before, and watch average order value to make sure the new tier adds sales rather than pulling shoppers down from higher-priced pairs.
+
+### What this can't tell us
+
+The data shows the listed assortment, not sales, so it can't show unmet demand directly. The gap could also be deliberate if Net-a-Porter chooses not to compete with mid-priced sneaker retailers. That's why the recommendation is a small, measurable test rather than a full assortment change.
 
 ---
 
@@ -112,6 +147,7 @@ Mean kappa across the seven fields: **0.83**. Kappa measures agreement beyond ch
 - **Brand vs. product:** price spreads across brands for a fixed product vs. across products for a fixed brand (finding 1), supported by Power BI Key influencers.
 - **Sustainability:** median price of NET SUSTAIN vs. regular products within the same brand and subtype, limited to groups with at least 3 of each.
 - **Positioning:** median price by positioning group and by brand.
+- **Price ladder:** item counts per product and price band, with gaps flagged as dips between well-stocked neighbors (see Recommendation).
 
 All charts in the report use medians, since luxury prices are heavily skewed.
 
@@ -120,6 +156,7 @@ All charts in the report use medians, since luxury prices are heavily skewed.
 ## Limitations
 
 - **Spread comparisons are approximate.** They use a handful of examples and extreme values, so they show direction and scale, not exact shares. A regression separating brand and product effects is the natural next step ([`src/brand_vs_product.py`](src/brand_vs_product.py)).
+- **No sales data.** Price gaps show what's listed, not what shoppers want, so the recommendation is framed as a test.
 - **Labels come from product names only.** About 41% of names don't state a material; those are labeled "not stated" rather than guessed.
 - **Agreement is measured against one labeler (me).** A second human labeler would show how much people disagree, setting a realistic ceiling for the AI.
 - **One retailer, one point in time.** Results describe Net-a-Porter's assortment and listed prices, not the whole luxury market or what items actually sold for.
@@ -134,6 +171,7 @@ All charts in the report use medians, since luxury prices are heavily skewed.
 ├── decisions.md              every judgment call, dated, with reasoning
 ├── data/
 │   ├── data_dictionary.md    tables, columns, and definitions
+│   ├── price_ladder.csv      items per product and price band, with gap flags
 │   └── labels/               hand labels, AI labels, brand positioning
 ├── notes/
 │   ├── codebook.md           labeling rules
@@ -148,7 +186,7 @@ All charts in the report use medians, since luxury prices are heavily skewed.
 │   ├── explore/              vocabulary, phrases, materials
 │   ├── analysis/             queries behind the charts
 │   ├── labels/               labeling-sheet exports
-│   └── exports/              Power BI export
+│   └── exports/              price ladder and Power BI exports
 ├── src/
 │   ├── build_db.py           rebuilds the database from scratch
 │   ├── run_queries.py        runs a folder of queries, saves CSVs
@@ -178,6 +216,7 @@ python src/run_queries.py sql/analysis
 # 3. Check label agreement on the held-out test set
 python src/evaluate_labels.py data/labels/ai_labels.csv test
 
-# 4. Export for Power BI
+# 4. Find price-ladder gaps, then export for Power BI
+duckdb data/netaporter.duckdb < sql/exports/price_ladder.sql
 duckdb data/netaporter.duckdb < sql/exports/powerbi_products.sql
 ```
