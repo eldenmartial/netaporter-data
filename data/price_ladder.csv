@@ -1,0 +1,1663 @@
+product,subtype,material,type,product_total,band_order,price_band,n_products,pct_of_product,is_gap
+"dress, cotton",dress,cotton,clothing,875,1,1. Under $250,65,7.4,false
+"dress, cotton",dress,cotton,clothing,875,2,2. $250-499,246,28.1,false
+"dress, cotton",dress,cotton,clothing,875,3,3. $500-999,310,35.4,false
+"dress, cotton",dress,cotton,clothing,875,4,"4. $1,000-2,499",189,21.6,false
+"dress, cotton",dress,cotton,clothing,875,5,"5. $2,500-4,999",58,6.6,false
+"dress, cotton",dress,cotton,clothing,875,6,"6. $5,000+",7,0.8,false
+"dress, silk",dress,silk,clothing,504,1,1. Under $250,2,0.4,false
+"dress, silk",dress,silk,clothing,504,2,2. $250-499,43,8.5,false
+"dress, silk",dress,silk,clothing,504,3,3. $500-999,178,35.3,false
+"dress, silk",dress,silk,clothing,504,4,"4. $1,000-2,499",176,34.9,false
+"dress, silk",dress,silk,clothing,504,5,"5. $2,500-4,999",82,16.3,false
+"dress, silk",dress,silk,clothing,504,6,"6. $5,000+",23,4.6,false
+"boots, leather",boots,leather,shoes,408,1,1. Under $250,5,1.2,false
+"boots, leather",boots,leather,shoes,408,2,2. $250-499,17,4.2,false
+"boots, leather",boots,leather,shoes,408,3,3. $500-999,129,31.6,false
+"boots, leather",boots,leather,shoes,408,4,"4. $1,000-2,499",246,60.3,false
+"boots, leather",boots,leather,shoes,408,5,"5. $2,500-4,999",10,2.5,false
+"boots, leather",boots,leather,shoes,408,6,"6. $5,000+",1,0.2,false
+"sandals, leather",sandals,leather,shoes,397,1,1. Under $250,24,6.0,false
+"sandals, leather",sandals,leather,shoes,397,2,2. $250-499,56,14.1,false
+"sandals, leather",sandals,leather,shoes,397,3,3. $500-999,196,49.4,false
+"sandals, leather",sandals,leather,shoes,397,4,"4. $1,000-2,499",120,30.2,false
+"sandals, leather",sandals,leather,shoes,397,5,"5. $2,500-4,999",1,0.3,false
+"sandals, leather",sandals,leather,shoes,397,6,"6. $5,000+",0,0.0,false
+"shirt, cotton",shirt,cotton,clothing,351,1,1. Under $250,62,17.7,false
+"shirt, cotton",shirt,cotton,clothing,351,2,2. $250-499,114,32.5,false
+"shirt, cotton",shirt,cotton,clothing,351,3,3. $500-999,105,29.9,false
+"shirt, cotton",shirt,cotton,clothing,351,4,"4. $1,000-2,499",68,19.4,false
+"shirt, cotton",shirt,cotton,clothing,351,5,"5. $2,500-4,999",2,0.6,false
+"shirt, cotton",shirt,cotton,clothing,351,6,"6. $5,000+",0,0.0,false
+"pants, cotton",pants,cotton,clothing,316,1,1. Under $250,79,25.0,false
+"pants, cotton",pants,cotton,clothing,316,2,2. $250-499,106,33.5,false
+"pants, cotton",pants,cotton,clothing,316,3,3. $500-999,68,21.5,false
+"pants, cotton",pants,cotton,clothing,316,4,"4. $1,000-2,499",60,19.0,false
+"pants, cotton",pants,cotton,clothing,316,5,"5. $2,500-4,999",2,0.6,false
+"pants, cotton",pants,cotton,clothing,316,6,"6. $5,000+",1,0.3,false
+"sweater, wool",sweater,wool,clothing,305,1,1. Under $250,18,5.9,false
+"sweater, wool",sweater,wool,clothing,305,2,2. $250-499,83,27.2,false
+"sweater, wool",sweater,wool,clothing,305,3,3. $500-999,106,34.8,false
+"sweater, wool",sweater,wool,clothing,305,4,"4. $1,000-2,499",87,28.5,false
+"sweater, wool",sweater,wool,clothing,305,5,"5. $2,500-4,999",11,3.6,false
+"sweater, wool",sweater,wool,clothing,305,6,"6. $5,000+",0,0.0,false
+"pants, wool",pants,wool,clothing,294,1,1. Under $250,3,1.0,false
+"pants, wool",pants,wool,clothing,294,2,2. $250-499,23,7.8,false
+"pants, wool",pants,wool,clothing,294,3,3. $500-999,98,33.3,false
+"pants, wool",pants,wool,clothing,294,4,"4. $1,000-2,499",162,55.1,false
+"pants, wool",pants,wool,clothing,294,5,"5. $2,500-4,999",8,2.7,false
+"pants, wool",pants,wool,clothing,294,6,"6. $5,000+",0,0.0,false
+"pumps, leather",pumps,leather,shoes,293,1,1. Under $250,0,0.0,false
+"pumps, leather",pumps,leather,shoes,293,2,2. $250-499,9,3.1,false
+"pumps, leather",pumps,leather,shoes,293,3,3. $500-999,172,58.7,false
+"pumps, leather",pumps,leather,shoes,293,4,"4. $1,000-2,499",112,38.2,false
+"pumps, leather",pumps,leather,shoes,293,5,"5. $2,500-4,999",0,0.0,false
+"pumps, leather",pumps,leather,shoes,293,6,"6. $5,000+",0,0.0,false
+"top, cotton",top,cotton,clothing,286,1,1. Under $250,127,44.4,false
+"top, cotton",top,cotton,clothing,286,2,2. $250-499,83,29.0,false
+"top, cotton",top,cotton,clothing,286,3,3. $500-999,48,16.8,false
+"top, cotton",top,cotton,clothing,286,4,"4. $1,000-2,499",25,8.7,false
+"top, cotton",top,cotton,clothing,286,5,"5. $2,500-4,999",3,1.0,false
+"top, cotton",top,cotton,clothing,286,6,"6. $5,000+",0,0.0,false
+"dress, linen",dress,linen,clothing,281,1,1. Under $250,15,5.3,false
+"dress, linen",dress,linen,clothing,281,2,2. $250-499,69,24.6,false
+"dress, linen",dress,linen,clothing,281,3,3. $500-999,131,46.6,false
+"dress, linen",dress,linen,clothing,281,4,"4. $1,000-2,499",54,19.2,false
+"dress, linen",dress,linen,clothing,281,5,"5. $2,500-4,999",11,3.9,false
+"dress, linen",dress,linen,clothing,281,6,"6. $5,000+",1,0.4,false
+"sweater, cashmere",sweater,cashmere,clothing,276,1,1. Under $250,1,0.4,false
+"sweater, cashmere",sweater,cashmere,clothing,276,2,2. $250-499,41,14.9,false
+"sweater, cashmere",sweater,cashmere,clothing,276,3,3. $500-999,105,38.0,false
+"sweater, cashmere",sweater,cashmere,clothing,276,4,"4. $1,000-2,499",102,37.0,false
+"sweater, cashmere",sweater,cashmere,clothing,276,5,"5. $2,500-4,999",24,8.7,false
+"sweater, cashmere",sweater,cashmere,clothing,276,6,"6. $5,000+",3,1.1,false
+"blazer, wool",blazer,wool,clothing,262,1,1. Under $250,0,0.0,false
+"blazer, wool",blazer,wool,clothing,262,2,2. $250-499,1,0.4,false
+"blazer, wool",blazer,wool,clothing,262,3,3. $500-999,31,11.8,false
+"blazer, wool",blazer,wool,clothing,262,4,"4. $1,000-2,499",115,43.9,false
+"blazer, wool",blazer,wool,clothing,262,5,"5. $2,500-4,999",110,42.0,false
+"blazer, wool",blazer,wool,clothing,262,6,"6. $5,000+",5,1.9,false
+"sneakers, leather",sneakers,leather,shoes,247,1,1. Under $250,80,32.4,false
+"sneakers, leather",sneakers,leather,shoes,247,2,2. $250-499,12,4.9,true
+"sneakers, leather",sneakers,leather,shoes,247,3,3. $500-999,143,57.9,false
+"sneakers, leather",sneakers,leather,shoes,247,4,"4. $1,000-2,499",12,4.9,false
+"sneakers, leather",sneakers,leather,shoes,247,5,"5. $2,500-4,999",0,0.0,false
+"sneakers, leather",sneakers,leather,shoes,247,6,"6. $5,000+",0,0.0,false
+"shirt, silk",shirt,silk,clothing,218,1,1. Under $250,1,0.5,false
+"shirt, silk",shirt,silk,clothing,218,2,2. $250-499,41,18.8,false
+"shirt, silk",shirt,silk,clothing,218,3,3. $500-999,63,28.9,false
+"shirt, silk",shirt,silk,clothing,218,4,"4. $1,000-2,499",104,47.7,false
+"shirt, silk",shirt,silk,clothing,218,5,"5. $2,500-4,999",8,3.7,false
+"shirt, silk",shirt,silk,clothing,218,6,"6. $5,000+",1,0.5,false
+"t-shirt, cotton",t-shirt,cotton,clothing,213,1,1. Under $250,98,46.0,false
+"t-shirt, cotton",t-shirt,cotton,clothing,213,2,2. $250-499,67,31.5,false
+"t-shirt, cotton",t-shirt,cotton,clothing,213,3,3. $500-999,47,22.1,false
+"t-shirt, cotton",t-shirt,cotton,clothing,213,4,"4. $1,000-2,499",1,0.5,false
+"t-shirt, cotton",t-shirt,cotton,clothing,213,5,"5. $2,500-4,999",0,0.0,false
+"t-shirt, cotton",t-shirt,cotton,clothing,213,6,"6. $5,000+",0,0.0,false
+"coat, wool",coat,wool,clothing,195,1,1. Under $250,0,0.0,false
+"coat, wool",coat,wool,clothing,195,2,2. $250-499,2,1.0,false
+"coat, wool",coat,wool,clothing,195,3,3. $500-999,25,12.8,false
+"coat, wool",coat,wool,clothing,195,4,"4. $1,000-2,499",54,27.7,false
+"coat, wool",coat,wool,clothing,195,5,"5. $2,500-4,999",82,42.1,false
+"coat, wool",coat,wool,clothing,195,6,"6. $5,000+",32,16.4,false
+"dress, wool",dress,wool,clothing,184,1,1. Under $250,0,0.0,false
+"dress, wool",dress,wool,clothing,184,2,2. $250-499,4,2.2,false
+"dress, wool",dress,wool,clothing,184,3,3. $500-999,29,15.8,false
+"dress, wool",dress,wool,clothing,184,4,"4. $1,000-2,499",63,34.2,false
+"dress, wool",dress,wool,clothing,184,5,"5. $2,500-4,999",64,34.8,false
+"dress, wool",dress,wool,clothing,184,6,"6. $5,000+",24,13.0,false
+"boots, suede",boots,suede,shoes,178,1,1. Under $250,6,3.4,false
+"boots, suede",boots,suede,shoes,178,2,2. $250-499,12,6.7,false
+"boots, suede",boots,suede,shoes,178,3,3. $500-999,66,37.1,false
+"boots, suede",boots,suede,shoes,178,4,"4. $1,000-2,499",94,52.8,false
+"boots, suede",boots,suede,shoes,178,5,"5. $2,500-4,999",0,0.0,false
+"boots, suede",boots,suede,shoes,178,6,"6. $5,000+",0,0.0,false
+"skirt, cotton",skirt,cotton,clothing,169,1,1. Under $250,15,8.9,false
+"skirt, cotton",skirt,cotton,clothing,169,2,2. $250-499,51,30.2,false
+"skirt, cotton",skirt,cotton,clothing,169,3,3. $500-999,55,32.5,false
+"skirt, cotton",skirt,cotton,clothing,169,4,"4. $1,000-2,499",43,25.4,false
+"skirt, cotton",skirt,cotton,clothing,169,5,"5. $2,500-4,999",4,2.4,false
+"skirt, cotton",skirt,cotton,clothing,169,6,"6. $5,000+",1,0.6,false
+"skirt, wool",skirt,wool,clothing,145,1,1. Under $250,0,0.0,false
+"skirt, wool",skirt,wool,clothing,145,2,2. $250-499,11,7.6,false
+"skirt, wool",skirt,wool,clothing,145,3,3. $500-999,48,33.1,false
+"skirt, wool",skirt,wool,clothing,145,4,"4. $1,000-2,499",72,49.7,false
+"skirt, wool",skirt,wool,clothing,145,5,"5. $2,500-4,999",12,8.3,false
+"skirt, wool",skirt,wool,clothing,145,6,"6. $5,000+",2,1.4,false
+"sweatshirt, cotton",sweatshirt,cotton,clothing,142,1,1. Under $250,61,43.0,false
+"sweatshirt, cotton",sweatshirt,cotton,clothing,142,2,2. $250-499,23,16.2,false
+"sweatshirt, cotton",sweatshirt,cotton,clothing,142,3,3. $500-999,30,21.1,false
+"sweatshirt, cotton",sweatshirt,cotton,clothing,142,4,"4. $1,000-2,499",27,19.0,false
+"sweatshirt, cotton",sweatshirt,cotton,clothing,142,5,"5. $2,500-4,999",1,0.7,false
+"sweatshirt, cotton",sweatshirt,cotton,clothing,142,6,"6. $5,000+",0,0.0,false
+"mules, leather",mules,leather,shoes,139,1,1. Under $250,0,0.0,false
+"mules, leather",mules,leather,shoes,139,2,2. $250-499,9,6.5,false
+"mules, leather",mules,leather,shoes,139,3,3. $500-999,88,63.3,false
+"mules, leather",mules,leather,shoes,139,4,"4. $1,000-2,499",42,30.2,false
+"mules, leather",mules,leather,shoes,139,5,"5. $2,500-4,999",0,0.0,false
+"mules, leather",mules,leather,shoes,139,6,"6. $5,000+",0,0.0,false
+"jacket, down",jacket,down,clothing,133,1,1. Under $250,0,0.0,false
+"jacket, down",jacket,down,clothing,133,2,2. $250-499,2,1.5,false
+"jacket, down",jacket,down,clothing,133,3,3. $500-999,33,24.8,false
+"jacket, down",jacket,down,clothing,133,4,"4. $1,000-2,499",87,65.4,false
+"jacket, down",jacket,down,clothing,133,5,"5. $2,500-4,999",9,6.8,false
+"jacket, down",jacket,down,clothing,133,6,"6. $5,000+",2,1.5,false
+"jacket, wool",jacket,wool,clothing,121,1,1. Under $250,0,0.0,false
+"jacket, wool",jacket,wool,clothing,121,2,2. $250-499,2,1.7,false
+"jacket, wool",jacket,wool,clothing,121,3,3. $500-999,22,18.2,false
+"jacket, wool",jacket,wool,clothing,121,4,"4. $1,000-2,499",59,48.8,false
+"jacket, wool",jacket,wool,clothing,121,5,"5. $2,500-4,999",34,28.1,false
+"jacket, wool",jacket,wool,clothing,121,6,"6. $5,000+",4,3.3,false
+"loafers, leather",loafers,leather,shoes,113,1,1. Under $250,0,0.0,false
+"loafers, leather",loafers,leather,shoes,113,2,2. $250-499,14,12.4,false
+"loafers, leather",loafers,leather,shoes,113,3,3. $500-999,68,60.2,false
+"loafers, leather",loafers,leather,shoes,113,4,"4. $1,000-2,499",31,27.4,false
+"loafers, leather",loafers,leather,shoes,113,5,"5. $2,500-4,999",0,0.0,false
+"loafers, leather",loafers,leather,shoes,113,6,"6. $5,000+",0,0.0,false
+"gown, silk",gown,silk,clothing,111,1,1. Under $250,0,0.0,false
+"gown, silk",gown,silk,clothing,111,2,2. $250-499,0,0.0,false
+"gown, silk",gown,silk,clothing,111,3,3. $500-999,9,8.1,false
+"gown, silk",gown,silk,clothing,111,4,"4. $1,000-2,499",25,22.5,false
+"gown, silk",gown,silk,clothing,111,5,"5. $2,500-4,999",40,36.0,false
+"gown, silk",gown,silk,clothing,111,6,"6. $5,000+",37,33.3,false
+"top, silk",top,silk,clothing,101,1,1. Under $250,12,11.9,false
+"top, silk",top,silk,clothing,101,2,2. $250-499,31,30.7,false
+"top, silk",top,silk,clothing,101,3,3. $500-999,25,24.8,false
+"top, silk",top,silk,clothing,101,4,"4. $1,000-2,499",28,27.7,false
+"top, silk",top,silk,clothing,101,5,"5. $2,500-4,999",4,4.0,false
+"top, silk",top,silk,clothing,101,6,"6. $5,000+",1,1.0,false
+"flats, leather",flats,leather,shoes,100,1,1. Under $250,1,1.0,false
+"flats, leather",flats,leather,shoes,100,2,2. $250-499,14,14.0,false
+"flats, leather",flats,leather,shoes,100,3,3. $500-999,69,69.0,false
+"flats, leather",flats,leather,shoes,100,4,"4. $1,000-2,499",16,16.0,false
+"flats, leather",flats,leather,shoes,100,5,"5. $2,500-4,999",0,0.0,false
+"flats, leather",flats,leather,shoes,100,6,"6. $5,000+",0,0.0,false
+"cardigan, wool",cardigan,wool,clothing,99,1,1. Under $250,2,2.0,false
+"cardigan, wool",cardigan,wool,clothing,99,2,2. $250-499,17,17.2,false
+"cardigan, wool",cardigan,wool,clothing,99,3,3. $500-999,24,24.2,false
+"cardigan, wool",cardigan,wool,clothing,99,4,"4. $1,000-2,499",40,40.4,false
+"cardigan, wool",cardigan,wool,clothing,99,5,"5. $2,500-4,999",16,16.2,false
+"cardigan, wool",cardigan,wool,clothing,99,6,"6. $5,000+",0,0.0,false
+"jacket, cotton",jacket,cotton,clothing,94,1,1. Under $250,5,5.3,false
+"jacket, cotton",jacket,cotton,clothing,94,2,2. $250-499,12,12.8,false
+"jacket, cotton",jacket,cotton,clothing,94,3,3. $500-999,26,27.7,false
+"jacket, cotton",jacket,cotton,clothing,94,4,"4. $1,000-2,499",30,31.9,false
+"jacket, cotton",jacket,cotton,clothing,94,5,"5. $2,500-4,999",19,20.2,false
+"jacket, cotton",jacket,cotton,clothing,94,6,"6. $5,000+",2,2.1,false
+"shorts, cotton",shorts,cotton,clothing,92,1,1. Under $250,45,48.9,false
+"shorts, cotton",shorts,cotton,clothing,92,2,2. $250-499,19,20.7,false
+"shorts, cotton",shorts,cotton,clothing,92,3,3. $500-999,20,21.7,false
+"shorts, cotton",shorts,cotton,clothing,92,4,"4. $1,000-2,499",8,8.7,false
+"shorts, cotton",shorts,cotton,clothing,92,5,"5. $2,500-4,999",0,0.0,false
+"shorts, cotton",shorts,cotton,clothing,92,6,"6. $5,000+",0,0.0,false
+"pants, silk",pants,silk,clothing,87,1,1. Under $250,0,0.0,false
+"pants, silk",pants,silk,clothing,87,2,2. $250-499,16,18.4,false
+"pants, silk",pants,silk,clothing,87,3,3. $500-999,27,31.0,false
+"pants, silk",pants,silk,clothing,87,4,"4. $1,000-2,499",41,47.1,false
+"pants, silk",pants,silk,clothing,87,5,"5. $2,500-4,999",3,3.4,false
+"pants, silk",pants,silk,clothing,87,6,"6. $5,000+",0,0.0,false
+"jacket, leather",jacket,leather,clothing,77,1,1. Under $250,0,0.0,false
+"jacket, leather",jacket,leather,clothing,77,2,2. $250-499,2,2.6,false
+"jacket, leather",jacket,leather,clothing,77,3,3. $500-999,4,5.2,false
+"jacket, leather",jacket,leather,clothing,77,4,"4. $1,000-2,499",22,28.6,false
+"jacket, leather",jacket,leather,clothing,77,5,"5. $2,500-4,999",31,40.3,false
+"jacket, leather",jacket,leather,clothing,77,6,"6. $5,000+",18,23.4,false
+"pants, linen",pants,linen,clothing,76,1,1. Under $250,15,19.7,false
+"pants, linen",pants,linen,clothing,76,2,2. $250-499,27,35.5,false
+"pants, linen",pants,linen,clothing,76,3,3. $500-999,16,21.1,false
+"pants, linen",pants,linen,clothing,76,4,"4. $1,000-2,499",18,23.7,false
+"pants, linen",pants,linen,clothing,76,5,"5. $2,500-4,999",0,0.0,false
+"pants, linen",pants,linen,clothing,76,6,"6. $5,000+",0,0.0,false
+"top, wool",top,wool,clothing,73,1,1. Under $250,7,9.6,false
+"top, wool",top,wool,clothing,73,2,2. $250-499,19,26.0,false
+"top, wool",top,wool,clothing,73,3,3. $500-999,16,21.9,false
+"top, wool",top,wool,clothing,73,4,"4. $1,000-2,499",26,35.6,false
+"top, wool",top,wool,clothing,73,5,"5. $2,500-4,999",4,5.5,false
+"top, wool",top,wool,clothing,73,6,"6. $5,000+",1,1.4,false
+"sandals, suede",sandals,suede,shoes,69,1,1. Under $250,7,10.1,false
+"sandals, suede",sandals,suede,shoes,69,2,2. $250-499,11,15.9,false
+"sandals, suede",sandals,suede,shoes,69,3,3. $500-999,32,46.4,false
+"sandals, suede",sandals,suede,shoes,69,4,"4. $1,000-2,499",19,27.5,false
+"sandals, suede",sandals,suede,shoes,69,5,"5. $2,500-4,999",0,0.0,false
+"sandals, suede",sandals,suede,shoes,69,6,"6. $5,000+",0,0.0,false
+"pumps, suede",pumps,suede,shoes,68,1,1. Under $250,0,0.0,false
+"cardigan, cashmere",cardigan,cashmere,clothing,68,1,1. Under $250,1,1.5,false
+"pumps, suede",pumps,suede,shoes,68,2,2. $250-499,2,2.9,false
+"cardigan, cashmere",cardigan,cashmere,clothing,68,2,2. $250-499,8,11.8,false
+"pumps, suede",pumps,suede,shoes,68,3,3. $500-999,51,75.0,false
+"cardigan, cashmere",cardigan,cashmere,clothing,68,3,3. $500-999,23,33.8,false
+"pumps, suede",pumps,suede,shoes,68,4,"4. $1,000-2,499",13,19.1,false
+"cardigan, cashmere",cardigan,cashmere,clothing,68,4,"4. $1,000-2,499",25,36.8,false
+"pumps, suede",pumps,suede,shoes,68,5,"5. $2,500-4,999",2,2.9,false
+"cardigan, cashmere",cardigan,cashmere,clothing,68,5,"5. $2,500-4,999",11,16.2,false
+"pumps, suede",pumps,suede,shoes,68,6,"6. $5,000+",0,0.0,false
+"cardigan, cashmere",cardigan,cashmere,clothing,68,6,"6. $5,000+",0,0.0,false
+"top, linen",top,linen,clothing,65,1,1. Under $250,29,44.6,false
+"sneakers, suede",sneakers,suede,shoes,65,1,1. Under $250,37,56.9,false
+"sneakers, suede",sneakers,suede,shoes,65,2,2. $250-499,2,3.1,true
+"top, linen",top,linen,clothing,65,2,2. $250-499,26,40.0,false
+"sneakers, suede",sneakers,suede,shoes,65,3,3. $500-999,23,35.4,false
+"top, linen",top,linen,clothing,65,3,3. $500-999,8,12.3,false
+"sneakers, suede",sneakers,suede,shoes,65,4,"4. $1,000-2,499",3,4.6,false
+"top, linen",top,linen,clothing,65,4,"4. $1,000-2,499",2,3.1,false
+"sneakers, suede",sneakers,suede,shoes,65,5,"5. $2,500-4,999",0,0.0,false
+"top, linen",top,linen,clothing,65,5,"5. $2,500-4,999",0,0.0,false
+"top, linen",top,linen,clothing,65,6,"6. $5,000+",0,0.0,false
+"sneakers, suede",sneakers,suede,shoes,65,6,"6. $5,000+",0,0.0,false
+"skirt, silk",skirt,silk,clothing,64,1,1. Under $250,2,3.1,false
+"skirt, silk",skirt,silk,clothing,64,2,2. $250-499,15,23.4,false
+"skirt, silk",skirt,silk,clothing,64,3,3. $500-999,15,23.4,false
+"skirt, silk",skirt,silk,clothing,64,4,"4. $1,000-2,499",20,31.3,false
+"skirt, silk",skirt,silk,clothing,64,5,"5. $2,500-4,999",11,17.2,false
+"skirt, silk",skirt,silk,clothing,64,6,"6. $5,000+",1,1.6,false
+"pants, leather",pants,leather,clothing,63,1,1. Under $250,7,11.1,false
+"pants, leather",pants,leather,clothing,63,2,2. $250-499,7,11.1,false
+"pants, leather",pants,leather,clothing,63,3,3. $500-999,9,14.3,false
+"pants, leather",pants,leather,clothing,63,4,"4. $1,000-2,499",28,44.4,false
+"pants, leather",pants,leather,clothing,63,5,"5. $2,500-4,999",5,7.9,false
+"pants, leather",pants,leather,clothing,63,6,"6. $5,000+",7,11.1,false
+"shirt, linen",shirt,linen,clothing,61,1,1. Under $250,7,11.5,false
+"shirt, linen",shirt,linen,clothing,61,2,2. $250-499,17,27.9,false
+"shirt, linen",shirt,linen,clothing,61,3,3. $500-999,24,39.3,false
+"shirt, linen",shirt,linen,clothing,61,4,"4. $1,000-2,499",13,21.3,false
+"shirt, linen",shirt,linen,clothing,61,5,"5. $2,500-4,999",0,0.0,false
+"shirt, linen",shirt,linen,clothing,61,6,"6. $5,000+",0,0.0,false
+"sleepwear, cotton",sleepwear,cotton,clothing,60,1,1. Under $250,48,80.0,false
+"sleepwear, cotton",sleepwear,cotton,clothing,60,2,2. $250-499,5,8.3,false
+"sleepwear, cotton",sleepwear,cotton,clothing,60,3,3. $500-999,4,6.7,false
+"sleepwear, cotton",sleepwear,cotton,clothing,60,4,"4. $1,000-2,499",3,5.0,false
+"sleepwear, cotton",sleepwear,cotton,clothing,60,5,"5. $2,500-4,999",0,0.0,false
+"sleepwear, cotton",sleepwear,cotton,clothing,60,6,"6. $5,000+",0,0.0,false
+"blazer, cotton",blazer,cotton,clothing,59,1,1. Under $250,1,1.7,false
+"dress, wood-based",dress,wood-based,clothing,59,1,1. Under $250,19,32.2,false
+"blazer, cotton",blazer,cotton,clothing,59,2,2. $250-499,4,6.8,false
+"dress, wood-based",dress,wood-based,clothing,59,2,2. $250-499,21,35.6,false
+"blazer, cotton",blazer,cotton,clothing,59,3,3. $500-999,15,25.4,false
+"dress, wood-based",dress,wood-based,clothing,59,3,3. $500-999,17,28.8,false
+"blazer, cotton",blazer,cotton,clothing,59,4,"4. $1,000-2,499",25,42.4,false
+"dress, wood-based",dress,wood-based,clothing,59,4,"4. $1,000-2,499",2,3.4,false
+"blazer, cotton",blazer,cotton,clothing,59,5,"5. $2,500-4,999",13,22.0,false
+"dress, wood-based",dress,wood-based,clothing,59,5,"5. $2,500-4,999",0,0.0,false
+"blazer, cotton",blazer,cotton,clothing,59,6,"6. $5,000+",1,1.7,false
+"dress, wood-based",dress,wood-based,clothing,59,6,"6. $5,000+",0,0.0,false
+"sweater, cotton",sweater,cotton,clothing,57,1,1. Under $250,8,14.0,false
+"cover-up, cotton",cover-up,cotton,clothing,57,1,1. Under $250,11,19.3,false
+"sweater, cotton",sweater,cotton,clothing,57,2,2. $250-499,16,28.1,false
+"cover-up, cotton",cover-up,cotton,clothing,57,2,2. $250-499,26,45.6,false
+"sweater, cotton",sweater,cotton,clothing,57,3,3. $500-999,15,26.3,false
+"cover-up, cotton",cover-up,cotton,clothing,57,3,3. $500-999,14,24.6,false
+"sweater, cotton",sweater,cotton,clothing,57,4,"4. $1,000-2,499",18,31.6,false
+"cover-up, cotton",cover-up,cotton,clothing,57,4,"4. $1,000-2,499",6,10.5,false
+"sweater, cotton",sweater,cotton,clothing,57,5,"5. $2,500-4,999",0,0.0,false
+"cover-up, cotton",cover-up,cotton,clothing,57,5,"5. $2,500-4,999",0,0.0,false
+"sweater, cotton",sweater,cotton,clothing,57,6,"6. $5,000+",0,0.0,false
+"cover-up, cotton",cover-up,cotton,clothing,57,6,"6. $5,000+",0,0.0,false
+"sweater, mohair or alpaca",sweater,mohair or alpaca,clothing,56,1,1. Under $250,1,1.8,false
+"sweater, mohair or alpaca",sweater,mohair or alpaca,clothing,56,2,2. $250-499,12,21.4,false
+"sweater, mohair or alpaca",sweater,mohair or alpaca,clothing,56,3,3. $500-999,25,44.6,false
+"sweater, mohair or alpaca",sweater,mohair or alpaca,clothing,56,4,"4. $1,000-2,499",17,30.4,false
+"sweater, mohair or alpaca",sweater,mohair or alpaca,clothing,56,5,"5. $2,500-4,999",1,1.8,false
+"sweater, mohair or alpaca",sweater,mohair or alpaca,clothing,56,6,"6. $5,000+",0,0.0,false
+"skirt, leather",skirt,leather,clothing,53,1,1. Under $250,3,5.7,false
+"skirt, leather",skirt,leather,clothing,53,2,2. $250-499,1,1.9,true
+"skirt, leather",skirt,leather,clothing,53,3,3. $500-999,7,13.2,false
+"skirt, leather",skirt,leather,clothing,53,4,"4. $1,000-2,499",14,26.4,false
+"skirt, leather",skirt,leather,clothing,53,5,"5. $2,500-4,999",20,37.7,false
+"skirt, leather",skirt,leather,clothing,53,6,"6. $5,000+",8,15.1,false
+"trench coat, cotton",trench coat,cotton,clothing,51,1,1. Under $250,0,0.0,false
+"trench coat, cotton",trench coat,cotton,clothing,51,2,2. $250-499,4,7.8,false
+"trench coat, cotton",trench coat,cotton,clothing,51,3,3. $500-999,2,3.9,true
+"trench coat, cotton",trench coat,cotton,clothing,51,4,"4. $1,000-2,499",10,19.6,false
+"trench coat, cotton",trench coat,cotton,clothing,51,5,"5. $2,500-4,999",33,64.7,false
+"trench coat, cotton",trench coat,cotton,clothing,51,6,"6. $5,000+",2,3.9,false
+"jacket, shearling",jacket,shearling,clothing,48,1,1. Under $250,0,0.0,false
+"dress, cashmere",dress,cashmere,clothing,48,1,1. Under $250,0,0.0,false
+"jacket, shearling",jacket,shearling,clothing,48,2,2. $250-499,0,0.0,false
+"dress, cashmere",dress,cashmere,clothing,48,2,2. $250-499,2,4.2,false
+"jacket, shearling",jacket,shearling,clothing,48,3,3. $500-999,0,0.0,false
+"dress, cashmere",dress,cashmere,clothing,48,3,3. $500-999,14,29.2,false
+"jacket, shearling",jacket,shearling,clothing,48,4,"4. $1,000-2,499",19,39.6,false
+"dress, cashmere",dress,cashmere,clothing,48,4,"4. $1,000-2,499",20,41.7,false
+"jacket, shearling",jacket,shearling,clothing,48,5,"5. $2,500-4,999",22,45.8,false
+"dress, cashmere",dress,cashmere,clothing,48,5,"5. $2,500-4,999",10,20.8,false
+"jacket, shearling",jacket,shearling,clothing,48,6,"6. $5,000+",7,14.6,false
+"dress, cashmere",dress,cashmere,clothing,48,6,"6. $5,000+",2,4.2,false
+"sandals, plastic",sandals,plastic,shoes,44,1,1. Under $250,3,6.8,false
+"sandals, plastic",sandals,plastic,shoes,44,2,2. $250-499,15,34.1,false
+"sandals, plastic",sandals,plastic,shoes,44,3,3. $500-999,17,38.6,false
+"sandals, plastic",sandals,plastic,shoes,44,4,"4. $1,000-2,499",9,20.5,false
+"sandals, plastic",sandals,plastic,shoes,44,5,"5. $2,500-4,999",0,0.0,false
+"sandals, plastic",sandals,plastic,shoes,44,6,"6. $5,000+",0,0.0,false
+"skirt, linen",skirt,linen,clothing,43,1,1. Under $250,7,16.3,false
+"skirt, linen",skirt,linen,clothing,43,2,2. $250-499,13,30.2,false
+"skirt, linen",skirt,linen,clothing,43,3,3. $500-999,12,27.9,false
+"skirt, linen",skirt,linen,clothing,43,4,"4. $1,000-2,499",10,23.3,false
+"skirt, linen",skirt,linen,clothing,43,5,"5. $2,500-4,999",1,2.3,false
+"skirt, linen",skirt,linen,clothing,43,6,"6. $5,000+",0,0.0,false
+"sleepwear, wood-based",sleepwear,wood-based,clothing,41,1,1. Under $250,40,97.6,false
+"sleepwear, silk",sleepwear,silk,clothing,41,1,1. Under $250,0,0.0,false
+"sleepwear, wood-based",sleepwear,wood-based,clothing,41,2,2. $250-499,1,2.4,false
+"sleepwear, silk",sleepwear,silk,clothing,41,2,2. $250-499,10,24.4,false
+"sleepwear, wood-based",sleepwear,wood-based,clothing,41,3,3. $500-999,0,0.0,false
+"sleepwear, silk",sleepwear,silk,clothing,41,3,3. $500-999,21,51.2,false
+"sleepwear, wood-based",sleepwear,wood-based,clothing,41,4,"4. $1,000-2,499",0,0.0,false
+"sleepwear, silk",sleepwear,silk,clothing,41,4,"4. $1,000-2,499",10,24.4,false
+"sleepwear, wood-based",sleepwear,wood-based,clothing,41,5,"5. $2,500-4,999",0,0.0,false
+"sleepwear, silk",sleepwear,silk,clothing,41,5,"5. $2,500-4,999",0,0.0,false
+"sleepwear, wood-based",sleepwear,wood-based,clothing,41,6,"6. $5,000+",0,0.0,false
+"sleepwear, silk",sleepwear,silk,clothing,41,6,"6. $5,000+",0,0.0,false
+"cover-up, silk",cover-up,silk,clothing,39,1,1. Under $250,1,2.6,false
+"cover-up, silk",cover-up,silk,clothing,39,2,2. $250-499,3,7.7,false
+"cover-up, silk",cover-up,silk,clothing,39,3,3. $500-999,10,25.6,false
+"cover-up, silk",cover-up,silk,clothing,39,4,"4. $1,000-2,499",15,38.5,false
+"cover-up, silk",cover-up,silk,clothing,39,5,"5. $2,500-4,999",7,17.9,false
+"cover-up, silk",cover-up,silk,clothing,39,6,"6. $5,000+",3,7.7,false
+"mules, plastic",mules,plastic,shoes,38,1,1. Under $250,0,0.0,false
+"mules, plastic",mules,plastic,shoes,38,2,2. $250-499,3,7.9,false
+"mules, plastic",mules,plastic,shoes,38,3,3. $500-999,22,57.9,false
+"mules, plastic",mules,plastic,shoes,38,4,"4. $1,000-2,499",13,34.2,false
+"mules, plastic",mules,plastic,shoes,38,5,"5. $2,500-4,999",0,0.0,false
+"mules, plastic",mules,plastic,shoes,38,6,"6. $5,000+",0,0.0,false
+"cardigan, cotton",cardigan,cotton,clothing,36,1,1. Under $250,4,11.1,false
+"coat, shearling",coat,shearling,clothing,36,1,1. Under $250,0,0.0,false
+"cardigan, mohair or alpaca",cardigan,mohair or alpaca,clothing,36,1,1. Under $250,0,0.0,false
+"cardigan, cotton",cardigan,cotton,clothing,36,2,2. $250-499,7,19.4,false
+"coat, shearling",coat,shearling,clothing,36,2,2. $250-499,0,0.0,false
+"cardigan, mohair or alpaca",cardigan,mohair or alpaca,clothing,36,2,2. $250-499,7,19.4,false
+"cardigan, cotton",cardigan,cotton,clothing,36,3,3. $500-999,11,30.6,false
+"coat, shearling",coat,shearling,clothing,36,3,3. $500-999,0,0.0,false
+"cardigan, mohair or alpaca",cardigan,mohair or alpaca,clothing,36,3,3. $500-999,12,33.3,false
+"cardigan, cotton",cardigan,cotton,clothing,36,4,"4. $1,000-2,499",12,33.3,false
+"cardigan, mohair or alpaca",cardigan,mohair or alpaca,clothing,36,4,"4. $1,000-2,499",14,38.9,false
+"coat, shearling",coat,shearling,clothing,36,4,"4. $1,000-2,499",9,25.0,false
+"cardigan, cotton",cardigan,cotton,clothing,36,5,"5. $2,500-4,999",2,5.6,false
+"cardigan, mohair or alpaca",cardigan,mohair or alpaca,clothing,36,5,"5. $2,500-4,999",2,5.6,false
+"coat, shearling",coat,shearling,clothing,36,5,"5. $2,500-4,999",22,61.1,false
+"cardigan, cotton",cardigan,cotton,clothing,36,6,"6. $5,000+",0,0.0,false
+"cardigan, mohair or alpaca",cardigan,mohair or alpaca,clothing,36,6,"6. $5,000+",1,2.8,false
+"coat, shearling",coat,shearling,clothing,36,6,"6. $5,000+",5,13.9,false
+"shorts, linen",shorts,linen,clothing,35,1,1. Under $250,7,20.0,false
+"top, wood-based",top,wood-based,clothing,35,1,1. Under $250,26,74.3,false
+"shorts, linen",shorts,linen,clothing,35,2,2. $250-499,18,51.4,false
+"top, wood-based",top,wood-based,clothing,35,2,2. $250-499,8,22.9,false
+"shorts, linen",shorts,linen,clothing,35,3,3. $500-999,8,22.9,false
+"top, wood-based",top,wood-based,clothing,35,3,3. $500-999,1,2.9,false
+"shorts, linen",shorts,linen,clothing,35,4,"4. $1,000-2,499",2,5.7,false
+"top, wood-based",top,wood-based,clothing,35,4,"4. $1,000-2,499",0,0.0,false
+"shorts, linen",shorts,linen,clothing,35,5,"5. $2,500-4,999",0,0.0,false
+"top, wood-based",top,wood-based,clothing,35,5,"5. $2,500-4,999",0,0.0,false
+"shorts, linen",shorts,linen,clothing,35,6,"6. $5,000+",0,0.0,false
+"top, wood-based",top,wood-based,clothing,35,6,"6. $5,000+",0,0.0,false
+"jumpsuit, cotton",jumpsuit,cotton,clothing,34,1,1. Under $250,7,20.6,false
+"underwear, cotton",underwear,cotton,clothing,34,1,1. Under $250,34,100.0,false
+"jumpsuit, cotton",jumpsuit,cotton,clothing,34,2,2. $250-499,21,61.8,false
+"underwear, cotton",underwear,cotton,clothing,34,2,2. $250-499,0,0.0,false
+"jumpsuit, cotton",jumpsuit,cotton,clothing,34,3,3. $500-999,3,8.8,false
+"underwear, cotton",underwear,cotton,clothing,34,3,3. $500-999,0,0.0,false
+"jumpsuit, cotton",jumpsuit,cotton,clothing,34,4,"4. $1,000-2,499",1,2.9,false
+"underwear, cotton",underwear,cotton,clothing,34,4,"4. $1,000-2,499",0,0.0,false
+"jumpsuit, cotton",jumpsuit,cotton,clothing,34,5,"5. $2,500-4,999",2,5.9,false
+"underwear, cotton",underwear,cotton,clothing,34,5,"5. $2,500-4,999",0,0.0,false
+"jumpsuit, cotton",jumpsuit,cotton,clothing,34,6,"6. $5,000+",0,0.0,false
+"underwear, cotton",underwear,cotton,clothing,34,6,"6. $5,000+",0,0.0,false
+"vest, wool",vest,wool,clothing,31,1,1. Under $250,2,6.5,false
+"bra, cotton",bra,cotton,clothing,31,1,1. Under $250,27,87.1,false
+"vest, down",vest,down,clothing,31,1,1. Under $250,0,0.0,false
+"vest, wool",vest,wool,clothing,31,2,2. $250-499,7,22.6,false
+"bra, cotton",bra,cotton,clothing,31,2,2. $250-499,2,6.5,false
+"vest, down",vest,down,clothing,31,2,2. $250-499,2,6.5,false
+"vest, wool",vest,wool,clothing,31,3,3. $500-999,4,12.9,false
+"bra, cotton",bra,cotton,clothing,31,3,3. $500-999,2,6.5,false
+"vest, down",vest,down,clothing,31,3,3. $500-999,16,51.6,false
+"vest, wool",vest,wool,clothing,31,4,"4. $1,000-2,499",16,51.6,false
+"bra, cotton",bra,cotton,clothing,31,4,"4. $1,000-2,499",0,0.0,false
+"vest, down",vest,down,clothing,31,4,"4. $1,000-2,499",12,38.7,false
+"vest, wool",vest,wool,clothing,31,5,"5. $2,500-4,999",2,6.5,false
+"bra, cotton",bra,cotton,clothing,31,5,"5. $2,500-4,999",0,0.0,false
+"vest, down",vest,down,clothing,31,5,"5. $2,500-4,999",1,3.2,false
+"vest, wool",vest,wool,clothing,31,6,"6. $5,000+",0,0.0,false
+"bra, cotton",bra,cotton,clothing,31,6,"6. $5,000+",0,0.0,false
+"vest, down",vest,down,clothing,31,6,"6. $5,000+",0,0.0,false
+"pumps, plastic",pumps,plastic,shoes,29,1,1. Under $250,0,0.0,false
+"pumps, plastic",pumps,plastic,shoes,29,2,2. $250-499,1,3.4,false
+"pumps, plastic",pumps,plastic,shoes,29,3,3. $500-999,11,37.9,false
+"pumps, plastic",pumps,plastic,shoes,29,4,"4. $1,000-2,499",17,58.6,false
+"pumps, plastic",pumps,plastic,shoes,29,5,"5. $2,500-4,999",0,0.0,false
+"pumps, plastic",pumps,plastic,shoes,29,6,"6. $5,000+",0,0.0,false
+"jumpsuit, linen",jumpsuit,linen,clothing,28,1,1. Under $250,3,10.7,false
+"other, leather",other,leather,shoes,28,1,1. Under $250,2,7.1,false
+"jumpsuit, linen",jumpsuit,linen,clothing,28,2,2. $250-499,14,50.0,false
+"other, leather",other,leather,shoes,28,2,2. $250-499,4,14.3,false
+"jumpsuit, linen",jumpsuit,linen,clothing,28,3,3. $500-999,8,28.6,false
+"other, leather",other,leather,shoes,28,3,3. $500-999,16,57.1,false
+"jumpsuit, linen",jumpsuit,linen,clothing,28,4,"4. $1,000-2,499",2,7.1,false
+"other, leather",other,leather,shoes,28,4,"4. $1,000-2,499",6,21.4,false
+"jumpsuit, linen",jumpsuit,linen,clothing,28,5,"5. $2,500-4,999",1,3.6,false
+"other, leather",other,leather,shoes,28,5,"5. $2,500-4,999",0,0.0,false
+"jumpsuit, linen",jumpsuit,linen,clothing,28,6,"6. $5,000+",0,0.0,false
+"other, leather",other,leather,shoes,28,6,"6. $5,000+",0,0.0,false
+"pants, cashmere",pants,cashmere,clothing,27,1,1. Under $250,0,0.0,false
+"shorts, silk",shorts,silk,clothing,27,1,1. Under $250,3,11.1,false
+"pants, cashmere",pants,cashmere,clothing,27,2,2. $250-499,3,11.1,false
+"shorts, silk",shorts,silk,clothing,27,2,2. $250-499,14,51.9,false
+"pants, cashmere",pants,cashmere,clothing,27,3,3. $500-999,6,22.2,false
+"shorts, silk",shorts,silk,clothing,27,3,3. $500-999,5,18.5,false
+"pants, cashmere",pants,cashmere,clothing,27,4,"4. $1,000-2,499",6,22.2,false
+"shorts, silk",shorts,silk,clothing,27,4,"4. $1,000-2,499",5,18.5,false
+"pants, cashmere",pants,cashmere,clothing,27,5,"5. $2,500-4,999",12,44.4,false
+"shorts, silk",shorts,silk,clothing,27,5,"5. $2,500-4,999",0,0.0,false
+"pants, cashmere",pants,cashmere,clothing,27,6,"6. $5,000+",0,0.0,false
+"shorts, silk",shorts,silk,clothing,27,6,"6. $5,000+",0,0.0,false
+"vest, cotton",vest,cotton,clothing,26,1,1. Under $250,7,26.9,false
+"vest, cotton",vest,cotton,clothing,26,2,2. $250-499,7,26.9,false
+"vest, cotton",vest,cotton,clothing,26,3,3. $500-999,6,23.1,false
+"vest, cotton",vest,cotton,clothing,26,4,"4. $1,000-2,499",5,19.2,false
+"vest, cotton",vest,cotton,clothing,26,5,"5. $2,500-4,999",1,3.8,false
+"vest, cotton",vest,cotton,clothing,26,6,"6. $5,000+",0,0.0,false
+"coat, cashmere",coat,cashmere,clothing,25,1,1. Under $250,0,0.0,false
+"coat, down",coat,down,clothing,25,1,1. Under $250,0,0.0,false
+"coat, cashmere",coat,cashmere,clothing,25,2,2. $250-499,0,0.0,false
+"coat, down",coat,down,clothing,25,2,2. $250-499,0,0.0,false
+"coat, cashmere",coat,cashmere,clothing,25,3,3. $500-999,0,0.0,false
+"coat, down",coat,down,clothing,25,3,3. $500-999,3,12.0,false
+"coat, down",coat,down,clothing,25,4,"4. $1,000-2,499",18,72.0,false
+"coat, cashmere",coat,cashmere,clothing,25,4,"4. $1,000-2,499",4,16.0,false
+"coat, down",coat,down,clothing,25,5,"5. $2,500-4,999",4,16.0,false
+"coat, cashmere",coat,cashmere,clothing,25,5,"5. $2,500-4,999",3,12.0,false
+"coat, down",coat,down,clothing,25,6,"6. $5,000+",0,0.0,false
+"coat, cashmere",coat,cashmere,clothing,25,6,"6. $5,000+",18,72.0,false
+"shirt, wool",shirt,wool,clothing,24,1,1. Under $250,0,0.0,false
+"coat, cotton",coat,cotton,clothing,24,1,1. Under $250,0,0.0,false
+"pants, wood-based",pants,wood-based,clothing,24,1,1. Under $250,8,33.3,false
+"coat, cotton",coat,cotton,clothing,24,2,2. $250-499,1,4.2,false
+"shirt, wool",shirt,wool,clothing,24,2,2. $250-499,6,25.0,false
+"pants, wood-based",pants,wood-based,clothing,24,2,2. $250-499,15,62.5,false
+"shirt, wool",shirt,wool,clothing,24,3,3. $500-999,6,25.0,false
+"coat, cotton",coat,cotton,clothing,24,3,3. $500-999,5,20.8,false
+"pants, wood-based",pants,wood-based,clothing,24,3,3. $500-999,1,4.2,false
+"coat, cotton",coat,cotton,clothing,24,4,"4. $1,000-2,499",8,33.3,false
+"shirt, wool",shirt,wool,clothing,24,4,"4. $1,000-2,499",9,37.5,false
+"pants, wood-based",pants,wood-based,clothing,24,4,"4. $1,000-2,499",0,0.0,false
+"shirt, wool",shirt,wool,clothing,24,5,"5. $2,500-4,999",2,8.3,false
+"coat, cotton",coat,cotton,clothing,24,5,"5. $2,500-4,999",9,37.5,false
+"pants, wood-based",pants,wood-based,clothing,24,5,"5. $2,500-4,999",0,0.0,false
+"shirt, wool",shirt,wool,clothing,24,6,"6. $5,000+",1,4.2,false
+"coat, cotton",coat,cotton,clothing,24,6,"6. $5,000+",1,4.2,false
+"pants, wood-based",pants,wood-based,clothing,24,6,"6. $5,000+",0,0.0,false
+"top, cashmere",top,cashmere,clothing,23,1,1. Under $250,0,0.0,false
+"pants, faux leather or fur",pants,faux leather or fur,clothing,23,1,1. Under $250,3,13.0,false
+"top, cashmere",top,cashmere,clothing,23,2,2. $250-499,8,34.8,false
+"pants, faux leather or fur",pants,faux leather or fur,clothing,23,2,2. $250-499,9,39.1,false
+"top, cashmere",top,cashmere,clothing,23,3,3. $500-999,8,34.8,false
+"pants, faux leather or fur",pants,faux leather or fur,clothing,23,3,3. $500-999,8,34.8,false
+"top, cashmere",top,cashmere,clothing,23,4,"4. $1,000-2,499",7,30.4,false
+"pants, faux leather or fur",pants,faux leather or fur,clothing,23,4,"4. $1,000-2,499",3,13.0,false
+"top, cashmere",top,cashmere,clothing,23,5,"5. $2,500-4,999",0,0.0,false
+"pants, faux leather or fur",pants,faux leather or fur,clothing,23,5,"5. $2,500-4,999",0,0.0,false
+"top, cashmere",top,cashmere,clothing,23,6,"6. $5,000+",0,0.0,false
+"pants, faux leather or fur",pants,faux leather or fur,clothing,23,6,"6. $5,000+",0,0.0,false
+"gown, wool",gown,wool,clothing,21,1,1. Under $250,0,0.0,false
+"mules, suede",mules,suede,shoes,21,1,1. Under $250,0,0.0,false
+"gown, wool",gown,wool,clothing,21,2,2. $250-499,0,0.0,false
+"mules, suede",mules,suede,shoes,21,2,2. $250-499,4,19.0,false
+"gown, wool",gown,wool,clothing,21,3,3. $500-999,1,4.8,false
+"mules, suede",mules,suede,shoes,21,3,3. $500-999,14,66.7,false
+"gown, wool",gown,wool,clothing,21,4,"4. $1,000-2,499",3,14.3,false
+"mules, suede",mules,suede,shoes,21,4,"4. $1,000-2,499",3,14.3,false
+"gown, wool",gown,wool,clothing,21,5,"5. $2,500-4,999",9,42.9,false
+"mules, suede",mules,suede,shoes,21,5,"5. $2,500-4,999",0,0.0,false
+"gown, wool",gown,wool,clothing,21,6,"6. $5,000+",8,38.1,false
+"mules, suede",mules,suede,shoes,21,6,"6. $5,000+",0,0.0,false
+"dress, leather",dress,leather,clothing,20,1,1. Under $250,0,0.0,false
+"dress, leather",dress,leather,clothing,20,2,2. $250-499,1,5.0,false
+"dress, leather",dress,leather,clothing,20,3,3. $500-999,2,10.0,false
+"dress, leather",dress,leather,clothing,20,4,"4. $1,000-2,499",7,35.0,false
+"dress, leather",dress,leather,clothing,20,5,"5. $2,500-4,999",3,15.0,false
+"dress, leather",dress,leather,clothing,20,6,"6. $5,000+",7,35.0,false
+"sneakers, plastic",sneakers,plastic,shoes,19,1,1. Under $250,6,31.6,false
+"blazer, silk",blazer,silk,clothing,19,1,1. Under $250,0,0.0,false
+"jacket, faux leather or fur",jacket,faux leather or fur,clothing,19,1,1. Under $250,1,5.3,false
+"sneakers, plastic",sneakers,plastic,shoes,19,2,2. $250-499,1,5.3,false
+"blazer, silk",blazer,silk,clothing,19,2,2. $250-499,0,0.0,false
+"jacket, faux leather or fur",jacket,faux leather or fur,clothing,19,2,2. $250-499,3,15.8,false
+"sneakers, plastic",sneakers,plastic,shoes,19,3,3. $500-999,5,26.3,false
+"blazer, silk",blazer,silk,clothing,19,3,3. $500-999,5,26.3,false
+"jacket, faux leather or fur",jacket,faux leather or fur,clothing,19,3,3. $500-999,8,42.1,false
+"sneakers, plastic",sneakers,plastic,shoes,19,4,"4. $1,000-2,499",7,36.8,false
+"blazer, silk",blazer,silk,clothing,19,4,"4. $1,000-2,499",7,36.8,false
+"jacket, faux leather or fur",jacket,faux leather or fur,clothing,19,4,"4. $1,000-2,499",6,31.6,false
+"sneakers, plastic",sneakers,plastic,shoes,19,5,"5. $2,500-4,999",0,0.0,false
+"jacket, faux leather or fur",jacket,faux leather or fur,clothing,19,5,"5. $2,500-4,999",0,0.0,false
+"blazer, silk",blazer,silk,clothing,19,5,"5. $2,500-4,999",7,36.8,false
+"sneakers, plastic",sneakers,plastic,shoes,19,6,"6. $5,000+",0,0.0,false
+"jacket, faux leather or fur",jacket,faux leather or fur,clothing,19,6,"6. $5,000+",1,5.3,false
+"blazer, silk",blazer,silk,clothing,19,6,"6. $5,000+",0,0.0,false
+"flats, suede",flats,suede,shoes,18,1,1. Under $250,0,0.0,false
+"coat, faux leather or fur",coat,faux leather or fur,clothing,18,1,1. Under $250,0,0.0,false
+"blazer, linen",blazer,linen,clothing,18,1,1. Under $250,0,0.0,false
+"bodysuit, cotton",bodysuit,cotton,clothing,18,1,1. Under $250,8,44.4,false
+"flats, suede",flats,suede,shoes,18,2,2. $250-499,0,0.0,false
+"coat, faux leather or fur",coat,faux leather or fur,clothing,18,2,2. $250-499,4,22.2,false
+"blazer, linen",blazer,linen,clothing,18,2,2. $250-499,5,27.8,false
+"bodysuit, cotton",bodysuit,cotton,clothing,18,2,2. $250-499,2,11.1,false
+"flats, suede",flats,suede,shoes,18,3,3. $500-999,17,94.4,false
+"coat, faux leather or fur",coat,faux leather or fur,clothing,18,3,3. $500-999,6,33.3,false
+"blazer, linen",blazer,linen,clothing,18,3,3. $500-999,7,38.9,false
+"bodysuit, cotton",bodysuit,cotton,clothing,18,3,3. $500-999,3,16.7,false
+"flats, suede",flats,suede,shoes,18,4,"4. $1,000-2,499",1,5.6,false
+"coat, faux leather or fur",coat,faux leather or fur,clothing,18,4,"4. $1,000-2,499",5,27.8,false
+"blazer, linen",blazer,linen,clothing,18,4,"4. $1,000-2,499",2,11.1,false
+"bodysuit, cotton",bodysuit,cotton,clothing,18,4,"4. $1,000-2,499",5,27.8,false
+"flats, suede",flats,suede,shoes,18,5,"5. $2,500-4,999",0,0.0,false
+"coat, faux leather or fur",coat,faux leather or fur,clothing,18,5,"5. $2,500-4,999",1,5.6,false
+"blazer, linen",blazer,linen,clothing,18,5,"5. $2,500-4,999",4,22.2,false
+"bodysuit, cotton",bodysuit,cotton,clothing,18,5,"5. $2,500-4,999",0,0.0,false
+"flats, suede",flats,suede,shoes,18,6,"6. $5,000+",0,0.0,false
+"coat, faux leather or fur",coat,faux leather or fur,clothing,18,6,"6. $5,000+",2,11.1,false
+"blazer, linen",blazer,linen,clothing,18,6,"6. $5,000+",0,0.0,false
+"bodysuit, cotton",bodysuit,cotton,clothing,18,6,"6. $5,000+",0,0.0,false
+"loafers, suede",loafers,suede,shoes,17,1,1. Under $250,0,0.0,false
+"blazer, leather",blazer,leather,clothing,17,1,1. Under $250,0,0.0,false
+"loafers, suede",loafers,suede,shoes,17,2,2. $250-499,2,11.8,false
+"blazer, leather",blazer,leather,clothing,17,2,2. $250-499,1,5.9,false
+"loafers, suede",loafers,suede,shoes,17,3,3. $500-999,10,58.8,false
+"blazer, leather",blazer,leather,clothing,17,3,3. $500-999,4,23.5,false
+"loafers, suede",loafers,suede,shoes,17,4,"4. $1,000-2,499",5,29.4,false
+"blazer, leather",blazer,leather,clothing,17,4,"4. $1,000-2,499",6,35.3,false
+"loafers, suede",loafers,suede,shoes,17,5,"5. $2,500-4,999",0,0.0,false
+"blazer, leather",blazer,leather,clothing,17,5,"5. $2,500-4,999",3,17.6,false
+"loafers, suede",loafers,suede,shoes,17,6,"6. $5,000+",0,0.0,false
+"blazer, leather",blazer,leather,clothing,17,6,"6. $5,000+",3,17.6,false
+"bikini, other",bikini,other,clothing,16,1,1. Under $250,16,100.0,false
+"bra, silk",bra,silk,clothing,16,1,1. Under $250,11,68.8,false
+"shorts, wool",shorts,wool,clothing,16,1,1. Under $250,1,6.3,false
+"jumpsuit, silk",jumpsuit,silk,clothing,16,1,1. Under $250,0,0.0,false
+"boots, plastic",boots,plastic,shoes,16,1,1. Under $250,2,12.5,false
+"bikini, other",bikini,other,clothing,16,2,2. $250-499,0,0.0,false
+"shorts, wool",shorts,wool,clothing,16,2,2. $250-499,1,6.3,false
+"bra, silk",bra,silk,clothing,16,2,2. $250-499,2,12.5,false
+"jumpsuit, silk",jumpsuit,silk,clothing,16,2,2. $250-499,2,12.5,false
+"boots, plastic",boots,plastic,shoes,16,2,2. $250-499,5,31.3,false
+"bikini, other",bikini,other,clothing,16,3,3. $500-999,0,0.0,false
+"bra, silk",bra,silk,clothing,16,3,3. $500-999,1,6.3,false
+"shorts, wool",shorts,wool,clothing,16,3,3. $500-999,4,25.0,false
+"boots, plastic",boots,plastic,shoes,16,3,3. $500-999,9,56.3,false
+"jumpsuit, silk",jumpsuit,silk,clothing,16,3,3. $500-999,6,37.5,false
+"bikini, other",bikini,other,clothing,16,4,"4. $1,000-2,499",0,0.0,false
+"shorts, wool",shorts,wool,clothing,16,4,"4. $1,000-2,499",10,62.5,false
+"bra, silk",bra,silk,clothing,16,4,"4. $1,000-2,499",1,6.3,false
+"boots, plastic",boots,plastic,shoes,16,4,"4. $1,000-2,499",0,0.0,false
+"jumpsuit, silk",jumpsuit,silk,clothing,16,4,"4. $1,000-2,499",1,6.3,false
+"bikini, other",bikini,other,clothing,16,5,"5. $2,500-4,999",0,0.0,false
+"shorts, wool",shorts,wool,clothing,16,5,"5. $2,500-4,999",0,0.0,false
+"bra, silk",bra,silk,clothing,16,5,"5. $2,500-4,999",1,6.3,false
+"jumpsuit, silk",jumpsuit,silk,clothing,16,5,"5. $2,500-4,999",3,18.8,false
+"boots, plastic",boots,plastic,shoes,16,5,"5. $2,500-4,999",0,0.0,false
+"bikini, other",bikini,other,clothing,16,6,"6. $5,000+",0,0.0,false
+"bra, silk",bra,silk,clothing,16,6,"6. $5,000+",0,0.0,false
+"shorts, wool",shorts,wool,clothing,16,6,"6. $5,000+",0,0.0,false
+"jumpsuit, silk",jumpsuit,silk,clothing,16,6,"6. $5,000+",4,25.0,false
+"boots, plastic",boots,plastic,shoes,16,6,"6. $5,000+",0,0.0,false
+"sweater, silk",sweater,silk,clothing,15,1,1. Under $250,0,0.0,false
+"gown, cotton",gown,cotton,clothing,15,1,1. Under $250,0,0.0,false
+"jumpsuit, wool",jumpsuit,wool,clothing,15,1,1. Under $250,0,0.0,false
+"sweater, silk",sweater,silk,clothing,15,2,2. $250-499,3,20.0,false
+"gown, cotton",gown,cotton,clothing,15,2,2. $250-499,0,0.0,false
+"jumpsuit, wool",jumpsuit,wool,clothing,15,2,2. $250-499,3,20.0,false
+"sweater, silk",sweater,silk,clothing,15,3,3. $500-999,1,6.7,false
+"gown, cotton",gown,cotton,clothing,15,3,3. $500-999,0,0.0,false
+"jumpsuit, wool",jumpsuit,wool,clothing,15,3,3. $500-999,0,0.0,false
+"sweater, silk",sweater,silk,clothing,15,4,"4. $1,000-2,499",10,66.7,false
+"gown, cotton",gown,cotton,clothing,15,4,"4. $1,000-2,499",3,20.0,false
+"jumpsuit, wool",jumpsuit,wool,clothing,15,4,"4. $1,000-2,499",4,26.7,false
+"sweater, silk",sweater,silk,clothing,15,5,"5. $2,500-4,999",1,6.7,false
+"gown, cotton",gown,cotton,clothing,15,5,"5. $2,500-4,999",9,60.0,false
+"jumpsuit, wool",jumpsuit,wool,clothing,15,5,"5. $2,500-4,999",5,33.3,false
+"sweater, silk",sweater,silk,clothing,15,6,"6. $5,000+",0,0.0,false
+"gown, cotton",gown,cotton,clothing,15,6,"6. $5,000+",3,20.0,false
+"jumpsuit, wool",jumpsuit,wool,clothing,15,6,"6. $5,000+",3,20.0,false
+"sandals, other",sandals,other,shoes,14,1,1. Under $250,0,0.0,false
+"sandals, other",sandals,other,shoes,14,2,2. $250-499,4,28.6,false
+"sandals, other",sandals,other,shoes,14,3,3. $500-999,5,35.7,false
+"sandals, other",sandals,other,shoes,14,4,"4. $1,000-2,499",5,35.7,false
+"sandals, other",sandals,other,shoes,14,5,"5. $2,500-4,999",0,0.0,false
+"sandals, other",sandals,other,shoes,14,6,"6. $5,000+",0,0.0,false
+"other, suede",other,suede,shoes,13,1,1. Under $250,4,30.8,false
+"underwear, silk",underwear,silk,clothing,13,1,1. Under $250,13,100.0,false
+"leggings, leather",leggings,leather,clothing,13,1,1. Under $250,4,30.8,false
+"top, leather",top,leather,clothing,13,1,1. Under $250,1,7.7,false
+"sleepwear, linen",sleepwear,linen,clothing,13,1,1. Under $250,6,46.2,false
+"other, cotton",other,cotton,clothing,13,1,1. Under $250,10,76.9,false
+"coat, leather",coat,leather,clothing,13,1,1. Under $250,0,0.0,false
+"other, suede",other,suede,shoes,13,2,2. $250-499,2,15.4,false
+"underwear, silk",underwear,silk,clothing,13,2,2. $250-499,0,0.0,false
+"leggings, leather",leggings,leather,clothing,13,2,2. $250-499,0,0.0,false
+"top, leather",top,leather,clothing,13,2,2. $250-499,2,15.4,false
+"sleepwear, linen",sleepwear,linen,clothing,13,2,2. $250-499,4,30.8,false
+"other, cotton",other,cotton,clothing,13,2,2. $250-499,0,0.0,false
+"coat, leather",coat,leather,clothing,13,2,2. $250-499,0,0.0,false
+"other, suede",other,suede,shoes,13,3,3. $500-999,4,30.8,false
+"leggings, leather",leggings,leather,clothing,13,3,3. $500-999,1,7.7,false
+"underwear, silk",underwear,silk,clothing,13,3,3. $500-999,0,0.0,false
+"top, leather",top,leather,clothing,13,3,3. $500-999,4,30.8,false
+"sleepwear, linen",sleepwear,linen,clothing,13,3,3. $500-999,3,23.1,false
+"coat, leather",coat,leather,clothing,13,3,3. $500-999,0,0.0,false
+"other, cotton",other,cotton,clothing,13,3,3. $500-999,3,23.1,false
+"other, suede",other,suede,shoes,13,4,"4. $1,000-2,499",3,23.1,false
+"top, leather",top,leather,clothing,13,4,"4. $1,000-2,499",4,30.8,false
+"leggings, leather",leggings,leather,clothing,13,4,"4. $1,000-2,499",7,53.8,false
+"underwear, silk",underwear,silk,clothing,13,4,"4. $1,000-2,499",0,0.0,false
+"sleepwear, linen",sleepwear,linen,clothing,13,4,"4. $1,000-2,499",0,0.0,false
+"other, cotton",other,cotton,clothing,13,4,"4. $1,000-2,499",0,0.0,false
+"coat, leather",coat,leather,clothing,13,4,"4. $1,000-2,499",3,23.1,false
+"other, suede",other,suede,shoes,13,5,"5. $2,500-4,999",0,0.0,false
+"leggings, leather",leggings,leather,clothing,13,5,"5. $2,500-4,999",1,7.7,false
+"top, leather",top,leather,clothing,13,5,"5. $2,500-4,999",2,15.4,false
+"underwear, silk",underwear,silk,clothing,13,5,"5. $2,500-4,999",0,0.0,false
+"sleepwear, linen",sleepwear,linen,clothing,13,5,"5. $2,500-4,999",0,0.0,false
+"other, cotton",other,cotton,clothing,13,5,"5. $2,500-4,999",0,0.0,false
+"coat, leather",coat,leather,clothing,13,5,"5. $2,500-4,999",5,38.5,false
+"other, suede",other,suede,shoes,13,6,"6. $5,000+",0,0.0,false
+"leggings, leather",leggings,leather,clothing,13,6,"6. $5,000+",0,0.0,false
+"top, leather",top,leather,clothing,13,6,"6. $5,000+",0,0.0,false
+"underwear, silk",underwear,silk,clothing,13,6,"6. $5,000+",0,0.0,false
+"sleepwear, linen",sleepwear,linen,clothing,13,6,"6. $5,000+",0,0.0,false
+"other, cotton",other,cotton,clothing,13,6,"6. $5,000+",0,0.0,false
+"coat, leather",coat,leather,clothing,13,6,"6. $5,000+",5,38.5,false
+"skirt, cashmere",skirt,cashmere,clothing,12,1,1. Under $250,0,0.0,false
+"skirt, faux leather or fur",skirt,faux leather or fur,clothing,12,1,1. Under $250,0,0.0,false
+"other, cashmere",other,cashmere,clothing,12,1,1. Under $250,6,50.0,false
+"cover-up, linen",cover-up,linen,clothing,12,1,1. Under $250,0,0.0,false
+"trench coat, leather",trench coat,leather,clothing,12,1,1. Under $250,0,0.0,false
+"jacket, cashmere",jacket,cashmere,clothing,12,1,1. Under $250,0,0.0,false
+"skirt, cashmere",skirt,cashmere,clothing,12,2,2. $250-499,2,16.7,false
+"other, cashmere",other,cashmere,clothing,12,2,2. $250-499,3,25.0,false
+"skirt, faux leather or fur",skirt,faux leather or fur,clothing,12,2,2. $250-499,8,66.7,false
+"trench coat, leather",trench coat,leather,clothing,12,2,2. $250-499,0,0.0,false
+"jacket, cashmere",jacket,cashmere,clothing,12,2,2. $250-499,0,0.0,false
+"cover-up, linen",cover-up,linen,clothing,12,2,2. $250-499,2,16.7,false
+"skirt, cashmere",skirt,cashmere,clothing,12,3,3. $500-999,4,33.3,false
+"other, cashmere",other,cashmere,clothing,12,3,3. $500-999,3,25.0,false
+"skirt, faux leather or fur",skirt,faux leather or fur,clothing,12,3,3. $500-999,4,33.3,false
+"cover-up, linen",cover-up,linen,clothing,12,3,3. $500-999,7,58.3,false
+"trench coat, leather",trench coat,leather,clothing,12,3,3. $500-999,1,8.3,false
+"jacket, cashmere",jacket,cashmere,clothing,12,3,3. $500-999,1,8.3,false
+"skirt, cashmere",skirt,cashmere,clothing,12,4,"4. $1,000-2,499",2,16.7,false
+"skirt, faux leather or fur",skirt,faux leather or fur,clothing,12,4,"4. $1,000-2,499",0,0.0,false
+"other, cashmere",other,cashmere,clothing,12,4,"4. $1,000-2,499",0,0.0,false
+"jacket, cashmere",jacket,cashmere,clothing,12,4,"4. $1,000-2,499",1,8.3,false
+"trench coat, leather",trench coat,leather,clothing,12,4,"4. $1,000-2,499",3,25.0,false
+"cover-up, linen",cover-up,linen,clothing,12,4,"4. $1,000-2,499",1,8.3,false
+"skirt, cashmere",skirt,cashmere,clothing,12,5,"5. $2,500-4,999",4,33.3,false
+"other, cashmere",other,cashmere,clothing,12,5,"5. $2,500-4,999",0,0.0,false
+"skirt, faux leather or fur",skirt,faux leather or fur,clothing,12,5,"5. $2,500-4,999",0,0.0,false
+"jacket, cashmere",jacket,cashmere,clothing,12,5,"5. $2,500-4,999",3,25.0,false
+"trench coat, leather",trench coat,leather,clothing,12,5,"5. $2,500-4,999",4,33.3,false
+"cover-up, linen",cover-up,linen,clothing,12,5,"5. $2,500-4,999",2,16.7,false
+"skirt, cashmere",skirt,cashmere,clothing,12,6,"6. $5,000+",0,0.0,false
+"skirt, faux leather or fur",skirt,faux leather or fur,clothing,12,6,"6. $5,000+",0,0.0,false
+"other, cashmere",other,cashmere,clothing,12,6,"6. $5,000+",0,0.0,false
+"jacket, cashmere",jacket,cashmere,clothing,12,6,"6. $5,000+",7,58.3,false
+"trench coat, leather",trench coat,leather,clothing,12,6,"6. $5,000+",4,33.3,false
+"cover-up, linen",cover-up,linen,clothing,12,6,"6. $5,000+",0,0.0,false
+"leggings, wool",leggings,wool,clothing,11,1,1. Under $250,5,45.5,false
+"t-shirt, wood-based",t-shirt,wood-based,clothing,11,1,1. Under $250,11,100.0,false
+"vest, cashmere",vest,cashmere,clothing,11,1,1. Under $250,1,9.1,false
+"dress, faux leather or fur",dress,faux leather or fur,clothing,11,1,1. Under $250,2,18.2,false
+"leggings, wool",leggings,wool,clothing,11,2,2. $250-499,2,18.2,false
+"vest, cashmere",vest,cashmere,clothing,11,2,2. $250-499,3,27.3,false
+"t-shirt, wood-based",t-shirt,wood-based,clothing,11,2,2. $250-499,0,0.0,false
+"dress, faux leather or fur",dress,faux leather or fur,clothing,11,2,2. $250-499,4,36.4,false
+"leggings, wool",leggings,wool,clothing,11,3,3. $500-999,0,0.0,false
+"t-shirt, wood-based",t-shirt,wood-based,clothing,11,3,3. $500-999,0,0.0,false
+"vest, cashmere",vest,cashmere,clothing,11,3,3. $500-999,4,36.4,false
+"dress, faux leather or fur",dress,faux leather or fur,clothing,11,3,3. $500-999,5,45.5,false
+"leggings, wool",leggings,wool,clothing,11,4,"4. $1,000-2,499",3,27.3,false
+"t-shirt, wood-based",t-shirt,wood-based,clothing,11,4,"4. $1,000-2,499",0,0.0,false
+"vest, cashmere",vest,cashmere,clothing,11,4,"4. $1,000-2,499",3,27.3,false
+"dress, faux leather or fur",dress,faux leather or fur,clothing,11,4,"4. $1,000-2,499",0,0.0,false
+"leggings, wool",leggings,wool,clothing,11,5,"5. $2,500-4,999",0,0.0,false
+"t-shirt, wood-based",t-shirt,wood-based,clothing,11,5,"5. $2,500-4,999",0,0.0,false
+"vest, cashmere",vest,cashmere,clothing,11,5,"5. $2,500-4,999",0,0.0,false
+"dress, faux leather or fur",dress,faux leather or fur,clothing,11,5,"5. $2,500-4,999",0,0.0,false
+"leggings, wool",leggings,wool,clothing,11,6,"6. $5,000+",1,9.1,false
+"t-shirt, wood-based",t-shirt,wood-based,clothing,11,6,"6. $5,000+",0,0.0,false
+"vest, cashmere",vest,cashmere,clothing,11,6,"6. $5,000+",0,0.0,false
+"dress, faux leather or fur",dress,faux leather or fur,clothing,11,6,"6. $5,000+",0,0.0,false
+"boots, faux leather or fur",boots,faux leather or fur,shoes,10,1,1. Under $250,4,40.0,false
+"dress, other",dress,other,clothing,10,1,1. Under $250,0,0.0,false
+"underwear, wood-based",underwear,wood-based,clothing,10,1,1. Under $250,10,100.0,false
+"coat, mohair or alpaca",coat,mohair or alpaca,clothing,10,1,1. Under $250,0,0.0,false
+"mules, other",mules,other,shoes,10,1,1. Under $250,0,0.0,false
+"boots, faux leather or fur",boots,faux leather or fur,shoes,10,2,2. $250-499,3,30.0,false
+"dress, other",dress,other,clothing,10,2,2. $250-499,1,10.0,false
+"underwear, wood-based",underwear,wood-based,clothing,10,2,2. $250-499,0,0.0,false
+"coat, mohair or alpaca",coat,mohair or alpaca,clothing,10,2,2. $250-499,0,0.0,false
+"mules, other",mules,other,shoes,10,2,2. $250-499,1,10.0,false
+"boots, faux leather or fur",boots,faux leather or fur,shoes,10,3,3. $500-999,1,10.0,false
+"underwear, wood-based",underwear,wood-based,clothing,10,3,3. $500-999,0,0.0,false
+"dress, other",dress,other,clothing,10,3,3. $500-999,4,40.0,false
+"coat, mohair or alpaca",coat,mohair or alpaca,clothing,10,3,3. $500-999,1,10.0,false
+"mules, other",mules,other,shoes,10,3,3. $500-999,5,50.0,false
+"boots, faux leather or fur",boots,faux leather or fur,shoes,10,4,"4. $1,000-2,499",1,10.0,false
+"coat, mohair or alpaca",coat,mohair or alpaca,clothing,10,4,"4. $1,000-2,499",1,10.0,false
+"dress, other",dress,other,clothing,10,4,"4. $1,000-2,499",3,30.0,false
+"underwear, wood-based",underwear,wood-based,clothing,10,4,"4. $1,000-2,499",0,0.0,false
+"mules, other",mules,other,shoes,10,4,"4. $1,000-2,499",4,40.0,false
+"boots, faux leather or fur",boots,faux leather or fur,shoes,10,5,"5. $2,500-4,999",1,10.0,false
+"coat, mohair or alpaca",coat,mohair or alpaca,clothing,10,5,"5. $2,500-4,999",5,50.0,false
+"dress, other",dress,other,clothing,10,5,"5. $2,500-4,999",2,20.0,false
+"underwear, wood-based",underwear,wood-based,clothing,10,5,"5. $2,500-4,999",0,0.0,false
+"mules, other",mules,other,shoes,10,5,"5. $2,500-4,999",0,0.0,false
+"boots, faux leather or fur",boots,faux leather or fur,shoes,10,6,"6. $5,000+",0,0.0,false
+"dress, other",dress,other,clothing,10,6,"6. $5,000+",0,0.0,false
+"underwear, wood-based",underwear,wood-based,clothing,10,6,"6. $5,000+",0,0.0,false
+"coat, mohair or alpaca",coat,mohair or alpaca,clothing,10,6,"6. $5,000+",3,30.0,false
+"mules, other",mules,other,shoes,10,6,"6. $5,000+",0,0.0,false
+"trench coat, wool",trench coat,wool,clothing,9,1,1. Under $250,0,0.0,false
+"coat, silk",coat,silk,clothing,9,1,1. Under $250,0,0.0,false
+"vest, linen",vest,linen,clothing,9,1,1. Under $250,3,33.3,false
+"bodysuit, wood-based",bodysuit,wood-based,clothing,9,1,1. Under $250,7,77.8,false
+"trench coat, wool",trench coat,wool,clothing,9,2,2. $250-499,0,0.0,false
+"coat, silk",coat,silk,clothing,9,2,2. $250-499,0,0.0,false
+"vest, linen",vest,linen,clothing,9,2,2. $250-499,2,22.2,false
+"bodysuit, wood-based",bodysuit,wood-based,clothing,9,2,2. $250-499,2,22.2,false
+"trench coat, wool",trench coat,wool,clothing,9,3,3. $500-999,2,22.2,false
+"bodysuit, wood-based",bodysuit,wood-based,clothing,9,3,3. $500-999,0,0.0,false
+"vest, linen",vest,linen,clothing,9,3,3. $500-999,2,22.2,false
+"coat, silk",coat,silk,clothing,9,3,3. $500-999,1,11.1,false
+"trench coat, wool",trench coat,wool,clothing,9,4,"4. $1,000-2,499",1,11.1,false
+"bodysuit, wood-based",bodysuit,wood-based,clothing,9,4,"4. $1,000-2,499",0,0.0,false
+"vest, linen",vest,linen,clothing,9,4,"4. $1,000-2,499",1,11.1,false
+"coat, silk",coat,silk,clothing,9,4,"4. $1,000-2,499",2,22.2,false
+"trench coat, wool",trench coat,wool,clothing,9,5,"5. $2,500-4,999",6,66.7,false
+"bodysuit, wood-based",bodysuit,wood-based,clothing,9,5,"5. $2,500-4,999",0,0.0,false
+"vest, linen",vest,linen,clothing,9,5,"5. $2,500-4,999",1,11.1,false
+"coat, silk",coat,silk,clothing,9,5,"5. $2,500-4,999",4,44.4,false
+"trench coat, wool",trench coat,wool,clothing,9,6,"6. $5,000+",0,0.0,false
+"bodysuit, wood-based",bodysuit,wood-based,clothing,9,6,"6. $5,000+",0,0.0,false
+"vest, linen",vest,linen,clothing,9,6,"6. $5,000+",0,0.0,false
+"coat, silk",coat,silk,clothing,9,6,"6. $5,000+",2,22.2,false
+"sweatshirt, wool",sweatshirt,wool,clothing,8,1,1. Under $250,2,25.0,false
+"jacket, linen",jacket,linen,clothing,8,1,1. Under $250,0,0.0,false
+"pumps, other",pumps,other,shoes,8,1,1. Under $250,0,0.0,false
+"swimsuit, other",swimsuit,other,clothing,8,1,1. Under $250,4,50.0,false
+"coat, other",coat,other,clothing,8,1,1. Under $250,0,0.0,false
+"sandals, faux leather or fur",sandals,faux leather or fur,shoes,8,1,1. Under $250,1,12.5,false
+"shirt, cashmere",shirt,cashmere,clothing,8,1,1. Under $250,0,0.0,false
+"shirt, wood-based",shirt,wood-based,clothing,8,1,1. Under $250,2,25.0,false
+"jacket, silk",jacket,silk,clothing,8,1,1. Under $250,0,0.0,false
+"jacket, linen",jacket,linen,clothing,8,2,2. $250-499,0,0.0,false
+"coat, other",coat,other,clothing,8,2,2. $250-499,0,0.0,false
+"pumps, other",pumps,other,shoes,8,2,2. $250-499,0,0.0,false
+"swimsuit, other",swimsuit,other,clothing,8,2,2. $250-499,3,37.5,false
+"sweatshirt, wool",sweatshirt,wool,clothing,8,2,2. $250-499,2,25.0,false
+"shirt, wood-based",shirt,wood-based,clothing,8,2,2. $250-499,6,75.0,false
+"sandals, faux leather or fur",sandals,faux leather or fur,shoes,8,2,2. $250-499,1,12.5,false
+"shirt, cashmere",shirt,cashmere,clothing,8,2,2. $250-499,1,12.5,false
+"jacket, silk",jacket,silk,clothing,8,2,2. $250-499,1,12.5,false
+"jacket, linen",jacket,linen,clothing,8,3,3. $500-999,0,0.0,false
+"pumps, other",pumps,other,shoes,8,3,3. $500-999,6,75.0,false
+"swimsuit, other",swimsuit,other,clothing,8,3,3. $500-999,1,12.5,false
+"coat, other",coat,other,clothing,8,3,3. $500-999,0,0.0,false
+"sweatshirt, wool",sweatshirt,wool,clothing,8,3,3. $500-999,1,12.5,false
+"shirt, cashmere",shirt,cashmere,clothing,8,3,3. $500-999,5,62.5,false
+"jacket, silk",jacket,silk,clothing,8,3,3. $500-999,1,12.5,false
+"shirt, wood-based",shirt,wood-based,clothing,8,3,3. $500-999,0,0.0,false
+"sandals, faux leather or fur",sandals,faux leather or fur,shoes,8,3,3. $500-999,5,62.5,false
+"coat, other",coat,other,clothing,8,4,"4. $1,000-2,499",1,12.5,false
+"jacket, linen",jacket,linen,clothing,8,4,"4. $1,000-2,499",5,62.5,false
+"swimsuit, other",swimsuit,other,clothing,8,4,"4. $1,000-2,499",0,0.0,false
+"pumps, other",pumps,other,shoes,8,4,"4. $1,000-2,499",2,25.0,false
+"sweatshirt, wool",sweatshirt,wool,clothing,8,4,"4. $1,000-2,499",2,25.0,false
+"shirt, wood-based",shirt,wood-based,clothing,8,4,"4. $1,000-2,499",0,0.0,false
+"sandals, faux leather or fur",sandals,faux leather or fur,shoes,8,4,"4. $1,000-2,499",1,12.5,false
+"jacket, silk",jacket,silk,clothing,8,4,"4. $1,000-2,499",3,37.5,false
+"shirt, cashmere",shirt,cashmere,clothing,8,4,"4. $1,000-2,499",1,12.5,false
+"jacket, linen",jacket,linen,clothing,8,5,"5. $2,500-4,999",2,25.0,false
+"swimsuit, other",swimsuit,other,clothing,8,5,"5. $2,500-4,999",0,0.0,false
+"pumps, other",pumps,other,shoes,8,5,"5. $2,500-4,999",0,0.0,false
+"sweatshirt, wool",sweatshirt,wool,clothing,8,5,"5. $2,500-4,999",1,12.5,false
+"coat, other",coat,other,clothing,8,5,"5. $2,500-4,999",4,50.0,false
+"shirt, wood-based",shirt,wood-based,clothing,8,5,"5. $2,500-4,999",0,0.0,false
+"jacket, silk",jacket,silk,clothing,8,5,"5. $2,500-4,999",2,25.0,false
+"sandals, faux leather or fur",sandals,faux leather or fur,shoes,8,5,"5. $2,500-4,999",0,0.0,false
+"shirt, cashmere",shirt,cashmere,clothing,8,5,"5. $2,500-4,999",1,12.5,false
+"coat, other",coat,other,clothing,8,6,"6. $5,000+",3,37.5,false
+"jacket, linen",jacket,linen,clothing,8,6,"6. $5,000+",1,12.5,false
+"swimsuit, other",swimsuit,other,clothing,8,6,"6. $5,000+",0,0.0,false
+"pumps, other",pumps,other,shoes,8,6,"6. $5,000+",0,0.0,false
+"sweatshirt, wool",sweatshirt,wool,clothing,8,6,"6. $5,000+",0,0.0,false
+"shirt, wood-based",shirt,wood-based,clothing,8,6,"6. $5,000+",0,0.0,false
+"sandals, faux leather or fur",sandals,faux leather or fur,shoes,8,6,"6. $5,000+",0,0.0,false
+"shirt, cashmere",shirt,cashmere,clothing,8,6,"6. $5,000+",0,0.0,false
+"jacket, silk",jacket,silk,clothing,8,6,"6. $5,000+",1,12.5,false
+"bra, wood-based",bra,wood-based,clothing,7,1,1. Under $250,7,100.0,false
+"sweatshirt, cashmere",sweatshirt,cashmere,clothing,7,1,1. Under $250,0,0.0,false
+"set, silk",set,silk,clothing,7,1,1. Under $250,0,0.0,false
+"boots, shearling",boots,shearling,shoes,7,1,1. Under $250,0,0.0,false
+"sandals, shearling",sandals,shearling,shoes,7,1,1. Under $250,2,28.6,false
+"jacket, suede",jacket,suede,clothing,7,1,1. Under $250,0,0.0,false
+"sneakers, faux leather or fur",sneakers,faux leather or fur,shoes,7,1,1. Under $250,3,42.9,false
+"mules, silk",mules,silk,shoes,7,1,1. Under $250,0,0.0,false
+"shorts, wood-based",shorts,wood-based,clothing,7,1,1. Under $250,7,100.0,false
+"vest, shearling",vest,shearling,clothing,7,1,1. Under $250,0,0.0,false
+"pants, suede",pants,suede,clothing,7,1,1. Under $250,0,0.0,false
+"sweatshirt, cashmere",sweatshirt,cashmere,clothing,7,2,2. $250-499,1,14.3,false
+"set, silk",set,silk,clothing,7,2,2. $250-499,0,0.0,false
+"boots, shearling",boots,shearling,shoes,7,2,2. $250-499,0,0.0,false
+"bra, wood-based",bra,wood-based,clothing,7,2,2. $250-499,0,0.0,false
+"jacket, suede",jacket,suede,clothing,7,2,2. $250-499,0,0.0,false
+"sandals, shearling",sandals,shearling,shoes,7,2,2. $250-499,0,0.0,false
+"mules, silk",mules,silk,shoes,7,2,2. $250-499,0,0.0,false
+"shorts, wood-based",shorts,wood-based,clothing,7,2,2. $250-499,0,0.0,false
+"sneakers, faux leather or fur",sneakers,faux leather or fur,shoes,7,2,2. $250-499,0,0.0,false
+"vest, shearling",vest,shearling,clothing,7,2,2. $250-499,0,0.0,false
+"pants, suede",pants,suede,clothing,7,2,2. $250-499,0,0.0,false
+"boots, shearling",boots,shearling,shoes,7,3,3. $500-999,4,57.1,false
+"sweatshirt, cashmere",sweatshirt,cashmere,clothing,7,3,3. $500-999,0,0.0,false
+"bra, wood-based",bra,wood-based,clothing,7,3,3. $500-999,0,0.0,false
+"set, silk",set,silk,clothing,7,3,3. $500-999,0,0.0,false
+"sandals, shearling",sandals,shearling,shoes,7,3,3. $500-999,3,42.9,false
+"jacket, suede",jacket,suede,clothing,7,3,3. $500-999,0,0.0,false
+"mules, silk",mules,silk,shoes,7,3,3. $500-999,4,57.1,false
+"shorts, wood-based",shorts,wood-based,clothing,7,3,3. $500-999,0,0.0,false
+"vest, shearling",vest,shearling,clothing,7,3,3. $500-999,0,0.0,false
+"sneakers, faux leather or fur",sneakers,faux leather or fur,shoes,7,3,3. $500-999,2,28.6,false
+"pants, suede",pants,suede,clothing,7,3,3. $500-999,0,0.0,false
+"boots, shearling",boots,shearling,shoes,7,4,"4. $1,000-2,499",2,28.6,false
+"sweatshirt, cashmere",sweatshirt,cashmere,clothing,7,4,"4. $1,000-2,499",1,14.3,false
+"bra, wood-based",bra,wood-based,clothing,7,4,"4. $1,000-2,499",0,0.0,false
+"set, silk",set,silk,clothing,7,4,"4. $1,000-2,499",5,71.4,false
+"sandals, shearling",sandals,shearling,shoes,7,4,"4. $1,000-2,499",2,28.6,false
+"jacket, suede",jacket,suede,clothing,7,4,"4. $1,000-2,499",2,28.6,false
+"vest, shearling",vest,shearling,clothing,7,4,"4. $1,000-2,499",3,42.9,false
+"mules, silk",mules,silk,shoes,7,4,"4. $1,000-2,499",3,42.9,false
+"sneakers, faux leather or fur",sneakers,faux leather or fur,shoes,7,4,"4. $1,000-2,499",2,28.6,false
+"shorts, wood-based",shorts,wood-based,clothing,7,4,"4. $1,000-2,499",0,0.0,false
+"pants, suede",pants,suede,clothing,7,4,"4. $1,000-2,499",3,42.9,false
+"boots, shearling",boots,shearling,shoes,7,5,"5. $2,500-4,999",1,14.3,false
+"sweatshirt, cashmere",sweatshirt,cashmere,clothing,7,5,"5. $2,500-4,999",5,71.4,false
+"bra, wood-based",bra,wood-based,clothing,7,5,"5. $2,500-4,999",0,0.0,false
+"set, silk",set,silk,clothing,7,5,"5. $2,500-4,999",1,14.3,false
+"sandals, shearling",sandals,shearling,shoes,7,5,"5. $2,500-4,999",0,0.0,false
+"jacket, suede",jacket,suede,clothing,7,5,"5. $2,500-4,999",2,28.6,false
+"vest, shearling",vest,shearling,clothing,7,5,"5. $2,500-4,999",2,28.6,false
+"sneakers, faux leather or fur",sneakers,faux leather or fur,shoes,7,5,"5. $2,500-4,999",0,0.0,false
+"mules, silk",mules,silk,shoes,7,5,"5. $2,500-4,999",0,0.0,false
+"shorts, wood-based",shorts,wood-based,clothing,7,5,"5. $2,500-4,999",0,0.0,false
+"pants, suede",pants,suede,clothing,7,5,"5. $2,500-4,999",3,42.9,false
+"boots, shearling",boots,shearling,shoes,7,6,"6. $5,000+",0,0.0,false
+"set, silk",set,silk,clothing,7,6,"6. $5,000+",1,14.3,false
+"sweatshirt, cashmere",sweatshirt,cashmere,clothing,7,6,"6. $5,000+",0,0.0,false
+"bra, wood-based",bra,wood-based,clothing,7,6,"6. $5,000+",0,0.0,false
+"jacket, suede",jacket,suede,clothing,7,6,"6. $5,000+",3,42.9,false
+"sandals, shearling",sandals,shearling,shoes,7,6,"6. $5,000+",0,0.0,false
+"mules, silk",mules,silk,shoes,7,6,"6. $5,000+",0,0.0,false
+"sneakers, faux leather or fur",sneakers,faux leather or fur,shoes,7,6,"6. $5,000+",0,0.0,false
+"shorts, wood-based",shorts,wood-based,clothing,7,6,"6. $5,000+",0,0.0,false
+"vest, shearling",vest,shearling,clothing,7,6,"6. $5,000+",2,28.6,false
+"pants, suede",pants,suede,clothing,7,6,"6. $5,000+",1,14.3,false
+"vest, silk",vest,silk,clothing,6,1,1. Under $250,0,0.0,false
+"top, mohair or alpaca",top,mohair or alpaca,clothing,6,1,1. Under $250,0,0.0,false
+"bodysuit, silk",bodysuit,silk,clothing,6,1,1. Under $250,1,16.7,false
+"t-shirt, wool",t-shirt,wool,clothing,6,1,1. Under $250,3,50.0,false
+"vest, silk",vest,silk,clothing,6,2,2. $250-499,1,16.7,false
+"top, mohair or alpaca",top,mohair or alpaca,clothing,6,2,2. $250-499,1,16.7,false
+"bodysuit, silk",bodysuit,silk,clothing,6,2,2. $250-499,1,16.7,false
+"t-shirt, wool",t-shirt,wool,clothing,6,2,2. $250-499,3,50.0,false
+"vest, silk",vest,silk,clothing,6,3,3. $500-999,0,0.0,false
+"top, mohair or alpaca",top,mohair or alpaca,clothing,6,3,3. $500-999,4,66.7,false
+"t-shirt, wool",t-shirt,wool,clothing,6,3,3. $500-999,0,0.0,false
+"bodysuit, silk",bodysuit,silk,clothing,6,3,3. $500-999,2,33.3,false
+"vest, silk",vest,silk,clothing,6,4,"4. $1,000-2,499",4,66.7,false
+"top, mohair or alpaca",top,mohair or alpaca,clothing,6,4,"4. $1,000-2,499",1,16.7,false
+"t-shirt, wool",t-shirt,wool,clothing,6,4,"4. $1,000-2,499",0,0.0,false
+"bodysuit, silk",bodysuit,silk,clothing,6,4,"4. $1,000-2,499",2,33.3,false
+"vest, silk",vest,silk,clothing,6,5,"5. $2,500-4,999",1,16.7,false
+"top, mohair or alpaca",top,mohair or alpaca,clothing,6,5,"5. $2,500-4,999",0,0.0,false
+"t-shirt, wool",t-shirt,wool,clothing,6,5,"5. $2,500-4,999",0,0.0,false
+"bodysuit, silk",bodysuit,silk,clothing,6,5,"5. $2,500-4,999",0,0.0,false
+"vest, silk",vest,silk,clothing,6,6,"6. $5,000+",0,0.0,false
+"top, mohair or alpaca",top,mohair or alpaca,clothing,6,6,"6. $5,000+",0,0.0,false
+"t-shirt, wool",t-shirt,wool,clothing,6,6,"6. $5,000+",0,0.0,false
+"bodysuit, silk",bodysuit,silk,clothing,6,6,"6. $5,000+",0,0.0,false
+"jacket, other",jacket,other,clothing,5,1,1. Under $250,0,0.0,false
+"jeans, plastic",jeans,plastic,clothing,5,1,1. Under $250,0,0.0,false
+"skirt, other",skirt,other,clothing,5,1,1. Under $250,0,0.0,false
+"jumpsuit, wood-based",jumpsuit,wood-based,clothing,5,1,1. Under $250,1,20.0,false
+"shirt, leather",shirt,leather,clothing,5,1,1. Under $250,0,0.0,false
+"t-shirt, cashmere",t-shirt,cashmere,clothing,5,1,1. Under $250,1,20.0,false
+"leggings, cotton",leggings,cotton,clothing,5,1,1. Under $250,4,80.0,false
+"other, other",other,other,shoes,5,1,1. Under $250,0,0.0,false
+"coat, linen",coat,linen,clothing,5,1,1. Under $250,0,0.0,false
+"other, silk",other,silk,clothing,5,1,1. Under $250,4,80.0,false
+"blazer, cashmere",blazer,cashmere,clothing,5,1,1. Under $250,0,0.0,false
+"jeans, plastic",jeans,plastic,clothing,5,2,2. $250-499,5,100.0,false
+"jacket, other",jacket,other,clothing,5,2,2. $250-499,0,0.0,false
+"skirt, other",skirt,other,clothing,5,2,2. $250-499,1,20.0,false
+"jumpsuit, wood-based",jumpsuit,wood-based,clothing,5,2,2. $250-499,2,40.0,false
+"shirt, leather",shirt,leather,clothing,5,2,2. $250-499,0,0.0,false
+"leggings, cotton",leggings,cotton,clothing,5,2,2. $250-499,0,0.0,false
+"other, other",other,other,shoes,5,2,2. $250-499,1,20.0,false
+"t-shirt, cashmere",t-shirt,cashmere,clothing,5,2,2. $250-499,2,40.0,false
+"other, silk",other,silk,clothing,5,2,2. $250-499,1,20.0,false
+"coat, linen",coat,linen,clothing,5,2,2. $250-499,0,0.0,false
+"blazer, cashmere",blazer,cashmere,clothing,5,2,2. $250-499,0,0.0,false
+"jacket, other",jacket,other,clothing,5,3,3. $500-999,4,80.0,false
+"skirt, other",skirt,other,clothing,5,3,3. $500-999,0,0.0,false
+"jumpsuit, wood-based",jumpsuit,wood-based,clothing,5,3,3. $500-999,1,20.0,false
+"jeans, plastic",jeans,plastic,clothing,5,3,3. $500-999,0,0.0,false
+"coat, linen",coat,linen,clothing,5,3,3. $500-999,1,20.0,false
+"shirt, leather",shirt,leather,clothing,5,3,3. $500-999,0,0.0,false
+"leggings, cotton",leggings,cotton,clothing,5,3,3. $500-999,0,0.0,false
+"t-shirt, cashmere",t-shirt,cashmere,clothing,5,3,3. $500-999,2,40.0,false
+"other, other",other,other,shoes,5,3,3. $500-999,4,80.0,false
+"other, silk",other,silk,clothing,5,3,3. $500-999,0,0.0,false
+"blazer, cashmere",blazer,cashmere,clothing,5,3,3. $500-999,0,0.0,false
+"jumpsuit, wood-based",jumpsuit,wood-based,clothing,5,4,"4. $1,000-2,499",0,0.0,false
+"jeans, plastic",jeans,plastic,clothing,5,4,"4. $1,000-2,499",0,0.0,false
+"skirt, other",skirt,other,clothing,5,4,"4. $1,000-2,499",3,60.0,false
+"jacket, other",jacket,other,clothing,5,4,"4. $1,000-2,499",0,0.0,false
+"coat, linen",coat,linen,clothing,5,4,"4. $1,000-2,499",1,20.0,false
+"leggings, cotton",leggings,cotton,clothing,5,4,"4. $1,000-2,499",1,20.0,false
+"other, silk",other,silk,clothing,5,4,"4. $1,000-2,499",0,0.0,false
+"t-shirt, cashmere",t-shirt,cashmere,clothing,5,4,"4. $1,000-2,499",0,0.0,false
+"shirt, leather",shirt,leather,clothing,5,4,"4. $1,000-2,499",2,40.0,false
+"other, other",other,other,shoes,5,4,"4. $1,000-2,499",0,0.0,false
+"blazer, cashmere",blazer,cashmere,clothing,5,4,"4. $1,000-2,499",0,0.0,false
+"jumpsuit, wood-based",jumpsuit,wood-based,clothing,5,5,"5. $2,500-4,999",1,20.0,false
+"jacket, other",jacket,other,clothing,5,5,"5. $2,500-4,999",0,0.0,false
+"skirt, other",skirt,other,clothing,5,5,"5. $2,500-4,999",1,20.0,false
+"jeans, plastic",jeans,plastic,clothing,5,5,"5. $2,500-4,999",0,0.0,false
+"other, silk",other,silk,clothing,5,5,"5. $2,500-4,999",0,0.0,false
+"coat, linen",coat,linen,clothing,5,5,"5. $2,500-4,999",1,20.0,false
+"t-shirt, cashmere",t-shirt,cashmere,clothing,5,5,"5. $2,500-4,999",0,0.0,false
+"other, other",other,other,shoes,5,5,"5. $2,500-4,999",0,0.0,false
+"shirt, leather",shirt,leather,clothing,5,5,"5. $2,500-4,999",1,20.0,false
+"leggings, cotton",leggings,cotton,clothing,5,5,"5. $2,500-4,999",0,0.0,false
+"blazer, cashmere",blazer,cashmere,clothing,5,5,"5. $2,500-4,999",2,40.0,false
+"jumpsuit, wood-based",jumpsuit,wood-based,clothing,5,6,"6. $5,000+",0,0.0,false
+"skirt, other",skirt,other,clothing,5,6,"6. $5,000+",0,0.0,false
+"jacket, other",jacket,other,clothing,5,6,"6. $5,000+",1,20.0,false
+"jeans, plastic",jeans,plastic,clothing,5,6,"6. $5,000+",0,0.0,false
+"t-shirt, cashmere",t-shirt,cashmere,clothing,5,6,"6. $5,000+",0,0.0,false
+"coat, linen",coat,linen,clothing,5,6,"6. $5,000+",2,40.0,false
+"shirt, leather",shirt,leather,clothing,5,6,"6. $5,000+",2,40.0,false
+"other, silk",other,silk,clothing,5,6,"6. $5,000+",0,0.0,false
+"other, other",other,other,shoes,5,6,"6. $5,000+",0,0.0,false
+"leggings, cotton",leggings,cotton,clothing,5,6,"6. $5,000+",0,0.0,false
+"blazer, cashmere",blazer,cashmere,clothing,5,6,"6. $5,000+",3,60.0,false
+"jumpsuit, down",jumpsuit,down,clothing,4,1,1. Under $250,0,0.0,false
+"skirt, mohair or alpaca",skirt,mohair or alpaca,clothing,4,1,1. Under $250,0,0.0,false
+"flats, plastic",flats,plastic,shoes,4,1,1. Under $250,0,0.0,false
+"dress, plastic",dress,plastic,clothing,4,1,1. Under $250,0,0.0,false
+"leggings, faux leather or fur",leggings,faux leather or fur,clothing,4,1,1. Under $250,2,50.0,false
+"sandals, cotton",sandals,cotton,shoes,4,1,1. Under $250,0,0.0,false
+"other, wool",other,wool,clothing,4,1,1. Under $250,1,25.0,false
+"bodysuit, wool",bodysuit,wool,clothing,4,1,1. Under $250,0,0.0,false
+"jacket, mohair or alpaca",jacket,mohair or alpaca,clothing,4,1,1. Under $250,0,0.0,false
+"pants, mohair or alpaca",pants,mohair or alpaca,clothing,4,1,1. Under $250,0,0.0,false
+"dress, mohair or alpaca",dress,mohair or alpaca,clothing,4,1,1. Under $250,0,0.0,false
+"pumps, silk",pumps,silk,shoes,4,1,1. Under $250,0,0.0,false
+"sneakers, cotton",sneakers,cotton,shoes,4,1,1. Under $250,1,25.0,false
+"jumpsuit, down",jumpsuit,down,clothing,4,2,2. $250-499,0,0.0,false
+"skirt, mohair or alpaca",skirt,mohair or alpaca,clothing,4,2,2. $250-499,2,50.0,false
+"dress, plastic",dress,plastic,clothing,4,2,2. $250-499,2,50.0,false
+"jacket, mohair or alpaca",jacket,mohair or alpaca,clothing,4,2,2. $250-499,0,0.0,false
+"other, wool",other,wool,clothing,4,2,2. $250-499,0,0.0,false
+"sandals, cotton",sandals,cotton,shoes,4,2,2. $250-499,0,0.0,false
+"bodysuit, wool",bodysuit,wool,clothing,4,2,2. $250-499,2,50.0,false
+"flats, plastic",flats,plastic,shoes,4,2,2. $250-499,2,50.0,false
+"leggings, faux leather or fur",leggings,faux leather or fur,clothing,4,2,2. $250-499,2,50.0,false
+"pants, mohair or alpaca",pants,mohair or alpaca,clothing,4,2,2. $250-499,0,0.0,false
+"dress, mohair or alpaca",dress,mohair or alpaca,clothing,4,2,2. $250-499,2,50.0,false
+"pumps, silk",pumps,silk,shoes,4,2,2. $250-499,0,0.0,false
+"sneakers, cotton",sneakers,cotton,shoes,4,2,2. $250-499,1,25.0,false
+"jumpsuit, down",jumpsuit,down,clothing,4,3,3. $500-999,1,25.0,false
+"skirt, mohair or alpaca",skirt,mohair or alpaca,clothing,4,3,3. $500-999,1,25.0,false
+"jacket, mohair or alpaca",jacket,mohair or alpaca,clothing,4,3,3. $500-999,0,0.0,false
+"dress, plastic",dress,plastic,clothing,4,3,3. $500-999,0,0.0,false
+"other, wool",other,wool,clothing,4,3,3. $500-999,1,25.0,false
+"sandals, cotton",sandals,cotton,shoes,4,3,3. $500-999,3,75.0,false
+"bodysuit, wool",bodysuit,wool,clothing,4,3,3. $500-999,2,50.0,false
+"flats, plastic",flats,plastic,shoes,4,3,3. $500-999,2,50.0,false
+"leggings, faux leather or fur",leggings,faux leather or fur,clothing,4,3,3. $500-999,0,0.0,false
+"pants, mohair or alpaca",pants,mohair or alpaca,clothing,4,3,3. $500-999,0,0.0,false
+"dress, mohair or alpaca",dress,mohair or alpaca,clothing,4,3,3. $500-999,0,0.0,false
+"sneakers, cotton",sneakers,cotton,shoes,4,3,3. $500-999,2,50.0,false
+"pumps, silk",pumps,silk,shoes,4,3,3. $500-999,2,50.0,false
+"jumpsuit, down",jumpsuit,down,clothing,4,4,"4. $1,000-2,499",3,75.0,false
+"skirt, mohair or alpaca",skirt,mohair or alpaca,clothing,4,4,"4. $1,000-2,499",1,25.0,false
+"sandals, cotton",sandals,cotton,shoes,4,4,"4. $1,000-2,499",1,25.0,false
+"jacket, mohair or alpaca",jacket,mohair or alpaca,clothing,4,4,"4. $1,000-2,499",2,50.0,false
+"bodysuit, wool",bodysuit,wool,clothing,4,4,"4. $1,000-2,499",0,0.0,false
+"flats, plastic",flats,plastic,shoes,4,4,"4. $1,000-2,499",0,0.0,false
+"leggings, faux leather or fur",leggings,faux leather or fur,clothing,4,4,"4. $1,000-2,499",0,0.0,false
+"dress, plastic",dress,plastic,clothing,4,4,"4. $1,000-2,499",1,25.0,false
+"other, wool",other,wool,clothing,4,4,"4. $1,000-2,499",1,25.0,false
+"pants, mohair or alpaca",pants,mohair or alpaca,clothing,4,4,"4. $1,000-2,499",4,100.0,false
+"sneakers, cotton",sneakers,cotton,shoes,4,4,"4. $1,000-2,499",0,0.0,false
+"dress, mohair or alpaca",dress,mohair or alpaca,clothing,4,4,"4. $1,000-2,499",1,25.0,false
+"pumps, silk",pumps,silk,shoes,4,4,"4. $1,000-2,499",2,50.0,false
+"jumpsuit, down",jumpsuit,down,clothing,4,5,"5. $2,500-4,999",0,0.0,false
+"skirt, mohair or alpaca",skirt,mohair or alpaca,clothing,4,5,"5. $2,500-4,999",0,0.0,false
+"jacket, mohair or alpaca",jacket,mohair or alpaca,clothing,4,5,"5. $2,500-4,999",1,25.0,false
+"bodysuit, wool",bodysuit,wool,clothing,4,5,"5. $2,500-4,999",0,0.0,false
+"sandals, cotton",sandals,cotton,shoes,4,5,"5. $2,500-4,999",0,0.0,false
+"leggings, faux leather or fur",leggings,faux leather or fur,clothing,4,5,"5. $2,500-4,999",0,0.0,false
+"dress, plastic",dress,plastic,clothing,4,5,"5. $2,500-4,999",1,25.0,false
+"flats, plastic",flats,plastic,shoes,4,5,"5. $2,500-4,999",0,0.0,false
+"other, wool",other,wool,clothing,4,5,"5. $2,500-4,999",1,25.0,false
+"pants, mohair or alpaca",pants,mohair or alpaca,clothing,4,5,"5. $2,500-4,999",0,0.0,false
+"dress, mohair or alpaca",dress,mohair or alpaca,clothing,4,5,"5. $2,500-4,999",1,25.0,false
+"pumps, silk",pumps,silk,shoes,4,5,"5. $2,500-4,999",0,0.0,false
+"sneakers, cotton",sneakers,cotton,shoes,4,5,"5. $2,500-4,999",0,0.0,false
+"jumpsuit, down",jumpsuit,down,clothing,4,6,"6. $5,000+",0,0.0,false
+"skirt, mohair or alpaca",skirt,mohair or alpaca,clothing,4,6,"6. $5,000+",0,0.0,false
+"dress, plastic",dress,plastic,clothing,4,6,"6. $5,000+",0,0.0,false
+"sandals, cotton",sandals,cotton,shoes,4,6,"6. $5,000+",0,0.0,false
+"other, wool",other,wool,clothing,4,6,"6. $5,000+",0,0.0,false
+"leggings, faux leather or fur",leggings,faux leather or fur,clothing,4,6,"6. $5,000+",0,0.0,false
+"flats, plastic",flats,plastic,shoes,4,6,"6. $5,000+",0,0.0,false
+"jacket, mohair or alpaca",jacket,mohair or alpaca,clothing,4,6,"6. $5,000+",1,25.0,false
+"bodysuit, wool",bodysuit,wool,clothing,4,6,"6. $5,000+",0,0.0,false
+"pants, mohair or alpaca",pants,mohair or alpaca,clothing,4,6,"6. $5,000+",0,0.0,false
+"sneakers, cotton",sneakers,cotton,shoes,4,6,"6. $5,000+",0,0.0,false
+"dress, mohair or alpaca",dress,mohair or alpaca,clothing,4,6,"6. $5,000+",0,0.0,false
+"pumps, silk",pumps,silk,shoes,4,6,"6. $5,000+",0,0.0,false
+"set, linen",set,linen,clothing,3,1,1. Under $250,2,66.7,false
+"sweatshirt, silk",sweatshirt,silk,clothing,3,1,1. Under $250,0,0.0,false
+"mules, shearling",mules,shearling,shoes,3,1,1. Under $250,0,0.0,false
+"sneakers, wool",sneakers,wool,shoes,3,1,1. Under $250,0,0.0,false
+"blazer, mohair or alpaca",blazer,mohair or alpaca,clothing,3,1,1. Under $250,0,0.0,false
+"vest, faux leather or fur",vest,faux leather or fur,clothing,3,1,1. Under $250,2,66.7,false
+"vest, mohair or alpaca",vest,mohair or alpaca,clothing,3,1,1. Under $250,0,0.0,false
+"skirt, wood-based",skirt,wood-based,clothing,3,1,1. Under $250,1,33.3,false
+"shirt, plastic",shirt,plastic,clothing,3,1,1. Under $250,0,0.0,false
+"vest, leather",vest,leather,clothing,3,1,1. Under $250,0,0.0,false
+"skirt, suede",skirt,suede,clothing,3,1,1. Under $250,0,0.0,false
+"leggings, wood-based",leggings,wood-based,clothing,3,1,1. Under $250,2,66.7,false
+"set, linen",set,linen,clothing,3,2,2. $250-499,1,33.3,false
+"sweatshirt, silk",sweatshirt,silk,clothing,3,2,2. $250-499,0,0.0,false
+"mules, shearling",mules,shearling,shoes,3,2,2. $250-499,0,0.0,false
+"blazer, mohair or alpaca",blazer,mohair or alpaca,clothing,3,2,2. $250-499,0,0.0,false
+"vest, faux leather or fur",vest,faux leather or fur,clothing,3,2,2. $250-499,0,0.0,false
+"sneakers, wool",sneakers,wool,shoes,3,2,2. $250-499,0,0.0,false
+"vest, mohair or alpaca",vest,mohair or alpaca,clothing,3,2,2. $250-499,0,0.0,false
+"skirt, wood-based",skirt,wood-based,clothing,3,2,2. $250-499,2,66.7,false
+"shirt, plastic",shirt,plastic,clothing,3,2,2. $250-499,0,0.0,false
+"vest, leather",vest,leather,clothing,3,2,2. $250-499,1,33.3,false
+"skirt, suede",skirt,suede,clothing,3,2,2. $250-499,0,0.0,false
+"leggings, wood-based",leggings,wood-based,clothing,3,2,2. $250-499,0,0.0,false
+"set, linen",set,linen,clothing,3,3,3. $500-999,0,0.0,false
+"mules, shearling",mules,shearling,shoes,3,3,3. $500-999,2,66.7,false
+"vest, faux leather or fur",vest,faux leather or fur,clothing,3,3,3. $500-999,1,33.3,false
+"sneakers, wool",sneakers,wool,shoes,3,3,3. $500-999,3,100.0,false
+"blazer, mohair or alpaca",blazer,mohair or alpaca,clothing,3,3,3. $500-999,0,0.0,false
+"sweatshirt, silk",sweatshirt,silk,clothing,3,3,3. $500-999,0,0.0,false
+"vest, mohair or alpaca",vest,mohair or alpaca,clothing,3,3,3. $500-999,0,0.0,false
+"skirt, wood-based",skirt,wood-based,clothing,3,3,3. $500-999,0,0.0,false
+"shirt, plastic",shirt,plastic,clothing,3,3,3. $500-999,3,100.0,false
+"vest, leather",vest,leather,clothing,3,3,3. $500-999,0,0.0,false
+"skirt, suede",skirt,suede,clothing,3,3,3. $500-999,0,0.0,false
+"leggings, wood-based",leggings,wood-based,clothing,3,3,3. $500-999,1,33.3,false
+"set, linen",set,linen,clothing,3,4,"4. $1,000-2,499",0,0.0,false
+"mules, shearling",mules,shearling,shoes,3,4,"4. $1,000-2,499",1,33.3,false
+"sweatshirt, silk",sweatshirt,silk,clothing,3,4,"4. $1,000-2,499",3,100.0,false
+"sneakers, wool",sneakers,wool,shoes,3,4,"4. $1,000-2,499",0,0.0,false
+"vest, faux leather or fur",vest,faux leather or fur,clothing,3,4,"4. $1,000-2,499",0,0.0,false
+"blazer, mohair or alpaca",blazer,mohair or alpaca,clothing,3,4,"4. $1,000-2,499",0,0.0,false
+"vest, mohair or alpaca",vest,mohair or alpaca,clothing,3,4,"4. $1,000-2,499",3,100.0,false
+"skirt, wood-based",skirt,wood-based,clothing,3,4,"4. $1,000-2,499",0,0.0,false
+"vest, leather",vest,leather,clothing,3,4,"4. $1,000-2,499",1,33.3,false
+"shirt, plastic",shirt,plastic,clothing,3,4,"4. $1,000-2,499",0,0.0,false
+"leggings, wood-based",leggings,wood-based,clothing,3,4,"4. $1,000-2,499",0,0.0,false
+"skirt, suede",skirt,suede,clothing,3,4,"4. $1,000-2,499",1,33.3,false
+"set, linen",set,linen,clothing,3,5,"5. $2,500-4,999",0,0.0,false
+"sweatshirt, silk",sweatshirt,silk,clothing,3,5,"5. $2,500-4,999",0,0.0,false
+"vest, faux leather or fur",vest,faux leather or fur,clothing,3,5,"5. $2,500-4,999",0,0.0,false
+"blazer, mohair or alpaca",blazer,mohair or alpaca,clothing,3,5,"5. $2,500-4,999",3,100.0,false
+"mules, shearling",mules,shearling,shoes,3,5,"5. $2,500-4,999",0,0.0,false
+"sneakers, wool",sneakers,wool,shoes,3,5,"5. $2,500-4,999",0,0.0,false
+"vest, mohair or alpaca",vest,mohair or alpaca,clothing,3,5,"5. $2,500-4,999",0,0.0,false
+"skirt, wood-based",skirt,wood-based,clothing,3,5,"5. $2,500-4,999",0,0.0,false
+"shirt, plastic",shirt,plastic,clothing,3,5,"5. $2,500-4,999",0,0.0,false
+"vest, leather",vest,leather,clothing,3,5,"5. $2,500-4,999",1,33.3,false
+"leggings, wood-based",leggings,wood-based,clothing,3,5,"5. $2,500-4,999",0,0.0,false
+"skirt, suede",skirt,suede,clothing,3,5,"5. $2,500-4,999",1,33.3,false
+"set, linen",set,linen,clothing,3,6,"6. $5,000+",0,0.0,false
+"sneakers, wool",sneakers,wool,shoes,3,6,"6. $5,000+",0,0.0,false
+"sweatshirt, silk",sweatshirt,silk,clothing,3,6,"6. $5,000+",0,0.0,false
+"blazer, mohair or alpaca",blazer,mohair or alpaca,clothing,3,6,"6. $5,000+",0,0.0,false
+"mules, shearling",mules,shearling,shoes,3,6,"6. $5,000+",0,0.0,false
+"vest, faux leather or fur",vest,faux leather or fur,clothing,3,6,"6. $5,000+",0,0.0,false
+"skirt, wood-based",skirt,wood-based,clothing,3,6,"6. $5,000+",0,0.0,false
+"vest, mohair or alpaca",vest,mohair or alpaca,clothing,3,6,"6. $5,000+",0,0.0,false
+"vest, leather",vest,leather,clothing,3,6,"6. $5,000+",0,0.0,false
+"shirt, plastic",shirt,plastic,clothing,3,6,"6. $5,000+",0,0.0,false
+"leggings, wood-based",leggings,wood-based,clothing,3,6,"6. $5,000+",0,0.0,false
+"skirt, suede",skirt,suede,clothing,3,6,"6. $5,000+",1,33.3,false
+"sweatshirt, linen",sweatshirt,linen,clothing,2,1,1. Under $250,0,0.0,false
+"sweater, linen",sweater,linen,clothing,2,1,1. Under $250,0,0.0,false
+"coat, suede",coat,suede,clothing,2,1,1. Under $250,0,0.0,false
+"shorts, leather",shorts,leather,clothing,2,1,1. Under $250,0,0.0,false
+"cardigan, other",cardigan,other,clothing,2,1,1. Under $250,0,0.0,false
+"set, wood-based",set,wood-based,clothing,2,1,1. Under $250,2,100.0,false
+"sweater, plastic",sweater,plastic,clothing,2,1,1. Under $250,0,0.0,false
+"bra, wool",bra,wool,clothing,2,1,1. Under $250,0,0.0,false
+"jumpsuit, faux leather or fur",jumpsuit,faux leather or fur,clothing,2,1,1. Under $250,0,0.0,false
+"trench coat, faux leather or fur",trench coat,faux leather or fur,clothing,2,1,1. Under $250,0,0.0,false
+"jeans, down",jeans,down,clothing,2,1,1. Under $250,1,50.0,false
+"sandals, silk",sandals,silk,shoes,2,1,1. Under $250,0,0.0,false
+"sneakers, other",sneakers,other,shoes,2,1,1. Under $250,0,0.0,false
+"set, cashmere",set,cashmere,clothing,2,1,1. Under $250,0,0.0,false
+"trench coat, plastic",trench coat,plastic,clothing,2,1,1. Under $250,0,0.0,false
+"blazer, other",blazer,other,clothing,2,1,1. Under $250,0,0.0,false
+"cardigan, silk",cardigan,silk,clothing,2,1,1. Under $250,0,0.0,false
+"jumpsuit, cashmere",jumpsuit,cashmere,clothing,2,1,1. Under $250,0,0.0,false
+"bikini, cotton",bikini,cotton,clothing,2,1,1. Under $250,0,0.0,false
+"skirt, plastic",skirt,plastic,clothing,2,1,1. Under $250,0,0.0,false
+"mules, faux leather or fur",mules,faux leather or fur,shoes,2,1,1. Under $250,0,0.0,false
+"skirt, down",skirt,down,clothing,2,1,1. Under $250,0,0.0,false
+"t-shirt, linen",t-shirt,linen,clothing,2,1,1. Under $250,2,100.0,false
+"shirt, suede",shirt,suede,clothing,2,1,1. Under $250,0,0.0,false
+"other, faux leather or fur",other,faux leather or fur,shoes,2,1,1. Under $250,0,0.0,false
+"blazer, faux leather or fur",blazer,faux leather or fur,clothing,2,1,1. Under $250,0,0.0,false
+"pants, other",pants,other,clothing,2,1,1. Under $250,0,0.0,false
+"gown, other",gown,other,clothing,2,1,1. Under $250,0,0.0,false
+"dress, suede",dress,suede,clothing,2,1,1. Under $250,0,0.0,false
+"trench coat, linen",trench coat,linen,clothing,2,1,1. Under $250,0,0.0,false
+"boots, cashmere",boots,cashmere,shoes,2,1,1. Under $250,0,0.0,false
+"pumps, linen",pumps,linen,shoes,2,1,1. Under $250,0,0.0,false
+"bra, cashmere",bra,cashmere,clothing,2,1,1. Under $250,0,0.0,false
+"vest, wood-based",vest,wood-based,clothing,2,1,1. Under $250,1,50.0,false
+"sweater, linen",sweater,linen,clothing,2,2,2. $250-499,1,50.0,false
+"sweatshirt, linen",sweatshirt,linen,clothing,2,2,2. $250-499,0,0.0,false
+"bra, wool",bra,wool,clothing,2,2,2. $250-499,1,50.0,false
+"sneakers, other",sneakers,other,shoes,2,2,2. $250-499,0,0.0,false
+"trench coat, plastic",trench coat,plastic,clothing,2,2,2. $250-499,0,0.0,false
+"sweater, plastic",sweater,plastic,clothing,2,2,2. $250-499,1,50.0,false
+"coat, suede",coat,suede,clothing,2,2,2. $250-499,0,0.0,false
+"cardigan, other",cardigan,other,clothing,2,2,2. $250-499,0,0.0,false
+"shorts, leather",shorts,leather,clothing,2,2,2. $250-499,1,50.0,false
+"set, wood-based",set,wood-based,clothing,2,2,2. $250-499,0,0.0,false
+"jumpsuit, faux leather or fur",jumpsuit,faux leather or fur,clothing,2,2,2. $250-499,0,0.0,false
+"jeans, down",jeans,down,clothing,2,2,2. $250-499,1,50.0,false
+"sandals, silk",sandals,silk,shoes,2,2,2. $250-499,0,0.0,false
+"blazer, other",blazer,other,clothing,2,2,2. $250-499,0,0.0,false
+"trench coat, faux leather or fur",trench coat,faux leather or fur,clothing,2,2,2. $250-499,0,0.0,false
+"set, cashmere",set,cashmere,clothing,2,2,2. $250-499,0,0.0,false
+"other, faux leather or fur",other,faux leather or fur,shoes,2,2,2. $250-499,0,0.0,false
+"jumpsuit, cashmere",jumpsuit,cashmere,clothing,2,2,2. $250-499,0,0.0,false
+"skirt, down",skirt,down,clothing,2,2,2. $250-499,0,0.0,false
+"t-shirt, linen",t-shirt,linen,clothing,2,2,2. $250-499,0,0.0,false
+"mules, faux leather or fur",mules,faux leather or fur,shoes,2,2,2. $250-499,0,0.0,false
+"blazer, faux leather or fur",blazer,faux leather or fur,clothing,2,2,2. $250-499,2,100.0,false
+"bikini, cotton",bikini,cotton,clothing,2,2,2. $250-499,1,50.0,false
+"shirt, suede",shirt,suede,clothing,2,2,2. $250-499,0,0.0,false
+"cardigan, silk",cardigan,silk,clothing,2,2,2. $250-499,0,0.0,false
+"skirt, plastic",skirt,plastic,clothing,2,2,2. $250-499,0,0.0,false
+"pants, other",pants,other,clothing,2,2,2. $250-499,0,0.0,false
+"gown, other",gown,other,clothing,2,2,2. $250-499,0,0.0,false
+"dress, suede",dress,suede,clothing,2,2,2. $250-499,0,0.0,false
+"trench coat, linen",trench coat,linen,clothing,2,2,2. $250-499,0,0.0,false
+"boots, cashmere",boots,cashmere,shoes,2,2,2. $250-499,0,0.0,false
+"pumps, linen",pumps,linen,shoes,2,2,2. $250-499,0,0.0,false
+"bra, cashmere",bra,cashmere,clothing,2,2,2. $250-499,1,50.0,false
+"vest, wood-based",vest,wood-based,clothing,2,2,2. $250-499,0,0.0,false
+"sweatshirt, linen",sweatshirt,linen,clothing,2,3,3. $500-999,1,50.0,false
+"sweater, linen",sweater,linen,clothing,2,3,3. $500-999,1,50.0,false
+"shorts, leather",shorts,leather,clothing,2,3,3. $500-999,1,50.0,false
+"blazer, other",blazer,other,clothing,2,3,3. $500-999,0,0.0,false
+"trench coat, faux leather or fur",trench coat,faux leather or fur,clothing,2,3,3. $500-999,1,50.0,false
+"sandals, silk",sandals,silk,shoes,2,3,3. $500-999,0,0.0,false
+"jumpsuit, faux leather or fur",jumpsuit,faux leather or fur,clothing,2,3,3. $500-999,1,50.0,false
+"jeans, down",jeans,down,clothing,2,3,3. $500-999,0,0.0,false
+"sweater, plastic",sweater,plastic,clothing,2,3,3. $500-999,0,0.0,false
+"set, wood-based",set,wood-based,clothing,2,3,3. $500-999,0,0.0,false
+"sneakers, other",sneakers,other,shoes,2,3,3. $500-999,0,0.0,false
+"bra, wool",bra,wool,clothing,2,3,3. $500-999,1,50.0,false
+"cardigan, other",cardigan,other,clothing,2,3,3. $500-999,0,0.0,false
+"trench coat, plastic",trench coat,plastic,clothing,2,3,3. $500-999,0,0.0,false
+"coat, suede",coat,suede,clothing,2,3,3. $500-999,1,50.0,false
+"set, cashmere",set,cashmere,clothing,2,3,3. $500-999,0,0.0,false
+"skirt, down",skirt,down,clothing,2,3,3. $500-999,2,100.0,false
+"other, faux leather or fur",other,faux leather or fur,shoes,2,3,3. $500-999,1,50.0,false
+"mules, faux leather or fur",mules,faux leather or fur,shoes,2,3,3. $500-999,2,100.0,false
+"blazer, faux leather or fur",blazer,faux leather or fur,clothing,2,3,3. $500-999,0,0.0,false
+"shirt, suede",shirt,suede,clothing,2,3,3. $500-999,0,0.0,false
+"jumpsuit, cashmere",jumpsuit,cashmere,clothing,2,3,3. $500-999,1,50.0,false
+"cardigan, silk",cardigan,silk,clothing,2,3,3. $500-999,0,0.0,false
+"t-shirt, linen",t-shirt,linen,clothing,2,3,3. $500-999,0,0.0,false
+"skirt, plastic",skirt,plastic,clothing,2,3,3. $500-999,0,0.0,false
+"bikini, cotton",bikini,cotton,clothing,2,3,3. $500-999,1,50.0,false
+"pants, other",pants,other,clothing,2,3,3. $500-999,2,100.0,false
+"gown, other",gown,other,clothing,2,3,3. $500-999,1,50.0,false
+"pumps, linen",pumps,linen,shoes,2,3,3. $500-999,2,100.0,false
+"vest, wood-based",vest,wood-based,clothing,2,3,3. $500-999,1,50.0,false
+"dress, suede",dress,suede,clothing,2,3,3. $500-999,0,0.0,false
+"trench coat, linen",trench coat,linen,clothing,2,3,3. $500-999,0,0.0,false
+"bra, cashmere",bra,cashmere,clothing,2,3,3. $500-999,1,50.0,false
+"boots, cashmere",boots,cashmere,shoes,2,3,3. $500-999,0,0.0,false
+"sweater, linen",sweater,linen,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"sweatshirt, linen",sweatshirt,linen,clothing,2,4,"4. $1,000-2,499",1,50.0,false
+"jumpsuit, faux leather or fur",jumpsuit,faux leather or fur,clothing,2,4,"4. $1,000-2,499",1,50.0,false
+"jeans, down",jeans,down,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"coat, suede",coat,suede,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"set, wood-based",set,wood-based,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"set, cashmere",set,cashmere,clothing,2,4,"4. $1,000-2,499",2,100.0,false
+"bra, wool",bra,wool,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"sneakers, other",sneakers,other,shoes,2,4,"4. $1,000-2,499",2,100.0,false
+"sweater, plastic",sweater,plastic,clothing,2,4,"4. $1,000-2,499",1,50.0,false
+"blazer, other",blazer,other,clothing,2,4,"4. $1,000-2,499",2,100.0,false
+"trench coat, faux leather or fur",trench coat,faux leather or fur,clothing,2,4,"4. $1,000-2,499",1,50.0,false
+"trench coat, plastic",trench coat,plastic,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"cardigan, other",cardigan,other,clothing,2,4,"4. $1,000-2,499",2,100.0,false
+"sandals, silk",sandals,silk,shoes,2,4,"4. $1,000-2,499",2,100.0,false
+"shorts, leather",shorts,leather,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"bikini, cotton",bikini,cotton,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"t-shirt, linen",t-shirt,linen,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"mules, faux leather or fur",mules,faux leather or fur,shoes,2,4,"4. $1,000-2,499",0,0.0,false
+"blazer, faux leather or fur",blazer,faux leather or fur,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"skirt, down",skirt,down,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"cardigan, silk",cardigan,silk,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"shirt, suede",shirt,suede,clothing,2,4,"4. $1,000-2,499",2,100.0,false
+"jumpsuit, cashmere",jumpsuit,cashmere,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"other, faux leather or fur",other,faux leather or fur,shoes,2,4,"4. $1,000-2,499",1,50.0,false
+"skirt, plastic",skirt,plastic,clothing,2,4,"4. $1,000-2,499",1,50.0,false
+"pants, other",pants,other,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"gown, other",gown,other,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"trench coat, linen",trench coat,linen,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"dress, suede",dress,suede,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"pumps, linen",pumps,linen,shoes,2,4,"4. $1,000-2,499",0,0.0,false
+"bra, cashmere",bra,cashmere,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"vest, wood-based",vest,wood-based,clothing,2,4,"4. $1,000-2,499",0,0.0,false
+"boots, cashmere",boots,cashmere,shoes,2,4,"4. $1,000-2,499",2,100.0,false
+"sweater, linen",sweater,linen,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"sweatshirt, linen",sweatshirt,linen,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"jumpsuit, faux leather or fur",jumpsuit,faux leather or fur,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"jeans, down",jeans,down,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"bra, wool",bra,wool,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"sweater, plastic",sweater,plastic,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"shorts, leather",shorts,leather,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"sneakers, other",sneakers,other,shoes,2,5,"5. $2,500-4,999",0,0.0,false
+"blazer, other",blazer,other,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"trench coat, faux leather or fur",trench coat,faux leather or fur,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"trench coat, plastic",trench coat,plastic,clothing,2,5,"5. $2,500-4,999",2,100.0,false
+"coat, suede",coat,suede,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"set, wood-based",set,wood-based,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"set, cashmere",set,cashmere,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"cardigan, other",cardigan,other,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"sandals, silk",sandals,silk,shoes,2,5,"5. $2,500-4,999",0,0.0,false
+"jumpsuit, cashmere",jumpsuit,cashmere,clothing,2,5,"5. $2,500-4,999",1,50.0,false
+"skirt, plastic",skirt,plastic,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"skirt, down",skirt,down,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"mules, faux leather or fur",mules,faux leather or fur,shoes,2,5,"5. $2,500-4,999",0,0.0,false
+"blazer, faux leather or fur",blazer,faux leather or fur,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"bikini, cotton",bikini,cotton,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"cardigan, silk",cardigan,silk,clothing,2,5,"5. $2,500-4,999",2,100.0,false
+"t-shirt, linen",t-shirt,linen,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"shirt, suede",shirt,suede,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"other, faux leather or fur",other,faux leather or fur,shoes,2,5,"5. $2,500-4,999",0,0.0,false
+"gown, other",gown,other,clothing,2,5,"5. $2,500-4,999",1,50.0,false
+"pants, other",pants,other,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"trench coat, linen",trench coat,linen,clothing,2,5,"5. $2,500-4,999",2,100.0,false
+"dress, suede",dress,suede,clothing,2,5,"5. $2,500-4,999",1,50.0,false
+"vest, wood-based",vest,wood-based,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"bra, cashmere",bra,cashmere,clothing,2,5,"5. $2,500-4,999",0,0.0,false
+"boots, cashmere",boots,cashmere,shoes,2,5,"5. $2,500-4,999",0,0.0,false
+"pumps, linen",pumps,linen,shoes,2,5,"5. $2,500-4,999",0,0.0,false
+"sweatshirt, linen",sweatshirt,linen,clothing,2,6,"6. $5,000+",0,0.0,false
+"sweater, linen",sweater,linen,clothing,2,6,"6. $5,000+",0,0.0,false
+"cardigan, other",cardigan,other,clothing,2,6,"6. $5,000+",0,0.0,false
+"coat, suede",coat,suede,clothing,2,6,"6. $5,000+",1,50.0,false
+"set, cashmere",set,cashmere,clothing,2,6,"6. $5,000+",0,0.0,false
+"bra, wool",bra,wool,clothing,2,6,"6. $5,000+",0,0.0,false
+"jumpsuit, faux leather or fur",jumpsuit,faux leather or fur,clothing,2,6,"6. $5,000+",0,0.0,false
+"shorts, leather",shorts,leather,clothing,2,6,"6. $5,000+",0,0.0,false
+"sweater, plastic",sweater,plastic,clothing,2,6,"6. $5,000+",0,0.0,false
+"jeans, down",jeans,down,clothing,2,6,"6. $5,000+",0,0.0,false
+"blazer, other",blazer,other,clothing,2,6,"6. $5,000+",0,0.0,false
+"trench coat, faux leather or fur",trench coat,faux leather or fur,clothing,2,6,"6. $5,000+",0,0.0,false
+"sneakers, other",sneakers,other,shoes,2,6,"6. $5,000+",0,0.0,false
+"trench coat, plastic",trench coat,plastic,clothing,2,6,"6. $5,000+",0,0.0,false
+"set, wood-based",set,wood-based,clothing,2,6,"6. $5,000+",0,0.0,false
+"sandals, silk",sandals,silk,shoes,2,6,"6. $5,000+",0,0.0,false
+"other, faux leather or fur",other,faux leather or fur,shoes,2,6,"6. $5,000+",0,0.0,false
+"skirt, plastic",skirt,plastic,clothing,2,6,"6. $5,000+",1,50.0,false
+"skirt, down",skirt,down,clothing,2,6,"6. $5,000+",0,0.0,false
+"blazer, faux leather or fur",blazer,faux leather or fur,clothing,2,6,"6. $5,000+",0,0.0,false
+"bikini, cotton",bikini,cotton,clothing,2,6,"6. $5,000+",0,0.0,false
+"jumpsuit, cashmere",jumpsuit,cashmere,clothing,2,6,"6. $5,000+",0,0.0,false
+"t-shirt, linen",t-shirt,linen,clothing,2,6,"6. $5,000+",0,0.0,false
+"cardigan, silk",cardigan,silk,clothing,2,6,"6. $5,000+",0,0.0,false
+"shirt, suede",shirt,suede,clothing,2,6,"6. $5,000+",0,0.0,false
+"mules, faux leather or fur",mules,faux leather or fur,shoes,2,6,"6. $5,000+",0,0.0,false
+"pants, other",pants,other,clothing,2,6,"6. $5,000+",0,0.0,false
+"gown, other",gown,other,clothing,2,6,"6. $5,000+",0,0.0,false
+"dress, suede",dress,suede,clothing,2,6,"6. $5,000+",1,50.0,false
+"vest, wood-based",vest,wood-based,clothing,2,6,"6. $5,000+",0,0.0,false
+"boots, cashmere",boots,cashmere,shoes,2,6,"6. $5,000+",0,0.0,false
+"pumps, linen",pumps,linen,shoes,2,6,"6. $5,000+",0,0.0,false
+"bra, cashmere",bra,cashmere,clothing,2,6,"6. $5,000+",0,0.0,false
+"trench coat, linen",trench coat,linen,clothing,2,6,"6. $5,000+",0,0.0,false
+"bikini, wood-based",bikini,wood-based,clothing,1,1,1. Under $250,0,0.0,false
+"blazer, wood-based",blazer,wood-based,clothing,1,1,1. Under $250,0,0.0,false
+"pants, plastic",pants,plastic,clothing,1,1,1. Under $250,0,0.0,false
+"jumpsuit, other",jumpsuit,other,clothing,1,1,1. Under $250,0,0.0,false
+"other, plastic",other,plastic,shoes,1,1,1. Under $250,1,100.0,false
+"cardigan, wood-based",cardigan,wood-based,clothing,1,1,1. Under $250,0,0.0,false
+"leggings, suede",leggings,suede,clothing,1,1,1. Under $250,0,0.0,false
+"shorts, cashmere",shorts,cashmere,clothing,1,1,1. Under $250,0,0.0,false
+"underwear, cashmere",underwear,cashmere,clothing,1,1,1. Under $250,0,0.0,false
+"bodysuit, cashmere",bodysuit,cashmere,clothing,1,1,1. Under $250,0,0.0,false
+"jacket, wood-based",jacket,wood-based,clothing,1,1,1. Under $250,0,0.0,false
+"jacket, plastic",jacket,plastic,clothing,1,1,1. Under $250,0,0.0,false
+"bodysuit, leather",bodysuit,leather,clothing,1,1,1. Under $250,1,100.0,false
+"sneakers, cashmere",sneakers,cashmere,shoes,1,1,1. Under $250,0,0.0,false
+"bodysuit, suede",bodysuit,suede,clothing,1,1,1. Under $250,0,0.0,false
+"t-shirt, other",t-shirt,other,clothing,1,1,1. Under $250,0,0.0,false
+"jeans, leather",jeans,leather,clothing,1,1,1. Under $250,0,0.0,false
+"trench coat, suede",trench coat,suede,clothing,1,1,1. Under $250,0,0.0,false
+"boots, cotton",boots,cotton,shoes,1,1,1. Under $250,0,0.0,false
+"other, linen",other,linen,shoes,1,1,1. Under $250,0,0.0,false
+"leggings, silk",leggings,silk,clothing,1,1,1. Under $250,0,0.0,false
+"pumps, faux leather or fur",pumps,faux leather or fur,shoes,1,1,1. Under $250,0,0.0,false
+"trench coat, other",trench coat,other,clothing,1,1,1. Under $250,0,0.0,false
+"bra, linen",bra,linen,clothing,1,1,1. Under $250,1,100.0,false
+"flats, cotton",flats,cotton,shoes,1,1,1. Under $250,0,0.0,false
+"jumpsuit, leather",jumpsuit,leather,clothing,1,1,1. Under $250,0,0.0,false
+"sandals, linen",sandals,linen,shoes,1,1,1. Under $250,0,0.0,false
+"loafers, linen",loafers,linen,shoes,1,1,1. Under $250,0,0.0,false
+"blazer, suede",blazer,suede,clothing,1,1,1. Under $250,0,0.0,false
+"loafers, other",loafers,other,shoes,1,1,1. Under $250,0,0.0,false
+"shirt, other",shirt,other,clothing,1,1,1. Under $250,0,0.0,false
+"gown, wood-based",gown,wood-based,clothing,1,1,1. Under $250,0,0.0,false
+"set, wool",set,wool,clothing,1,1,1. Under $250,0,0.0,false
+"t-shirt, silk",t-shirt,silk,clothing,1,1,1. Under $250,0,0.0,false
+"gown, cashmere",gown,cashmere,clothing,1,1,1. Under $250,0,0.0,false
+"sweatshirt, faux leather or fur",sweatshirt,faux leather or fur,clothing,1,1,1. Under $250,0,0.0,false
+"trench coat, silk",trench coat,silk,clothing,1,1,1. Under $250,0,0.0,false
+"other, wood-based",other,wood-based,clothing,1,1,1. Under $250,1,100.0,false
+"jeans, cashmere",jeans,cashmere,clothing,1,1,1. Under $250,0,0.0,false
+"t-shirt, faux leather or fur",t-shirt,faux leather or fur,clothing,1,1,1. Under $250,0,0.0,false
+"gown, linen",gown,linen,clothing,1,1,1. Under $250,0,0.0,false
+"shorts, mohair or alpaca",shorts,mohair or alpaca,clothing,1,1,1. Under $250,0,0.0,false
+"set, cotton",set,cotton,clothing,1,1,1. Under $250,1,100.0,false
+"cardigan, linen",cardigan,linen,clothing,1,1,1. Under $250,0,0.0,false
+"top, plastic",top,plastic,clothing,1,1,1. Under $250,0,0.0,false
+"leggings, cashmere",leggings,cashmere,clothing,1,1,1. Under $250,0,0.0,false
+"underwear, wool",underwear,wool,clothing,1,1,1. Under $250,1,100.0,false
+"jeans, wool",jeans,wool,clothing,1,1,1. Under $250,0,0.0,false
+"flats, faux leather or fur",flats,faux leather or fur,shoes,1,1,1. Under $250,0,0.0,false
+"shirt, faux leather or fur",shirt,faux leather or fur,clothing,1,1,1. Under $250,0,0.0,false
+"top, other",top,other,clothing,1,1,1. Under $250,0,0.0,false
+"flats, other",flats,other,shoes,1,1,1. Under $250,0,0.0,false
+"top, faux leather or fur",top,faux leather or fur,clothing,1,1,1. Under $250,0,0.0,false
+"blazer, wood-based",blazer,wood-based,clothing,1,2,2. $250-499,1,100.0,false
+"bikini, wood-based",bikini,wood-based,clothing,1,2,2. $250-499,1,100.0,false
+"jumpsuit, other",jumpsuit,other,clothing,1,2,2. $250-499,1,100.0,false
+"pants, plastic",pants,plastic,clothing,1,2,2. $250-499,0,0.0,false
+"pumps, faux leather or fur",pumps,faux leather or fur,shoes,1,2,2. $250-499,0,0.0,false
+"leggings, suede",leggings,suede,clothing,1,2,2. $250-499,0,0.0,false
+"bodysuit, leather",bodysuit,leather,clothing,1,2,2. $250-499,0,0.0,false
+"jacket, plastic",jacket,plastic,clothing,1,2,2. $250-499,0,0.0,false
+"cardigan, wood-based",cardigan,wood-based,clothing,1,2,2. $250-499,0,0.0,false
+"trench coat, suede",trench coat,suede,clothing,1,2,2. $250-499,0,0.0,false
+"boots, cotton",boots,cotton,shoes,1,2,2. $250-499,0,0.0,false
+"bodysuit, cashmere",bodysuit,cashmere,clothing,1,2,2. $250-499,1,100.0,false
+"bodysuit, suede",bodysuit,suede,clothing,1,2,2. $250-499,0,0.0,false
+"underwear, cashmere",underwear,cashmere,clothing,1,2,2. $250-499,1,100.0,false
+"sneakers, cashmere",sneakers,cashmere,shoes,1,2,2. $250-499,0,0.0,false
+"trench coat, other",trench coat,other,clothing,1,2,2. $250-499,0,0.0,false
+"jeans, leather",jeans,leather,clothing,1,2,2. $250-499,1,100.0,false
+"jacket, wood-based",jacket,wood-based,clothing,1,2,2. $250-499,0,0.0,false
+"t-shirt, other",t-shirt,other,clothing,1,2,2. $250-499,1,100.0,false
+"shorts, cashmere",shorts,cashmere,clothing,1,2,2. $250-499,0,0.0,false
+"leggings, silk",leggings,silk,clothing,1,2,2. $250-499,0,0.0,false
+"other, plastic",other,plastic,shoes,1,2,2. $250-499,0,0.0,false
+"other, linen",other,linen,shoes,1,2,2. $250-499,0,0.0,false
+"sandals, linen",sandals,linen,shoes,1,2,2. $250-499,1,100.0,false
+"set, wool",set,wool,clothing,1,2,2. $250-499,0,0.0,false
+"jeans, cashmere",jeans,cashmere,clothing,1,2,2. $250-499,0,0.0,false
+"flats, cotton",flats,cotton,shoes,1,2,2. $250-499,0,0.0,false
+"bra, linen",bra,linen,clothing,1,2,2. $250-499,0,0.0,false
+"loafers, other",loafers,other,shoes,1,2,2. $250-499,0,0.0,false
+"gown, cashmere",gown,cashmere,clothing,1,2,2. $250-499,0,0.0,false
+"other, wood-based",other,wood-based,clothing,1,2,2. $250-499,0,0.0,false
+"sweatshirt, faux leather or fur",sweatshirt,faux leather or fur,clothing,1,2,2. $250-499,0,0.0,false
+"trench coat, silk",trench coat,silk,clothing,1,2,2. $250-499,0,0.0,false
+"t-shirt, silk",t-shirt,silk,clothing,1,2,2. $250-499,0,0.0,false
+"jumpsuit, leather",jumpsuit,leather,clothing,1,2,2. $250-499,0,0.0,false
+"t-shirt, faux leather or fur",t-shirt,faux leather or fur,clothing,1,2,2. $250-499,1,100.0,false
+"shirt, other",shirt,other,clothing,1,2,2. $250-499,1,100.0,false
+"gown, wood-based",gown,wood-based,clothing,1,2,2. $250-499,0,0.0,false
+"blazer, suede",blazer,suede,clothing,1,2,2. $250-499,0,0.0,false
+"loafers, linen",loafers,linen,shoes,1,2,2. $250-499,0,0.0,false
+"leggings, cashmere",leggings,cashmere,clothing,1,2,2. $250-499,0,0.0,false
+"gown, linen",gown,linen,clothing,1,2,2. $250-499,0,0.0,false
+"top, plastic",top,plastic,clothing,1,2,2. $250-499,1,100.0,false
+"set, cotton",set,cotton,clothing,1,2,2. $250-499,0,0.0,false
+"cardigan, linen",cardigan,linen,clothing,1,2,2. $250-499,0,0.0,false
+"shorts, mohair or alpaca",shorts,mohair or alpaca,clothing,1,2,2. $250-499,0,0.0,false
+"top, faux leather or fur",top,faux leather or fur,clothing,1,2,2. $250-499,1,100.0,false
+"shirt, faux leather or fur",shirt,faux leather or fur,clothing,1,2,2. $250-499,0,0.0,false
+"flats, other",flats,other,shoes,1,2,2. $250-499,1,100.0,false
+"top, other",top,other,clothing,1,2,2. $250-499,0,0.0,false
+"flats, faux leather or fur",flats,faux leather or fur,shoes,1,2,2. $250-499,1,100.0,false
+"jeans, wool",jeans,wool,clothing,1,2,2. $250-499,0,0.0,false
+"underwear, wool",underwear,wool,clothing,1,2,2. $250-499,0,0.0,false
+"bikini, wood-based",bikini,wood-based,clothing,1,3,3. $500-999,0,0.0,false
+"jumpsuit, other",jumpsuit,other,clothing,1,3,3. $500-999,0,0.0,false
+"blazer, wood-based",blazer,wood-based,clothing,1,3,3. $500-999,0,0.0,false
+"pants, plastic",pants,plastic,clothing,1,3,3. $500-999,1,100.0,false
+"trench coat, suede",trench coat,suede,clothing,1,3,3. $500-999,0,0.0,false
+"sneakers, cashmere",sneakers,cashmere,shoes,1,3,3. $500-999,0,0.0,false
+"boots, cotton",boots,cotton,shoes,1,3,3. $500-999,0,0.0,false
+"shorts, cashmere",shorts,cashmere,clothing,1,3,3. $500-999,0,0.0,false
+"leggings, suede",leggings,suede,clothing,1,3,3. $500-999,0,0.0,false
+"other, linen",other,linen,shoes,1,3,3. $500-999,1,100.0,false
+"bodysuit, cashmere",bodysuit,cashmere,clothing,1,3,3. $500-999,0,0.0,false
+"trench coat, other",trench coat,other,clothing,1,3,3. $500-999,0,0.0,false
+"pumps, faux leather or fur",pumps,faux leather or fur,shoes,1,3,3. $500-999,1,100.0,false
+"leggings, silk",leggings,silk,clothing,1,3,3. $500-999,0,0.0,false
+"t-shirt, other",t-shirt,other,clothing,1,3,3. $500-999,0,0.0,false
+"cardigan, wood-based",cardigan,wood-based,clothing,1,3,3. $500-999,0,0.0,false
+"jeans, leather",jeans,leather,clothing,1,3,3. $500-999,0,0.0,false
+"bodysuit, suede",bodysuit,suede,clothing,1,3,3. $500-999,0,0.0,false
+"jacket, plastic",jacket,plastic,clothing,1,3,3. $500-999,0,0.0,false
+"other, plastic",other,plastic,shoes,1,3,3. $500-999,0,0.0,false
+"underwear, cashmere",underwear,cashmere,clothing,1,3,3. $500-999,0,0.0,false
+"jacket, wood-based",jacket,wood-based,clothing,1,3,3. $500-999,0,0.0,false
+"bodysuit, leather",bodysuit,leather,clothing,1,3,3. $500-999,0,0.0,false
+"bra, linen",bra,linen,clothing,1,3,3. $500-999,0,0.0,false
+"jumpsuit, leather",jumpsuit,leather,clothing,1,3,3. $500-999,0,0.0,false
+"blazer, suede",blazer,suede,clothing,1,3,3. $500-999,0,0.0,false
+"other, wood-based",other,wood-based,clothing,1,3,3. $500-999,0,0.0,false
+"sweatshirt, faux leather or fur",sweatshirt,faux leather or fur,clothing,1,3,3. $500-999,0,0.0,false
+"trench coat, silk",trench coat,silk,clothing,1,3,3. $500-999,0,0.0,false
+"loafers, linen",loafers,linen,shoes,1,3,3. $500-999,1,100.0,false
+"loafers, other",loafers,other,shoes,1,3,3. $500-999,1,100.0,false
+"set, wool",set,wool,clothing,1,3,3. $500-999,1,100.0,false
+"flats, cotton",flats,cotton,shoes,1,3,3. $500-999,1,100.0,false
+"shirt, other",shirt,other,clothing,1,3,3. $500-999,0,0.0,false
+"sandals, linen",sandals,linen,shoes,1,3,3. $500-999,0,0.0,false
+"t-shirt, faux leather or fur",t-shirt,faux leather or fur,clothing,1,3,3. $500-999,0,0.0,false
+"jeans, cashmere",jeans,cashmere,clothing,1,3,3. $500-999,0,0.0,false
+"gown, cashmere",gown,cashmere,clothing,1,3,3. $500-999,0,0.0,false
+"gown, wood-based",gown,wood-based,clothing,1,3,3. $500-999,0,0.0,false
+"t-shirt, silk",t-shirt,silk,clothing,1,3,3. $500-999,0,0.0,false
+"gown, linen",gown,linen,clothing,1,3,3. $500-999,1,100.0,false
+"set, cotton",set,cotton,clothing,1,3,3. $500-999,0,0.0,false
+"top, plastic",top,plastic,clothing,1,3,3. $500-999,0,0.0,false
+"cardigan, linen",cardigan,linen,clothing,1,3,3. $500-999,0,0.0,false
+"leggings, cashmere",leggings,cashmere,clothing,1,3,3. $500-999,0,0.0,false
+"shorts, mohair or alpaca",shorts,mohair or alpaca,clothing,1,3,3. $500-999,0,0.0,false
+"jeans, wool",jeans,wool,clothing,1,3,3. $500-999,1,100.0,false
+"flats, other",flats,other,shoes,1,3,3. $500-999,0,0.0,false
+"top, faux leather or fur",top,faux leather or fur,clothing,1,3,3. $500-999,0,0.0,false
+"shirt, faux leather or fur",shirt,faux leather or fur,clothing,1,3,3. $500-999,1,100.0,false
+"flats, faux leather or fur",flats,faux leather or fur,shoes,1,3,3. $500-999,0,0.0,false
+"underwear, wool",underwear,wool,clothing,1,3,3. $500-999,0,0.0,false
+"top, other",top,other,clothing,1,3,3. $500-999,0,0.0,false
+"bikini, wood-based",bikini,wood-based,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"blazer, wood-based",blazer,wood-based,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"jumpsuit, other",jumpsuit,other,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"pants, plastic",pants,plastic,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"sneakers, cashmere",sneakers,cashmere,shoes,1,4,"4. $1,000-2,499",1,100.0,false
+"underwear, cashmere",underwear,cashmere,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"shorts, cashmere",shorts,cashmere,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"bodysuit, suede",bodysuit,suede,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"leggings, silk",leggings,silk,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"jeans, leather",jeans,leather,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"other, linen",other,linen,shoes,1,4,"4. $1,000-2,499",0,0.0,false
+"t-shirt, other",t-shirt,other,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"jacket, plastic",jacket,plastic,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"boots, cotton",boots,cotton,shoes,1,4,"4. $1,000-2,499",1,100.0,false
+"bodysuit, cashmere",bodysuit,cashmere,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"cardigan, wood-based",cardigan,wood-based,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"trench coat, suede",trench coat,suede,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"pumps, faux leather or fur",pumps,faux leather or fur,shoes,1,4,"4. $1,000-2,499",0,0.0,false
+"jacket, wood-based",jacket,wood-based,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"bodysuit, leather",bodysuit,leather,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"trench coat, other",trench coat,other,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"leggings, suede",leggings,suede,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"other, plastic",other,plastic,shoes,1,4,"4. $1,000-2,499",0,0.0,false
+"gown, cashmere",gown,cashmere,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"other, wood-based",other,wood-based,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"jeans, cashmere",jeans,cashmere,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"sweatshirt, faux leather or fur",sweatshirt,faux leather or fur,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"trench coat, silk",trench coat,silk,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"bra, linen",bra,linen,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"shirt, other",shirt,other,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"t-shirt, silk",t-shirt,silk,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"set, wool",set,wool,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"gown, wood-based",gown,wood-based,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"jumpsuit, leather",jumpsuit,leather,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"sandals, linen",sandals,linen,shoes,1,4,"4. $1,000-2,499",0,0.0,false
+"loafers, linen",loafers,linen,shoes,1,4,"4. $1,000-2,499",0,0.0,false
+"t-shirt, faux leather or fur",t-shirt,faux leather or fur,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"loafers, other",loafers,other,shoes,1,4,"4. $1,000-2,499",0,0.0,false
+"blazer, suede",blazer,suede,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"flats, cotton",flats,cotton,shoes,1,4,"4. $1,000-2,499",0,0.0,false
+"leggings, cashmere",leggings,cashmere,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"shorts, mohair or alpaca",shorts,mohair or alpaca,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"gown, linen",gown,linen,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"cardigan, linen",cardigan,linen,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"set, cotton",set,cotton,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"top, plastic",top,plastic,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"underwear, wool",underwear,wool,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"flats, other",flats,other,shoes,1,4,"4. $1,000-2,499",0,0.0,false
+"top, faux leather or fur",top,faux leather or fur,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"flats, faux leather or fur",flats,faux leather or fur,shoes,1,4,"4. $1,000-2,499",0,0.0,false
+"top, other",top,other,clothing,1,4,"4. $1,000-2,499",1,100.0,false
+"shirt, faux leather or fur",shirt,faux leather or fur,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"jeans, wool",jeans,wool,clothing,1,4,"4. $1,000-2,499",0,0.0,false
+"pants, plastic",pants,plastic,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"bikini, wood-based",bikini,wood-based,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"jumpsuit, other",jumpsuit,other,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"blazer, wood-based",blazer,wood-based,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"sneakers, cashmere",sneakers,cashmere,shoes,1,5,"5. $2,500-4,999",0,0.0,false
+"trench coat, suede",trench coat,suede,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"leggings, suede",leggings,suede,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"jacket, wood-based",jacket,wood-based,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"other, plastic",other,plastic,shoes,1,5,"5. $2,500-4,999",0,0.0,false
+"leggings, silk",leggings,silk,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"underwear, cashmere",underwear,cashmere,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"t-shirt, other",t-shirt,other,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"other, linen",other,linen,shoes,1,5,"5. $2,500-4,999",0,0.0,false
+"boots, cotton",boots,cotton,shoes,1,5,"5. $2,500-4,999",0,0.0,false
+"bodysuit, suede",bodysuit,suede,clothing,1,5,"5. $2,500-4,999",1,100.0,false
+"cardigan, wood-based",cardigan,wood-based,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"jacket, plastic",jacket,plastic,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"trench coat, other",trench coat,other,clothing,1,5,"5. $2,500-4,999",1,100.0,false
+"shorts, cashmere",shorts,cashmere,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"pumps, faux leather or fur",pumps,faux leather or fur,shoes,1,5,"5. $2,500-4,999",0,0.0,false
+"bodysuit, cashmere",bodysuit,cashmere,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"bodysuit, leather",bodysuit,leather,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"jeans, leather",jeans,leather,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"sweatshirt, faux leather or fur",sweatshirt,faux leather or fur,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"jeans, cashmere",jeans,cashmere,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"flats, cotton",flats,cotton,shoes,1,5,"5. $2,500-4,999",0,0.0,false
+"trench coat, silk",trench coat,silk,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"other, wood-based",other,wood-based,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"blazer, suede",blazer,suede,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"t-shirt, faux leather or fur",t-shirt,faux leather or fur,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"jumpsuit, leather",jumpsuit,leather,clothing,1,5,"5. $2,500-4,999",1,100.0,false
+"sandals, linen",sandals,linen,shoes,1,5,"5. $2,500-4,999",0,0.0,false
+"loafers, linen",loafers,linen,shoes,1,5,"5. $2,500-4,999",0,0.0,false
+"set, wool",set,wool,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"t-shirt, silk",t-shirt,silk,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"gown, wood-based",gown,wood-based,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"loafers, other",loafers,other,shoes,1,5,"5. $2,500-4,999",0,0.0,false
+"bra, linen",bra,linen,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"gown, cashmere",gown,cashmere,clothing,1,5,"5. $2,500-4,999",1,100.0,false
+"shirt, other",shirt,other,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"cardigan, linen",cardigan,linen,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"shorts, mohair or alpaca",shorts,mohair or alpaca,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"leggings, cashmere",leggings,cashmere,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"gown, linen",gown,linen,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"set, cotton",set,cotton,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"top, plastic",top,plastic,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"top, other",top,other,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"shirt, faux leather or fur",shirt,faux leather or fur,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"flats, other",flats,other,shoes,1,5,"5. $2,500-4,999",0,0.0,false
+"top, faux leather or fur",top,faux leather or fur,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"flats, faux leather or fur",flats,faux leather or fur,shoes,1,5,"5. $2,500-4,999",0,0.0,false
+"jeans, wool",jeans,wool,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"underwear, wool",underwear,wool,clothing,1,5,"5. $2,500-4,999",0,0.0,false
+"bikini, wood-based",bikini,wood-based,clothing,1,6,"6. $5,000+",0,0.0,false
+"pants, plastic",pants,plastic,clothing,1,6,"6. $5,000+",0,0.0,false
+"jumpsuit, other",jumpsuit,other,clothing,1,6,"6. $5,000+",0,0.0,false
+"blazer, wood-based",blazer,wood-based,clothing,1,6,"6. $5,000+",0,0.0,false
+"bodysuit, leather",bodysuit,leather,clothing,1,6,"6. $5,000+",0,0.0,false
+"pumps, faux leather or fur",pumps,faux leather or fur,shoes,1,6,"6. $5,000+",0,0.0,false
+"trench coat, suede",trench coat,suede,clothing,1,6,"6. $5,000+",1,100.0,false
+"cardigan, wood-based",cardigan,wood-based,clothing,1,6,"6. $5,000+",0,0.0,false
+"jacket, plastic",jacket,plastic,clothing,1,6,"6. $5,000+",0,0.0,false
+"bodysuit, cashmere",bodysuit,cashmere,clothing,1,6,"6. $5,000+",0,0.0,false
+"other, linen",other,linen,shoes,1,6,"6. $5,000+",0,0.0,false
+"t-shirt, other",t-shirt,other,clothing,1,6,"6. $5,000+",0,0.0,false
+"jacket, wood-based",jacket,wood-based,clothing,1,6,"6. $5,000+",0,0.0,false
+"boots, cotton",boots,cotton,shoes,1,6,"6. $5,000+",0,0.0,false
+"underwear, cashmere",underwear,cashmere,clothing,1,6,"6. $5,000+",0,0.0,false
+"leggings, silk",leggings,silk,clothing,1,6,"6. $5,000+",0,0.0,false
+"other, plastic",other,plastic,shoes,1,6,"6. $5,000+",0,0.0,false
+"shorts, cashmere",shorts,cashmere,clothing,1,6,"6. $5,000+",0,0.0,false
+"jeans, leather",jeans,leather,clothing,1,6,"6. $5,000+",0,0.0,false
+"sneakers, cashmere",sneakers,cashmere,shoes,1,6,"6. $5,000+",0,0.0,false
+"leggings, suede",leggings,suede,clothing,1,6,"6. $5,000+",0,0.0,false
+"bodysuit, suede",bodysuit,suede,clothing,1,6,"6. $5,000+",0,0.0,false
+"trench coat, other",trench coat,other,clothing,1,6,"6. $5,000+",0,0.0,false
+"jeans, cashmere",jeans,cashmere,clothing,1,6,"6. $5,000+",0,0.0,false
+"shirt, other",shirt,other,clothing,1,6,"6. $5,000+",0,0.0,false
+"loafers, other",loafers,other,shoes,1,6,"6. $5,000+",0,0.0,false
+"bra, linen",bra,linen,clothing,1,6,"6. $5,000+",0,0.0,false
+"gown, cashmere",gown,cashmere,clothing,1,6,"6. $5,000+",0,0.0,false
+"sweatshirt, faux leather or fur",sweatshirt,faux leather or fur,clothing,1,6,"6. $5,000+",0,0.0,false
+"flats, cotton",flats,cotton,shoes,1,6,"6. $5,000+",0,0.0,false
+"gown, wood-based",gown,wood-based,clothing,1,6,"6. $5,000+",0,0.0,false
+"t-shirt, silk",t-shirt,silk,clothing,1,6,"6. $5,000+",0,0.0,false
+"set, wool",set,wool,clothing,1,6,"6. $5,000+",0,0.0,false
+"other, wood-based",other,wood-based,clothing,1,6,"6. $5,000+",0,0.0,false
+"trench coat, silk",trench coat,silk,clothing,1,6,"6. $5,000+",0,0.0,false
+"sandals, linen",sandals,linen,shoes,1,6,"6. $5,000+",0,0.0,false
+"t-shirt, faux leather or fur",t-shirt,faux leather or fur,clothing,1,6,"6. $5,000+",0,0.0,false
+"blazer, suede",blazer,suede,clothing,1,6,"6. $5,000+",1,100.0,false
+"jumpsuit, leather",jumpsuit,leather,clothing,1,6,"6. $5,000+",0,0.0,false
+"loafers, linen",loafers,linen,shoes,1,6,"6. $5,000+",0,0.0,false
+"gown, linen",gown,linen,clothing,1,6,"6. $5,000+",0,0.0,false
+"leggings, cashmere",leggings,cashmere,clothing,1,6,"6. $5,000+",0,0.0,false
+"set, cotton",set,cotton,clothing,1,6,"6. $5,000+",0,0.0,false
+"top, plastic",top,plastic,clothing,1,6,"6. $5,000+",0,0.0,false
+"cardigan, linen",cardigan,linen,clothing,1,6,"6. $5,000+",0,0.0,false
+"shorts, mohair or alpaca",shorts,mohair or alpaca,clothing,1,6,"6. $5,000+",0,0.0,false
+"flats, other",flats,other,shoes,1,6,"6. $5,000+",0,0.0,false
+"top, faux leather or fur",top,faux leather or fur,clothing,1,6,"6. $5,000+",0,0.0,false
+"shirt, faux leather or fur",shirt,faux leather or fur,clothing,1,6,"6. $5,000+",0,0.0,false
+"flats, faux leather or fur",flats,faux leather or fur,shoes,1,6,"6. $5,000+",0,0.0,false
+"top, other",top,other,clothing,1,6,"6. $5,000+",0,0.0,false
+"jeans, wool",jeans,wool,clothing,1,6,"6. $5,000+",0,0.0,false
+"underwear, wool",underwear,wool,clothing,1,6,"6. $5,000+",0,0.0,false
